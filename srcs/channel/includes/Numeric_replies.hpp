@@ -6,7 +6,7 @@
 /*   By: lleciak <lleciak@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/12/12 09:02:30 by lleciak           #+#    #+#             */
-/*   Updated: 2024/12/12 09:08:10 by lleciak          ###   ########.fr       */
+/*   Updated: 2024/12/12 09:24:49 by lleciak          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -24,6 +24,8 @@
 
 #ifndef NUMERIC_REPLIES_HPP
 # define NUMERIC_REPLIES_HPP
+
+# define TEST_DE_BRANCHE 22
 
 # define RPL_ISUPPORT 005
 # define RPL_AWAY 301
