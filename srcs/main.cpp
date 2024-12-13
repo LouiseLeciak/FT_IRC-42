@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   main.cpp                                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: tauer <tauer@student.42.fr>                +#+  +:+       +#+        */
+/*   By: lleciak <lleciak@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/12/04 01:17:22 by tauer             #+#    #+#             */
-/*   Updated: 2024/12/05 02:04:26 by tauer            ###   ########.fr       */
+/*   Updated: 2024/12/13 09:34:33 by lleciak          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -20,8 +20,8 @@ int	main(int argc, char **argv)
 	Server S(atoi(argv[1]));
 	try
 	{
-		signal(SIGINT, Server::SignalHandler);
-		signal(SIGQUIT, Server::SignalHandler);
+		signal(SIGINT, Server::SignalHandler); // catch ctrl c
+		signal(SIGQUIT, Server::SignalHandler); // catch ctrl "\"
 		S.Run();
 	}
 	catch (std::exception &e)

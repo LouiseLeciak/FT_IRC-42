@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   server.hpp                                         :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: tauer <tauer@student.42.fr>                +#+  +:+       +#+        */
+/*   By: lleciak <lleciak@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/12/04 01:22:25 by tauer             #+#    #+#             */
-/*   Updated: 2024/12/05 02:52:18 by tauer            ###   ########.fr       */
+/*   Updated: 2024/12/13 09:33:22 by lleciak          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -46,10 +46,10 @@ class Server {
 		
 		static bool _Signal;
 
-		std::vector<Client> clients;
-		std::vector<Channel> channels;
+		std::vector<Client> clients; // vector de client
+		std::vector<Channel> channels; // vector de channels
 
-		std::vector<struct pollfd> fds;
+		std::vector<struct pollfd> fds; // vector de pollfd
 
 	public :
 		//! constructors
@@ -78,8 +78,9 @@ class Server {
 		static void SignalHandler(int signum);
 
 		//?cleaning
-		void	CloseFds();
-		void	ClearClients(int fd);
+		void	CloseFds(); // close le file descriptor 
+		void	ClearClients(int fd); // clear le client
+		// on l'enleve du pollfd puis du vector
 
 
 		//utils
