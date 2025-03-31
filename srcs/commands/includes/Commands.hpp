@@ -6,7 +6,7 @@
 /*   By: lleciak <lleciak@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/12/12 11:11:32 by lleciak           #+#    #+#             */
-/*   Updated: 2024/12/12 11:39:58 by lleciak          ###   ########.fr       */
+/*   Updated: 2025/03/25 13:58:27 by lleciak          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,26 +15,32 @@
 
 # include <iostream>
 
-void	cap_cmd();
-void	nick_cmd();
-void	user_cmd();
-void	ping_cmd();
-void	pong_cmd();
-void	version_cmd();
-void	motd_cmd();
-void	whois_cmd();
-void	pass_cmd();
-void	who_cmd();
-void	join_cmd();
-void	part_cmd();
-void	list_cmd();
-void	privmsg_cmd();
-void	invite_cmd();
-void	quit_cmd();
-void	mode_cmd();
-void	topic_cmd();
-void	names_cmd();
-void	kick_cmd();
+# include "../../utils/includes/colors.hpp"
+# include "../../server/includes/Server.hpp"
+
+class Server;
+
+void    capls_cmd(Server &serv, int fd, std::vector<std::string> cmd);
+void	nick_cmd(Server &serv, int fd, std::vector<std::string> cmd);
+void	user_cmd(Server &serv, int fd, std::vector<std::string> cmd);//, std::string Ip, std::string realName);
+void	ping_cmd(Server &serv, int fd, std::vector<std::string> cmd);
+void	pong_cmd(Server &serv, int fd, std::vector<std::string> cmd);
+void	version_cmd(Server &serv, int fd, std::vector<std::string> cmd);
+void	pass_cmd(Server &serv, int fd, std::vector<std::string> cmd);
+void	join_cmd(Server &serv, int fd, std::vector<std::string> cmd);
+void	part_cmd(Server &serv, int fd, std::vector<std::string> cmd);
+void	privmsg_cmd(Server &serv, int fd, std::vector<std::string> cmd);
+void	invite_cmd(Server &serv, int fd, std::vector<std::string> cmd);
+void	quit_cmd(Server &serv, int fd, std::vector<std::string> cmd);
+void	mode_cmd(Server &serv, int fd, std::vector<std::string> cmd);
+void	topic_cmd(Server &serv, int fd, std::vector<std::string> cmd);
+void	kick_cmd(Server &serv, int fd, std::vector<std::string> cmd);
+void    whois_cmd(Server &serv, int fd, std::vector<std::string> cmd);
+
+void	handleCmds(Server &serv, int fd, char buff[1024]);
+void	parseCmd(Server &serv, int fd, std::string cmd);
+
+std::vector<std::string> splitString(std::string str, char sep);
 
 class UserNotFoundException: public std::exception
 {

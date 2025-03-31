@@ -18,12 +18,29 @@ LDFLAGS =
 # Paths
 SERVER = srcs/server/
 CLIENT = srcs/client/
+CHANNEL = srcs/channel/
+CMD = srcs/commands/
+
 BUILD_DIR = build/
 
 SRCS = 	srcs/main.cpp \
-		$(SERVER)server.cpp \
+		$(SERVER)Server.cpp \
+		$(SERVER)serverToClients.cpp \
+		$(SERVER)serverToChannels.cpp \
+		$(SERVER)serverOutput.cpp \
+		$(SERVER)serverGetters.cpp \
+		$(SERVER)serverMethods.cpp \
 		$(SERVER)serverUtils.cpp \
-		$(CLIENT)client.cpp 
+		$(CLIENT)Client.cpp \
+		$(CLIENT)clientSetters.cpp \
+		$(CLIENT)clientGetters.cpp \
+		$(CLIENT)clientMethods.cpp \
+		$(CHANNEL)Channel.cpp \
+		$(CHANNEL)channelGetters.cpp \
+		$(CHANNEL)channelSetters.cpp \
+		$(CHANNEL)channelMethods.cpp \
+		$(CMD)cmdParser.cpp \
+		$(CMD)Commands.cpp \
 
 OBJS = $(SRCS:%.cpp=$(BUILD_DIR)%.o)
 INCLUDES = -I./includes
@@ -62,11 +79,17 @@ run: re
 	@echo 
 	./$(NAME) 6667
 	make fclean
+	
+pass: re
+	@echo "$(YELLOW) [Running  ]$(RESET) Executing $(NAME) on port 6667"
+	@echo 
+	./$(NAME) 6667 mdp
+	make fclean
 
 valgrind: re
 	@echo "$(YELLOW) [Valgrind]$(RESET) Running memory analysis with Valgrind"
-	valgrind --leak-check=full ./$(NAME) 6667
-
+	valgrind --leak-check=full ./$(NAME) 6667 
+	make fclean
 
 # Special rules
 .PHONY: all clean fclean re run valgrind

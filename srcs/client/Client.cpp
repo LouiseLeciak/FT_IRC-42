@@ -3,46 +3,25 @@
 /*                                                        :::      ::::::::   */
 /*   client.cpp                                         :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: tauer <tauer@student.42.fr>                +#+  +:+       +#+        */
+/*   By: lleciak <lleciak@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/12/04 02:49:55 by tauer             #+#    #+#             */
-/*   Updated: 2024/12/04 02:57:13 by tauer            ###   ########.fr       */
+/*   Updated: 2024/12/16 09:20:13 by lleciak          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "includes/client.hpp"
+#include "includes/Client.hpp"
 
 //!Base
 
-Client::Client() : _nickName("default") , _fd(-1) {
+Client::Client(int serverSock) : _nickName("default") , _fd(-1) , _serverSock(serverSock), _authenticated(false), nbPing(0), connect_time(std::time(0)) {
+    
 }
 
 Client::~Client() {}
 
-//? setters
-
-void	Client::setFd(const int fd) {
-	this->_fd = fd;
+bool Client::operator!=(const Client &other) const {
+    if (this->Fd() != other.Fd())
+        return (true);
+    return (false);
 }
-
-void	Client::setIPadd(const std::string &IPadd) {
-	this->_IPadd = IPadd;
-}
-
-//? getters
-
-int		Client::Fd() const {
-	return (this->_fd);
-}
-
-std::string	Client::IPadd() const {
-	return (this->_IPadd);
-}
-
-std::string Client::nickName() const {
-	return (this->_nickName);
-}
-
-
-
-

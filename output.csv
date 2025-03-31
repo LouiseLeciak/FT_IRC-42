@@ -1,0 +1,7128 @@
+[06:47:09]	✅ SERVER  ON
+
+[06:47:21]		NEW CLIENT
+
+[06:47:21]			4	default	CAP LS 
+
+[06:47:21]			4	default	NICK lleciak 
+
+[06:47:21]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[06:47:21]			4	lleciak	MODE lleciak +i 
+
+[06:47:23]			4	lleciak	PING server 
+
+[06:47:49]		REMOVED CLIENT
+
+[06:47:49]	✖️ SERVER  OFF
+
+[06:48:35]	✅ SERVER  ON
+
+[06:48:41]		NEW CLIENT
+
+[06:48:41]			4	default	CAP LS 
+
+[06:48:41]			4	default	NICK lleciak 
+
+[06:48:41]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[06:48:41]			4	lleciak	MODE lleciak +i 
+
+[06:48:44]			4	lleciak	PING server 
+
+[06:48:52]			4	lleciak	NICK yo 
+
+[06:48:52]			4	yo	MODE yo +i 
+
+[06:48:52]			4	yo	WHOIS lleciak 
+
+[06:49:45]			4	yo	PING server 
+
+[06:50:46]			4	yo	PING server 
+
+[06:51:47]			4	yo	PING server 
+
+[06:52:21]		NEW CLIENT
+
+[06:52:21]			5	default	CAP LS 
+
+[06:52:21]			5	default	NICK lleciak 
+
+[06:52:21]			5	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[06:52:21]			5	lleciak	MODE lleciak +i 
+
+[06:52:24]			5	lleciak	PING server 
+
+[06:52:48]			4	yo	PING server 
+
+[06:53:25]			5	lleciak	PING server 
+
+[06:53:49]			4	yo	PING server 
+
+[06:54:26]			5	lleciak	PING server 
+
+[06:54:50]			4	yo	PING server 
+
+[06:55:27]			5	lleciak	PING server 
+
+[06:55:51]			4	yo	PING server 
+
+[06:56:28]			5	lleciak	PING server 
+
+[06:56:52]			4	yo	PING server 
+
+[06:57:29]			5	lleciak	PING server 
+
+[06:57:53]			4	yo	PING server 
+
+[06:58:30]			5	lleciak	PING server 
+
+[06:58:54]			4	yo	PING server 
+
+[06:59:31]			5	lleciak	PING server 
+
+[06:59:55]			4	yo	PING server 
+
+[07:00:32]			5	lleciak	PING server 
+
+[07:00:35]		REMOVED CLIENT
+
+[07:00:35]		REMOVED CLIENT
+
+[07:00:35]	✖️ SERVER  OFF
+
+[07:02:05]	✅ SERVER  ON
+
+[07:02:08]		NEW CLIENT
+
+[07:02:49]		REMOVED CLIENT
+
+[07:03:01]		NEW CLIENT
+
+[07:03:01]			4	default	PASS mdp 
+
+[07:03:01]			4	default	NICK monPseudo 
+
+[07:03:01]			4	monPseudo	USER monPseudo 0 * :Mon Nom 
+
+[07:03:19]		REMOVED CLIENT
+
+[07:03:19]	✖️ SERVER  OFF
+
+[07:03:24]	✅ SERVER  ON
+
+[07:03:27]		NEW CLIENT
+
+[07:03:27]			4	default	PASS mdp 
+
+[07:03:27]			4	default	NICK monPseudo 
+
+[07:03:27]			4	monPseudo	USER monPseudo 0 * :Mon Nom 
+
+[07:03:34]		REMOVED CLIENT
+
+[07:03:43]		NEW CLIENT
+
+[07:03:43]			4	default	NICK monPseudo 
+
+[07:03:43]			4	default	USER monPseudo 0 * :Mon Nom 
+
+[07:04:02]		REMOVED CLIENT
+
+[07:05:35]		NEW CLIENT
+
+[07:05:35]		NEW CLIENT
+
+[07:05:35]			4	default	CAP LS 
+
+[07:05:35]			4	default	NICK lleciak 
+
+[07:05:35]			4	default	USER lleciak lleciak localhost :Louise Leciak 
+
+[07:05:35]			5	default	CAP LS 
+
+[07:05:35]			5	default	NICK lleciak 
+
+[07:05:35]			5	default	USER lleciak lleciak localhost :Louise Leciak 
+
+[07:05:48]		NEW CLIENT
+
+[07:05:48]			6	default	CAP LS 
+
+[07:05:48]			6	default	NICK lleciak 
+
+[07:05:48]			6	default	USER lleciak lleciak localhost :Louise Leciak 
+
+[07:06:22]		REMOVED CLIENT
+
+[07:06:22]		REMOVED CLIENT
+
+[07:06:22]		REMOVED CLIENT
+
+[07:06:22]	✖️ SERVER  OFF
+
+[07:08:50]	✅ SERVER  ON
+
+[07:08:56]		NEW CLIENT
+
+[07:08:56]			4	default	CAP LS 
+
+[07:08:56]			4	default	NICK lleciak 
+
+[07:08:56]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[07:08:56]			4	lleciak	MODE lleciak +i 
+
+[07:08:59]			4	lleciak	PING server 
+
+[07:10:00]			4	lleciak	PING server 
+
+[07:10:35]		NEW CLIENT
+
+[07:10:35]		NEW CLIENT
+
+[07:10:35]			5	default	CAP LS 
+
+[07:10:35]			5	default	NICK lleciak 
+
+[07:10:35]			5	lleciak_	USER lleciak lleciak localhost :Louise Leciak 
+
+[07:10:35]			6	default	CAP LS 
+
+[07:10:35]			6	default	NICK lleciak 
+
+[07:10:35]			6	lleciak__	USER lleciak lleciak localhost :Louise Leciak 
+
+[07:10:35]			5	lleciak_	MODE lleciak_ +i 
+
+[07:10:35]			6	lleciak__	MODE lleciak__ +i 
+
+[07:10:35]			5	lleciak_	WHOIS lleciak 
+
+[07:10:35]			6	lleciak__	WHOIS lleciak 
+
+[07:10:39]			5	lleciak_	PING server 
+
+[07:10:39]			6	lleciak__	PING server 
+
+[07:10:48]		NEW CLIENT
+
+[07:10:48]			7	default	CAP LS 
+
+[07:10:48]			7	default	NICK lleciak 
+
+[07:10:48]			7	lleciak___	USER lleciak lleciak localhost :Louise Leciak 
+
+[07:10:48]			7	lleciak___	MODE lleciak___ +i 
+
+[07:10:48]			7	lleciak___	WHOIS lleciak 
+
+[07:10:52]			7	lleciak___	PING server 
+
+[07:11:01]			4	lleciak	PING server 
+
+[07:11:40]			5	lleciak_	PING server 
+
+[07:11:40]			6	lleciak__	PING server 
+
+[07:11:53]			7	lleciak___	PING server 
+
+[07:12:02]			4	lleciak	PING server 
+
+[07:12:41]			5	lleciak_	PING server 
+
+[07:12:41]			6	lleciak__	PING server 
+
+[07:12:54]			7	lleciak___	PING server 
+
+[07:12:55]			4	lleciak	QUIT :leaving 
+
+[07:12:55]			5	lleciak_	QUIT :leaving 
+
+[07:12:55]			7	lleciak___	QUIT :leaving 
+
+[07:12:55]			6	lleciak__	QUIT :leaving 
+
+[07:12:59]	✖️ SERVER  OFF
+
+[07:13:02]	✅ SERVER  ON
+
+[07:13:12]		NEW CLIENT
+
+[07:13:12]			4	default	CAP LS 
+
+[07:13:12]			4	default	PASS mdp 
+
+[07:13:12]			4	default	NICK lleciak 
+
+[07:13:12]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[07:13:12]			4	lleciak	MODE lleciak +i 
+
+[07:13:15]			4	lleciak	PING server 
+
+[07:13:35]		REMOVED CLIENT
+
+[07:13:35]	✖️ SERVER  OFF
+
+[07:13:41]	✅ SERVER  ON
+
+[07:13:44]		NEW CLIENT
+
+[07:13:44]			4	default	CAP LS 
+
+[07:13:44]			4	default	PASS mdp 
+
+[07:13:44]			4	default	NICK lleciak 
+
+[07:13:44]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[07:13:44]			4	lleciak	MODE lleciak +i 
+
+[07:13:47]			4	lleciak	PING server 
+
+[07:14:48]			4	lleciak	PING server 
+
+[07:15:49]			4	lleciak	PING server 
+
+[07:16:50]			4	lleciak	PING server 
+
+[07:17:51]			4	lleciak	PING server 
+
+[07:18:12]		NEW CLIENT
+
+[07:18:12]			5	default	CAP LS 
+
+[07:18:12]			5	default	PASS mdp 
+
+[07:18:12]			5	default	NICK lleciak 
+
+[07:18:12]			5	lleciak_	USER lleciak lleciak localhost :Louise Leciak 
+
+[07:18:12]			5	lleciak_	MODE lleciak_ +i 
+
+[07:18:12]			5	lleciak_	WHOIS lleciak 
+
+[07:18:16]			5	lleciak_	PING server 
+
+[07:18:52]			4	lleciak	PING server 
+
+[07:19:17]			5	lleciak_	PING server 
+
+[07:19:53]			4	lleciak	PING server 
+
+[07:20:18]			5	lleciak_	PING server 
+
+[07:20:37]			4	lleciak	QUIT :leaving 
+
+[07:20:37]			5	lleciak_	QUIT :leaving 
+
+[07:20:40]	✖️ SERVER  OFF
+
+[07:20:44]	✅ SERVER  ON
+
+[07:21:57]		NEW CLIENT
+
+[07:21:57]			4	default	CAP LS 
+
+[07:21:57]			4	default	PASS mdp 
+
+[07:21:57]			4	default	NICK lleciak 
+
+[07:21:57]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[07:21:57]			4	lleciak	MODE lleciak +i 
+
+[07:22:00]			4	lleciak	PING server 
+
+[07:22:10]			4	lleciak	NICK Louise 
+
+[07:22:10]			4	Louise	MODE Louise +i 
+
+[07:22:10]			4	Louise	WHOIS lleciak 
+
+[07:23:01]			4	Louise	PING server 
+
+[07:24:02]			4	Louise	PING server 
+
+[07:25:03]			4	Louise	PING server 
+
+[07:26:04]			4	Louise	PING server 
+
+[07:26:51]			4	Louise	NICK changement 
+
+[07:26:51]			4	changement	MODE changement +i 
+
+[07:26:51]			4	changement	WHOIS lleciak 
+
+[07:26:56]			4	changement	NICK loulou 
+
+[07:26:56]			4	loulou	MODE loulou +i 
+
+[07:26:56]			4	loulou	WHOIS lleciak 
+
+[07:26:58]			4	loulou	QUIT :leaving 
+
+[11:04:31]	✖️ SERVER  OFF
+
+[13:55:30]	✅ SERVER  ON
+
+[13:55:45]		NEW CLIENT
+
+[13:55:45]			4	default	CAP LS 
+
+[13:55:45]			4	default	PASS mdp 
+
+[13:55:45]			4	default	NICK lleciak 
+
+[13:55:45]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[13:55:45]			4	lleciak	MODE lleciak +i 
+
+[13:55:48]			4	lleciak	PING server 
+
+[13:55:56]			4	lleciak	NICK lolioli 
+
+[13:55:56]			4	lolioli	MODE lolioli +i 
+
+[13:55:56]			4	lolioli	WHOIS lleciak 
+
+[13:56:10]			4	lolioli	JOIN #pouer 
+
+[13:56:13]			4	lolioli	PRIVMSG #pouer :coucou 
+
+[13:56:16]			4	lolioli	PRIVMSG #pouer :je suis dans pouer 
+
+[13:56:49]			4	lolioli	PING server 
+
+[13:57:22]			4	lolioli	QUIT :leaving 
+
+[14:06:02]	✖️ SERVER  OFF
+
+[14:06:28]	✅ SERVER  ON
+
+[14:06:37]		NEW CLIENT
+
+[14:06:37]			4	default	CAP LS 
+
+[14:06:37]			4	default	NICK lleciak 
+
+[14:06:37]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[14:06:37]			4	lleciak	MODE lleciak +i 
+
+[14:06:40]			4	lleciak	PING server 
+
+[14:06:41]			4	lleciak	WHOIS lleciak 
+
+[14:06:44]			4	lleciak	WHOIS lleciak 
+
+[14:06:45]			4	lleciak	WHOIS lleciak 
+
+[14:06:46]			4	lleciak	WHOIS lleciak 
+
+[14:06:51]			4	lleciak	WHOIS lleciak 
+
+[14:06:56]			4	lleciak	WHOIS lleciak 
+
+[14:06:57]			4	lleciak	WHOIS lleciak 
+
+[14:07:08]			4	lleciak	WHOIS lleciak 
+
+[14:07:10]			4	lleciak	WHOIS lleciak 
+
+[14:07:41]			4	lleciak	PING server 
+
+[14:08:42]			4	lleciak	PING server 
+
+[14:09:43]			4	lleciak	PING server 
+
+[14:09:53]		REMOVED CLIENT
+
+[14:09:53]	✖️ SERVER  OFF
+
+[14:10:00]	✅ SERVER  ON
+
+[14:10:06]		NEW CLIENT
+
+[14:10:06]			4	default	CAP LS 
+
+[14:10:06]			4	default	NICK lleciak 
+
+[14:10:06]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[14:10:06]			4	lleciak	MODE lleciak +i 
+
+[14:10:09]			4	lleciak	PING server 
+
+[14:10:09]			4	lleciak	WHOIS lleciak 
+
+[14:10:11]			4	lleciak	WHOIS lleciak 
+
+[14:10:12]			4	lleciak	WHOIS lleciak 
+
+[14:10:12]			4	lleciak	WHOIS lleciak 
+
+[14:10:15]			4	lleciak	WHOIS lleciak 
+
+[14:10:17]			4	lleciak	WHOIS lleciak 
+
+[14:10:20]			4	lleciak	WHOIS lleciak 
+
+[14:10:22]			4	lleciak	WHOIS lleciak 
+
+[14:10:25]			4	lleciak	WHOIS lleciak 
+
+[14:10:27]			4	lleciak	WHOIS lleciak 
+
+[14:10:30]			4	lleciak	WHOIS lleciak 
+
+[14:10:32]			4	lleciak	WHOIS lleciak 
+
+[14:10:35]			4	lleciak	WHOIS lleciak 
+
+[14:10:37]			4	lleciak	WHOIS lleciak 
+
+[14:10:40]			4	lleciak	WHOIS lleciak 
+
+[14:10:42]			4	lleciak	WHOIS lleciak 
+
+[14:10:45]			4	lleciak	WHOIS lleciak 
+
+[14:10:47]			4	lleciak	WHOIS lleciak 
+
+[14:10:50]			4	lleciak	WHOIS lleciak 
+
+[14:10:52]			4	lleciak	WHOIS lleciak 
+
+[14:10:55]			4	lleciak	WHOIS lleciak 
+
+[14:10:57]			4	lleciak	WHOIS lleciak 
+
+[14:11:00]			4	lleciak	WHOIS lleciak 
+
+[14:11:10]			4	lleciak	PING server 
+
+[14:11:37]		NEW CLIENT
+
+[14:11:37]			5	default	CAP LS 
+
+[14:11:37]			5	default	NICK lleciak 
+
+[14:11:37]			5	lleciak_	USER lleciak lleciak localhost :Louise Leciak 
+
+[14:11:37]			5	lleciak_	MODE lleciak_ +i 
+
+[14:11:37]			5	lleciak_	WHOIS lleciak 
+
+[14:11:41]			5	lleciak_	PING server 
+
+[14:12:11]			4	lleciak	PING server 
+
+[14:12:42]			5	lleciak_	PING server 
+
+[14:13:12]			4	lleciak	PING server 
+
+[14:13:43]			5	lleciak_	PING server 
+
+[14:14:13]			4	lleciak	PING server 
+
+[14:14:44]			5	lleciak_	PING server 
+
+[14:15:14]			4	lleciak	PING server 
+
+[14:15:45]			5	lleciak_	PING server 
+
+[14:16:15]			4	lleciak	PING server 
+
+[14:16:46]			5	lleciak_	PING server 
+
+[14:17:16]			4	lleciak	PING server 
+
+[14:17:22]			5	lleciak_	WHOIS lleciak 
+
+[14:17:23]			5	lleciak_	WHOIS lleciak 
+
+[14:17:24]			5	lleciak_	WHOIS lleciak 
+
+[14:17:26]			5	lleciak_	WHOIS lleciak 
+
+[14:17:27]			5	lleciak_	WHOIS lleciak 
+
+[14:17:29]			5	lleciak_	WHOIS lleciak 
+
+[14:17:31]			5	lleciak_	WHOIS lleciak 
+
+[14:17:34]			5	lleciak_	WHOIS lleciak 
+
+[14:17:43]			5	lleciak_	NICK hello 
+
+[14:17:43]			5	hello	MODE hello +i 
+
+[14:17:43]			5	hello	WHOIS lleciak 
+
+[14:17:47]			5	hello	PING server 
+
+[14:17:49]			5	hello	WHOIS lleciak 
+
+[14:18:17]			4	lleciak	PING server 
+
+[14:18:48]			5	hello	PING server 
+
+[14:19:18]			4	lleciak	PING server 
+
+[14:19:49]			5	hello	PING server 
+
+[14:20:19]			4	lleciak	PING server 
+
+[14:20:50]			5	hello	PING server 
+
+[14:21:20]			4	lleciak	PING server 
+
+[14:21:51]			5	hello	PING server 
+
+[14:22:21]			4	lleciak	PING server 
+
+[14:22:52]			5	hello	PING server 
+
+[14:23:22]			4	lleciak	PING server 
+
+[14:23:53]			5	hello	PING server 
+
+[14:24:23]			4	lleciak	PING server 
+
+[14:24:52]			5	hello	WHOIS lleciak 
+
+[14:24:53]			5	hello	WHOIS lleciak 
+
+[14:24:55]			5	hello	WHOIS lleciak 
+
+[14:24:56]			5	hello	WHOIS lleciak 
+
+[14:25:01]			5	hello	PING server 
+
+[14:25:24]			4	lleciak	PING server 
+
+[14:26:02]			5	hello	PING server 
+
+[14:26:25]			4	lleciak	PING server 
+
+[14:27:03]			5	hello	PING server 
+
+[14:27:26]			4	lleciak	PING server 
+
+[14:28:04]			5	hello	PING server 
+
+[14:28:27]			4	lleciak	PING server 
+
+[14:29:05]			5	hello	PING server 
+
+[14:29:28]			4	lleciak	PING server 
+
+[14:29:38]			4	lleciak	QUIT :Lost terminal 
+
+[14:29:38]			5	hello	QUIT :Lost terminal 
+
+[06:51:47]	✅ SERVER  ON
+
+[06:52:01]		NEW CLIENT
+
+[06:52:01]			4	default	CAP LS 
+
+[06:52:01]			4	default	NICK lleciak 
+
+[06:52:01]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[06:52:01]			4	lleciak	MODE lleciak +i 
+
+[06:52:04]			4	lleciak	PING server 
+
+[06:52:14]			4	lleciak	WHOIS lleciak 
+
+[06:53:05]			4	lleciak	PING server 
+
+[06:53:20]		REMOVED CLIENT
+
+[06:53:20]	✖️ SERVER  OFF
+
+[06:53:24]	✅ SERVER  ON
+
+[06:53:25]		NEW CLIENT
+
+[06:53:25]			4	default	CAP LS 
+
+[06:53:25]			4	default	NICK lleciak 
+
+[06:53:25]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[06:53:25]			4	lleciak	MODE lleciak +i 
+
+[06:53:28]			4	lleciak	PING server 
+
+[06:53:58]		REMOVED CLIENT
+
+[06:53:58]	✖️ SERVER  OFF
+
+[06:54:16]	✅ SERVER  ON
+
+[06:54:17]		NEW CLIENT
+
+[06:54:17]			4	default	CAP LS 
+
+[06:54:17]			4	default	NICK lleciak 
+
+[06:54:17]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[06:54:17]			4	lleciak	MODE lleciak +i 
+
+[06:54:20]			4	lleciak	PING server 
+
+[06:55:14]			4	lleciak	WHOIS lleciak 
+
+[06:55:21]			4	lleciak	PING server 
+
+[06:55:58]		REMOVED CLIENT
+
+[06:55:58]	✖️ SERVER  OFF
+
+[06:56:57]	✅ SERVER  ON
+
+[06:57:01]		NEW CLIENT
+
+[06:57:01]			4	default	CAP LS 
+
+[06:57:01]			4	default	NICK lleciak 
+
+[06:57:01]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[06:57:01]			4	lleciak	MODE lleciak +i 
+
+[06:57:04]			4	lleciak	PING server 
+
+[06:57:11]			4	lleciak	WHOIS lleciak 
+
+[06:57:13]			4	lleciak	WHOIS lleciak 
+
+[06:57:15]			4	lleciak	WHOIS lleciak 
+
+[06:58:05]			4	lleciak	PING server 
+
+[06:58:25]		NEW CLIENT
+
+[06:58:25]			5	default	CAP LS 
+
+[06:58:25]			5	default	NICK lleciak 
+
+[06:58:25]			5	lleciak_	USER lleciak lleciak localhost :Louise Leciak 
+
+[06:58:25]			5	lleciak_	MODE lleciak_ +i 
+
+[06:58:25]			5	lleciak_	WHOIS lleciak 
+
+[06:58:29]			5	lleciak_	PING server 
+
+[06:59:04]		NEW CLIENT
+
+[06:59:04]			6	default	CAP LS 
+
+[06:59:04]			6	default	NICK lleciak 
+
+[06:59:04]			6	lleciak__	USER lleciak lleciak localhost :Louise Leciak 
+
+[06:59:04]			6	lleciak__	MODE lleciak__ +i 
+
+[06:59:04]			6	lleciak__	WHOIS lleciak 
+
+[06:59:06]			4	lleciak	PING server 
+
+[06:59:08]			6	lleciak__	PING server 
+
+[06:59:08]		NEW CLIENT
+
+[06:59:08]			7	default	CAP LS 
+
+[06:59:08]			7	default	NICK lleciak 
+
+[06:59:08]			7	lleciak___	USER lleciak lleciak localhost :Louise Leciak 
+
+[06:59:08]			7	lleciak___	MODE lleciak___ +i 
+
+[06:59:08]			7	lleciak___	WHOIS lleciak 
+
+[06:59:12]			7	lleciak___	PING server 
+
+[06:59:17]		NEW CLIENT
+
+[06:59:17]			8	default	CAP LS 
+
+[06:59:17]			8	default	NICK lleciak 
+
+[06:59:17]			8	lleciak____	USER lleciak lleciak localhost :Louise Leciak 
+
+[06:59:17]			8	lleciak____	MODE lleciak____ +i 
+
+[06:59:17]			8	lleciak____	WHOIS lleciak 
+
+[06:59:21]			8	lleciak____	PING server 
+
+[06:59:30]			5	lleciak_	PING server 
+
+[07:00:07]			4	lleciak	PING server 
+
+[07:00:09]			6	lleciak__	PING server 
+
+[07:00:13]			7	lleciak___	PING server 
+
+[07:00:22]			8	lleciak____	PING server 
+
+[07:00:31]			5	lleciak_	PING server 
+
+[07:01:08]			4	lleciak	PING server 
+
+[07:01:10]			6	lleciak__	PING server 
+
+[07:01:14]			7	lleciak___	PING server 
+
+[07:01:23]			8	lleciak____	PING server 
+
+[07:01:32]			5	lleciak_	PING server 
+
+[07:02:09]			4	lleciak	PING server 
+
+[07:02:11]			6	lleciak__	PING server 
+
+[07:02:15]			7	lleciak___	PING server 
+
+[07:02:24]			8	lleciak____	PING server 
+
+[07:02:33]			5	lleciak_	PING server 
+
+[07:03:10]			4	lleciak	PING server 
+
+[07:03:12]			6	lleciak__	PING server 
+
+[07:03:16]			7	lleciak___	PING server 
+
+[07:03:25]			8	lleciak____	PING server 
+
+[07:03:34]			5	lleciak_	PING server 
+
+[07:04:11]			4	lleciak	PING server 
+
+[07:04:13]			6	lleciak__	PING server 
+
+[07:04:17]			7	lleciak___	PING server 
+
+[07:04:26]			8	lleciak____	PING server 
+
+[07:04:35]			5	lleciak_	PING server 
+
+[07:05:12]			4	lleciak	PING server 
+
+[07:05:14]			6	lleciak__	PING server 
+
+[07:05:18]			7	lleciak___	PING server 
+
+[07:05:27]			8	lleciak____	PING server 
+
+[07:05:36]			5	lleciak_	PING server 
+
+[07:06:13]			4	lleciak	PING server 
+
+[07:06:15]			6	lleciak__	PING server 
+
+[07:06:19]			7	lleciak___	PING server 
+
+[07:06:28]			8	lleciak____	PING server 
+
+[07:06:37]			5	lleciak_	PING server 
+
+[07:07:14]			4	lleciak	PING server 
+
+[07:07:16]			6	lleciak__	PING server 
+
+[07:07:20]			7	lleciak___	PING server 
+
+[07:07:29]			8	lleciak____	PING server 
+
+[07:07:38]			5	lleciak_	PING server 
+
+[07:08:15]			4	lleciak	PING server 
+
+[07:08:17]			6	lleciak__	PING server 
+
+[07:08:21]			7	lleciak___	PING server 
+
+[07:08:30]			8	lleciak____	PING server 
+
+[07:08:39]			5	lleciak_	PING server 
+
+[07:09:16]			4	lleciak	PING server 
+
+[07:09:18]			6	lleciak__	PING server 
+
+[07:09:22]			7	lleciak___	PING server 
+
+[07:09:31]			8	lleciak____	PING server 
+
+[07:09:40]			5	lleciak_	PING server 
+
+[07:10:17]			4	lleciak	PING server 
+
+[07:10:19]			6	lleciak__	PING server 
+
+[07:10:23]			7	lleciak___	PING server 
+
+[07:10:32]			8	lleciak____	PING server 
+
+[07:10:41]			5	lleciak_	PING server 
+
+[07:11:18]			4	lleciak	PING server 
+
+[07:11:20]			6	lleciak__	PING server 
+
+[07:11:24]			7	lleciak___	PING server 
+
+[07:11:33]			8	lleciak____	PING server 
+
+[07:11:42]			5	lleciak_	PING server 
+
+[07:12:19]			4	lleciak	PING server 
+
+[07:12:21]			6	lleciak__	PING server 
+
+[07:12:25]			7	lleciak___	PING server 
+
+[07:12:34]			8	lleciak____	PING server 
+
+[07:12:43]			5	lleciak_	PING server 
+
+[07:13:20]			4	lleciak	PING server 
+
+[07:13:22]			6	lleciak__	PING server 
+
+[07:13:26]			7	lleciak___	PING server 
+
+[07:13:35]			8	lleciak____	PING server 
+
+[07:13:44]			5	lleciak_	PING server 
+
+[11:37:49]	✅ SERVER  ON
+
+[11:37:53]		NEW CLIENT
+
+[11:37:53]			4	default	CAP LS 
+
+[11:37:53]			4	default	NICK lleciak 
+
+[11:37:53]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[11:37:53]			4	lleciak	MODE lleciak +i 
+
+[11:37:55]			4	lleciak	PING server 
+
+[11:38:10]			4	lleciak	WHO lleciak 
+
+[11:38:56]			4	lleciak	PING server 
+
+[11:39:57]			4	lleciak	PING server 
+
+[11:40:58]			4	lleciak	PING server 
+
+[11:41:59]			4	lleciak	PING server 
+
+[11:42:11]		NEW CLIENT
+
+[11:42:11]			5	default	CAP LS 
+
+[11:42:11]			5	default	NICK lleciak 
+
+[11:42:11]			5	lleciak_	USER lleciak lleciak localhost :Louise Leciak 
+
+[11:42:11]			5	lleciak_	MODE lleciak_ +i 
+
+[11:42:11]			5	lleciak_	WHOIS lleciak 
+
+[11:42:15]			5	lleciak_	PING server 
+
+[11:42:21]		NEW CLIENT
+
+[11:42:21]			6	default	CAP LS 
+
+[11:42:21]			6	default	NICK lleciak 
+
+[11:42:21]			6	lleciak__	USER lleciak lleciak localhost :Louise Leciak 
+
+[11:42:21]			6	lleciak__	MODE lleciak__ +i 
+
+[11:42:21]			6	lleciak__	WHOIS lleciak 
+
+[11:42:25]			6	lleciak__	PING server 
+
+[11:43:00]			4	lleciak	PING server 
+
+[11:43:16]			5	lleciak_	PING server 
+
+[11:43:26]			6	lleciak__	PING server 
+
+[11:44:01]			4	lleciak	PING server 
+
+[11:44:17]			5	lleciak_	PING server 
+
+[11:44:27]			6	lleciak__	PING server 
+
+[11:45:02]			4	lleciak	PING server 
+
+[11:45:18]			5	lleciak_	PING server 
+
+[11:45:28]			6	lleciak__	PING server 
+
+[11:46:03]			4	lleciak	PING server 
+
+[11:46:19]			5	lleciak_	PING server 
+
+[11:46:29]			6	lleciak__	PING server 
+
+[11:47:04]			4	lleciak	PING server 
+
+[11:47:20]			5	lleciak_	PING server 
+
+[11:47:30]			6	lleciak__	PING server 
+
+[11:48:05]			4	lleciak	PING server 
+
+[11:48:21]			5	lleciak_	PING server 
+
+[11:48:31]			6	lleciak__	PING server 
+
+[11:49:06]			4	lleciak	PING server 
+
+[11:49:22]			5	lleciak_	PING server 
+
+[11:49:32]			6	lleciak__	PING server 
+
+[11:50:07]			4	lleciak	PING server 
+
+[11:50:23]			5	lleciak_	PING server 
+
+[11:50:33]			6	lleciak__	PING server 
+
+[11:51:08]			4	lleciak	PING server 
+
+[11:51:24]			5	lleciak_	PING server 
+
+[11:51:34]			6	lleciak__	PING server 
+
+[11:52:09]			4	lleciak	PING server 
+
+[11:52:25]			5	lleciak_	PING server 
+
+[11:52:35]			6	lleciak__	PING server 
+
+[11:53:10]			4	lleciak	PING server 
+
+[11:53:26]			5	lleciak_	PING server 
+
+[11:53:36]			6	lleciak__	PING server 
+
+[11:54:11]			4	lleciak	PING server 
+
+[11:54:27]			5	lleciak_	PING server 
+
+[11:54:37]			6	lleciak__	PING server 
+
+[11:55:12]			4	lleciak	PING server 
+
+[11:55:28]			5	lleciak_	PING server 
+
+[11:55:38]			6	lleciak__	PING server 
+
+[11:56:13]			4	lleciak	PING server 
+
+[11:56:29]			5	lleciak_	PING server 
+
+[11:56:39]			6	lleciak__	PING server 
+
+[11:57:14]			4	lleciak	PING server 
+
+[11:57:30]			5	lleciak_	PING server 
+
+[11:57:40]			6	lleciak__	PING server 
+
+[11:58:15]			4	lleciak	PING server 
+
+[11:58:31]			5	lleciak_	PING server 
+
+[11:58:41]			6	lleciak__	PING server 
+
+[11:59:16]			4	lleciak	PING server 
+
+[11:59:32]			5	lleciak_	PING server 
+
+[11:59:42]			6	lleciak__	PING server 
+
+[12:00:17]			4	lleciak	PING server 
+
+[12:00:33]			5	lleciak_	PING server 
+
+[12:00:43]			6	lleciak__	PING server 
+
+[12:01:18]			4	lleciak	PING server 
+
+[12:01:34]			5	lleciak_	PING server 
+
+[12:01:44]			6	lleciak__	PING server 
+
+[12:02:19]			4	lleciak	PING server 
+
+[12:02:35]			5	lleciak_	PING server 
+
+[12:02:45]			6	lleciak__	PING server 
+
+[12:03:20]			4	lleciak	PING server 
+
+[12:03:36]			5	lleciak_	PING server 
+
+[12:03:46]			6	lleciak__	PING server 
+
+[12:04:21]			4	lleciak	PING server 
+
+[12:04:37]			5	lleciak_	PING server 
+
+[12:04:47]			6	lleciak__	PING server 
+
+[12:05:22]			4	lleciak	PING server 
+
+[12:05:38]			5	lleciak_	PING server 
+
+[12:05:48]			6	lleciak__	PING server 
+
+[12:06:23]			4	lleciak	PING server 
+
+[12:06:39]			5	lleciak_	PING server 
+
+[12:06:49]			6	lleciak__	PING server 
+
+[12:07:24]			4	lleciak	PING server 
+
+[12:07:40]			5	lleciak_	PING server 
+
+[12:07:50]			6	lleciak__	PING server 
+
+[12:08:25]			4	lleciak	PING server 
+
+[12:08:41]			5	lleciak_	PING server 
+
+[12:08:51]			6	lleciak__	PING server 
+
+[12:09:26]			4	lleciak	PING server 
+
+[12:09:42]			5	lleciak_	PING server 
+
+[12:09:52]			6	lleciak__	PING server 
+
+[12:10:27]			4	lleciak	PING server 
+
+[12:10:43]			5	lleciak_	PING server 
+
+[12:10:53]			6	lleciak__	PING server 
+
+[12:11:28]			4	lleciak	PING server 
+
+[12:11:44]			5	lleciak_	PING server 
+
+[12:11:54]			6	lleciak__	PING server 
+
+[12:12:29]			4	lleciak	PING server 
+
+[12:12:45]			5	lleciak_	PING server 
+
+[12:12:55]			6	lleciak__	PING server 
+
+[12:13:30]			4	lleciak	PING server 
+
+[12:13:46]			5	lleciak_	PING server 
+
+[12:13:56]			6	lleciak__	PING server 
+
+[12:14:31]			4	lleciak	PING server 
+
+[12:14:47]			5	lleciak_	PING server 
+
+[12:14:57]			6	lleciak__	PING server 
+
+[12:15:32]			4	lleciak	PING server 
+
+[12:15:48]			5	lleciak_	PING server 
+
+[12:15:58]			6	lleciak__	PING server 
+
+[12:16:33]			4	lleciak	PING server 
+
+[12:16:49]			5	lleciak_	PING server 
+
+[12:16:59]			6	lleciak__	PING server 
+
+[12:17:34]			4	lleciak	PING server 
+
+[12:17:50]			5	lleciak_	PING server 
+
+[12:18:00]			6	lleciak__	PING server 
+
+[12:18:35]			4	lleciak	PING server 
+
+[12:18:51]			5	lleciak_	PING server 
+
+[12:19:01]			6	lleciak__	PING server 
+
+[12:19:36]			4	lleciak	PING server 
+
+[12:19:52]			5	lleciak_	PING server 
+
+[12:20:02]			6	lleciak__	PING server 
+
+[12:20:37]			4	lleciak	PING server 
+
+[12:20:53]			5	lleciak_	PING server 
+
+[12:21:03]			6	lleciak__	PING server 
+
+[12:21:38]			4	lleciak	PING server 
+
+[12:21:54]			5	lleciak_	PING server 
+
+[12:22:04]			6	lleciak__	PING server 
+
+[12:22:39]			4	lleciak	PING server 
+
+[12:22:55]			5	lleciak_	PING server 
+
+[12:23:05]			6	lleciak__	PING server 
+
+[12:23:40]			4	lleciak	PING server 
+
+[12:23:56]			5	lleciak_	PING server 
+
+[12:24:06]			6	lleciak__	PING server 
+
+[12:24:41]			4	lleciak	PING server 
+
+[12:24:57]			5	lleciak_	PING server 
+
+[12:25:07]			6	lleciak__	PING server 
+
+[12:25:42]			4	lleciak	PING server 
+
+[12:25:58]			5	lleciak_	PING server 
+
+[12:26:08]			6	lleciak__	PING server 
+
+[12:26:43]			4	lleciak	PING server 
+
+[12:26:59]			5	lleciak_	PING server 
+
+[12:27:09]			6	lleciak__	PING server 
+
+[12:27:44]			4	lleciak	PING server 
+
+[12:28:00]			5	lleciak_	PING server 
+
+[12:28:10]			6	lleciak__	PING server 
+
+[12:28:45]			4	lleciak	PING server 
+
+[12:29:01]			5	lleciak_	PING server 
+
+[12:29:11]			6	lleciak__	PING server 
+
+[12:29:46]			4	lleciak	PING server 
+
+[12:30:02]			5	lleciak_	PING server 
+
+[12:30:12]			6	lleciak__	PING server 
+
+[12:30:47]			4	lleciak	PING server 
+
+[12:31:03]			5	lleciak_	PING server 
+
+[12:31:13]			6	lleciak__	PING server 
+
+[12:31:48]			4	lleciak	PING server 
+
+[12:32:04]			5	lleciak_	PING server 
+
+[12:32:14]			6	lleciak__	PING server 
+
+[12:32:49]			4	lleciak	PING server 
+
+[12:33:05]			5	lleciak_	PING server 
+
+[12:33:15]			6	lleciak__	PING server 
+
+[12:33:50]			4	lleciak	PING server 
+
+[12:34:06]			5	lleciak_	PING server 
+
+[12:34:16]			6	lleciak__	PING server 
+
+[12:34:51]			4	lleciak	PING server 
+
+[12:35:07]			5	lleciak_	PING server 
+
+[12:35:17]			6	lleciak__	PING server 
+
+[12:35:52]			4	lleciak	PING server 
+
+[12:36:08]			5	lleciak_	PING server 
+
+[12:36:18]			6	lleciak__	PING server 
+
+[12:36:53]			4	lleciak	PING server 
+
+[12:37:09]			5	lleciak_	PING server 
+
+[12:37:19]			6	lleciak__	PING server 
+
+[12:37:54]			4	lleciak	PING server 
+
+[12:38:10]			5	lleciak_	PING server 
+
+[12:38:20]			6	lleciak__	PING server 
+
+[12:38:55]			4	lleciak	PING server 
+
+[12:39:11]			5	lleciak_	PING server 
+
+[12:39:21]			6	lleciak__	PING server 
+
+[12:39:56]			4	lleciak	PING server 
+
+[12:40:12]			5	lleciak_	PING server 
+
+[12:40:22]			6	lleciak__	PING server 
+
+[12:40:57]			4	lleciak	PING server 
+
+[12:41:13]			5	lleciak_	PING server 
+
+[12:41:23]			6	lleciak__	PING server 
+
+[12:41:58]			4	lleciak	PING server 
+
+[12:42:14]			5	lleciak_	PING server 
+
+[12:42:24]			6	lleciak__	PING server 
+
+[12:42:59]			4	lleciak	PING server 
+
+[12:43:15]			5	lleciak_	PING server 
+
+[12:43:25]			6	lleciak__	PING server 
+
+[12:44:00]			4	lleciak	PING server 
+
+[12:44:16]			5	lleciak_	PING server 
+
+[12:44:26]			6	lleciak__	PING server 
+
+[12:45:01]			4	lleciak	PING server 
+
+[12:45:17]			5	lleciak_	PING server 
+
+[12:45:27]			6	lleciak__	PING server 
+
+[12:46:02]			4	lleciak	PING server 
+
+[12:46:18]			5	lleciak_	PING server 
+
+[12:46:28]			6	lleciak__	PING server 
+
+[12:47:03]			4	lleciak	PING server 
+
+[12:47:19]			5	lleciak_	PING server 
+
+[12:47:29]			6	lleciak__	PING server 
+
+[12:48:04]			4	lleciak	PING server 
+
+[12:48:20]			5	lleciak_	PING server 
+
+[12:48:30]			6	lleciak__	PING server 
+
+[12:49:05]			4	lleciak	PING server 
+
+[12:49:21]			5	lleciak_	PING server 
+
+[12:49:31]			6	lleciak__	PING server 
+
+[12:50:06]			4	lleciak	PING server 
+
+[12:50:22]			5	lleciak_	PING server 
+
+[12:50:32]			6	lleciak__	PING server 
+
+[12:51:07]			4	lleciak	PING server 
+
+[12:51:23]			5	lleciak_	PING server 
+
+[12:51:33]			6	lleciak__	PING server 
+
+[12:52:08]			4	lleciak	PING server 
+
+[12:52:24]			5	lleciak_	PING server 
+
+[12:52:34]			6	lleciak__	PING server 
+
+[12:53:09]			4	lleciak	PING server 
+
+[12:53:25]			5	lleciak_	PING server 
+
+[12:53:35]			6	lleciak__	PING server 
+
+[12:54:10]			4	lleciak	PING server 
+
+[12:54:26]			5	lleciak_	PING server 
+
+[12:54:36]			6	lleciak__	PING server 
+
+[12:55:11]			4	lleciak	PING server 
+
+[12:55:27]			5	lleciak_	PING server 
+
+[12:55:37]			6	lleciak__	PING server 
+
+[12:56:12]			4	lleciak	PING server 
+
+[12:56:28]			5	lleciak_	PING server 
+
+[12:56:38]			6	lleciak__	PING server 
+
+[12:57:13]			4	lleciak	PING server 
+
+[12:57:29]			5	lleciak_	PING server 
+
+[12:57:39]			6	lleciak__	PING server 
+
+[12:58:14]			4	lleciak	PING server 
+
+[12:58:30]			5	lleciak_	PING server 
+
+[12:58:40]			6	lleciak__	PING server 
+
+[12:59:15]			4	lleciak	PING server 
+
+[12:59:31]			5	lleciak_	PING server 
+
+[12:59:41]			6	lleciak__	PING server 
+
+[13:00:16]			4	lleciak	PING server 
+
+[13:00:32]			5	lleciak_	PING server 
+
+[13:00:42]			6	lleciak__	PING server 
+
+[13:01:17]			4	lleciak	PING server 
+
+[13:01:33]			5	lleciak_	PING server 
+
+[13:01:43]			6	lleciak__	PING server 
+
+[13:02:18]			4	lleciak	PING server 
+
+[13:02:34]			5	lleciak_	PING server 
+
+[13:02:44]			6	lleciak__	PING server 
+
+[13:03:19]			4	lleciak	PING server 
+
+[13:03:35]			5	lleciak_	PING server 
+
+[13:03:45]			6	lleciak__	PING server 
+
+[13:04:20]			4	lleciak	PING server 
+
+[13:04:36]			5	lleciak_	PING server 
+
+[13:04:46]			6	lleciak__	PING server 
+
+[13:05:21]			4	lleciak	PING server 
+
+[13:05:37]			5	lleciak_	PING server 
+
+[13:05:47]			6	lleciak__	PING server 
+
+[13:06:22]			4	lleciak	PING server 
+
+[13:06:38]			5	lleciak_	PING server 
+
+[13:06:48]			6	lleciak__	PING server 
+
+[13:07:23]			4	lleciak	PING server 
+
+[13:07:39]			5	lleciak_	PING server 
+
+[13:07:49]			6	lleciak__	PING server 
+
+[13:08:24]			4	lleciak	PING server 
+
+[13:08:40]			5	lleciak_	PING server 
+
+[13:08:50]			6	lleciak__	PING server 
+
+[13:09:25]			4	lleciak	PING server 
+
+[13:09:41]			5	lleciak_	PING server 
+
+[13:09:51]			6	lleciak__	PING server 
+
+[13:10:26]			4	lleciak	PING server 
+
+[13:10:42]			5	lleciak_	PING server 
+
+[13:10:52]			6	lleciak__	PING server 
+
+[13:11:27]			4	lleciak	PING server 
+
+[13:11:43]			5	lleciak_	PING server 
+
+[13:11:53]			6	lleciak__	PING server 
+
+[13:12:28]			4	lleciak	PING server 
+
+[13:12:44]			5	lleciak_	PING server 
+
+[13:12:54]			6	lleciak__	PING server 
+
+[13:13:29]			4	lleciak	PING server 
+
+[13:13:45]			5	lleciak_	PING server 
+
+[13:13:55]			6	lleciak__	PING server 
+
+[13:14:30]			4	lleciak	PING server 
+
+[13:14:46]			5	lleciak_	PING server 
+
+[13:14:56]			6	lleciak__	PING server 
+
+[13:15:31]			4	lleciak	PING server 
+
+[13:15:47]			5	lleciak_	PING server 
+
+[13:15:57]			6	lleciak__	PING server 
+
+[13:16:32]			4	lleciak	PING server 
+
+[13:16:48]			5	lleciak_	PING server 
+
+[13:16:58]			6	lleciak__	PING server 
+
+[13:17:33]			4	lleciak	PING server 
+
+[13:17:49]			5	lleciak_	PING server 
+
+[13:17:59]			6	lleciak__	PING server 
+
+[13:18:34]			4	lleciak	PING server 
+
+[13:18:50]			5	lleciak_	PING server 
+
+[13:19:00]			6	lleciak__	PING server 
+
+[13:19:35]			4	lleciak	PING server 
+
+[13:19:51]			5	lleciak_	PING server 
+
+[13:20:01]			6	lleciak__	PING server 
+
+[13:20:36]			4	lleciak	PING server 
+
+[13:20:52]			5	lleciak_	PING server 
+
+[13:21:02]			6	lleciak__	PING server 
+
+[13:21:37]			4	lleciak	PING server 
+
+[13:21:53]			5	lleciak_	PING server 
+
+[13:22:03]			6	lleciak__	PING server 
+
+[13:22:38]			4	lleciak	PING server 
+
+[13:22:54]			5	lleciak_	PING server 
+
+[13:23:04]			6	lleciak__	PING server 
+
+[13:23:39]			4	lleciak	PING server 
+
+[13:23:55]			5	lleciak_	PING server 
+
+[13:24:05]			6	lleciak__	PING server 
+
+[13:24:40]			4	lleciak	PING server 
+
+[13:24:56]			5	lleciak_	PING server 
+
+[13:25:06]			6	lleciak__	PING server 
+
+[13:25:41]			4	lleciak	PING server 
+
+[13:25:57]			5	lleciak_	PING server 
+
+[13:26:07]			6	lleciak__	PING server 
+
+[13:26:42]			4	lleciak	PING server 
+
+[13:26:58]			5	lleciak_	PING server 
+
+[13:27:08]			6	lleciak__	PING server 
+
+[13:27:43]			4	lleciak	PING server 
+
+[13:27:59]			5	lleciak_	PING server 
+
+[13:28:09]			6	lleciak__	PING server 
+
+[13:28:44]			4	lleciak	PING server 
+
+[13:29:00]			5	lleciak_	PING server 
+
+[13:29:10]			6	lleciak__	PING server 
+
+[13:29:45]			4	lleciak	PING server 
+
+[13:30:01]			5	lleciak_	PING server 
+
+[13:30:11]			6	lleciak__	PING server 
+
+[13:30:46]			4	lleciak	PING server 
+
+[13:31:02]			5	lleciak_	PING server 
+
+[13:31:12]			6	lleciak__	PING server 
+
+[13:31:47]			4	lleciak	PING server 
+
+[13:32:03]			5	lleciak_	PING server 
+
+[13:32:13]			6	lleciak__	PING server 
+
+[13:32:48]			4	lleciak	PING server 
+
+[13:33:04]			5	lleciak_	PING server 
+
+[13:33:14]			6	lleciak__	PING server 
+
+[13:33:49]			4	lleciak	PING server 
+
+[13:34:05]			5	lleciak_	PING server 
+
+[13:34:15]			6	lleciak__	PING server 
+
+[13:34:50]			4	lleciak	PING server 
+
+[13:35:06]			5	lleciak_	PING server 
+
+[13:35:16]			6	lleciak__	PING server 
+
+[13:35:51]			4	lleciak	PING server 
+
+[13:36:07]			5	lleciak_	PING server 
+
+[13:36:17]			6	lleciak__	PING server 
+
+[13:36:52]			4	lleciak	PING server 
+
+[13:37:03]			4	lleciak	QUIT :leaving 
+
+[13:37:03]			5	lleciak_	QUIT :leaving 
+
+[13:37:03]			6	lleciak__	QUIT :leaving 
+
+[09:56:18]	✅ SERVER  ON
+
+[09:56:26]		NEW CLIENT
+
+[09:56:26]			4	default	CAP LS 
+
+[09:56:26]			4	default	NICK lleciak 
+
+[09:56:26]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[09:56:26]			4	lleciak	MODE lleciak +i 
+
+[09:56:29]			4	lleciak	PING server 
+
+[09:56:39]			4	lleciak	WHOIS lleciak 
+
+[09:56:52]			4	lleciak	WHOIS lleciak 
+
+[09:57:30]			4	lleciak	PING server 
+
+[09:58:31]			4	lleciak	PING server 
+
+[09:59:32]			4	lleciak	PING server 
+
+[10:00:33]			4	lleciak	PING server 
+
+[10:01:34]			4	lleciak	PING server 
+
+[10:02:35]			4	lleciak	PING server 
+
+[10:03:36]			4	lleciak	PING server 
+
+[10:04:37]			4	lleciak	PING server 
+
+[10:05:38]			4	lleciak	PING server 
+
+[10:06:39]			4	lleciak	PING server 
+
+[10:07:40]			4	lleciak	PING server 
+
+[10:08:41]			4	lleciak	PING server 
+
+[10:09:42]			4	lleciak	PING server 
+
+[10:10:43]			4	lleciak	PING server 
+
+[10:11:44]			4	lleciak	PING server 
+
+[10:12:45]			4	lleciak	PING server 
+
+[10:13:46]			4	lleciak	PING server 
+
+[10:14:47]			4	lleciak	PING server 
+
+[10:15:48]			4	lleciak	PING server 
+
+[10:16:49]			4	lleciak	PING server 
+
+[10:17:50]			4	lleciak	PING server 
+
+[10:18:51]			4	lleciak	PING server 
+
+[10:19:52]			4	lleciak	PING server 
+
+[10:20:23]			4	lleciak	TOPIC 
+
+[10:20:53]			4	lleciak	PING server 
+
+[10:21:54]			4	lleciak	PING server 
+
+[10:22:55]			4	lleciak	PING server 
+
+[10:23:15]			4	lleciak	JOIN #hello 
+
+[10:23:56]			4	lleciak	PING server 
+
+[10:24:20]			4	lleciak	TOPIC #hello :hello "c'est super ici" 
+
+[10:24:57]			4	lleciak	PING server 
+
+[10:25:55]			4	lleciak	TOPIC #hello :Bienvenue sur hello !!! 
+
+[10:25:58]			4	lleciak	PING server 
+
+[10:26:14]			4	lleciak	WHO #hello 
+
+[10:26:18]			4	lleciak	WHOIS lleciak 
+
+[10:26:59]			4	lleciak	PING server 
+
+[10:27:15]			4	lleciak	TOPIC #hello :nouveautopic 
+
+[10:28:00]			4	lleciak	PING server 
+
+[10:29:01]			4	lleciak	PING server 
+
+[10:30:02]			4	lleciak	PING server 
+
+[10:31:03]			4	lleciak	PING server 
+
+[10:32:04]			4	lleciak	PING server 
+
+[10:33:05]			4	lleciak	PING server 
+
+[10:34:06]			4	lleciak	PING server 
+
+[10:35:07]			4	lleciak	PING server 
+
+[10:36:08]			4	lleciak	PING server 
+
+[10:37:09]			4	lleciak	PING server 
+
+[10:38:10]			4	lleciak	PING server 
+
+[10:39:11]			4	lleciak	PING server 
+
+[10:40:12]			4	lleciak	PING server 
+
+[10:41:13]			4	lleciak	PING server 
+
+[10:42:14]			4	lleciak	PING server 
+
+[10:43:15]			4	lleciak	PING server 
+
+[10:44:16]			4	lleciak	PING server 
+
+[10:44:33]			4	lleciak	QUIT :leaving 
+
+[10:49:51]	✖️ SERVER  OFF
+
+[10:50:18]	✅ SERVER  ON
+
+[10:50:22]		NEW CLIENT
+
+[10:50:22]			4	default	CAP LS 
+
+[10:50:22]			4	default	NICK lleciak 
+
+[10:50:22]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[10:50:22]			4	lleciak	MODE lleciak +i 
+
+[10:50:25]			4	lleciak	PING server 
+
+[10:50:30]			4	lleciak	WHOIS lleciak 
+
+[10:51:24]			4	lleciak	JOIN #channel1 
+
+[10:51:27]			4	lleciak	PING server 
+
+[10:52:28]			4	lleciak	PING server 
+
+[10:53:29]			4	lleciak	PING server 
+
+[10:54:27]			4	lleciak	TOPIC #channel1 ::Nouveau topic 
+
+[10:54:30]			4	lleciak	PING server 
+
+[10:55:31]			4	lleciak	PING server 
+
+[10:56:32]			4	lleciak	PING server 
+
+[10:57:33]			4	lleciak	PING server 
+
+[10:58:34]			4	lleciak	PING server 
+
+[10:59:35]			4	lleciak	PING server 
+
+[11:00:36]			4	lleciak	PING server 
+
+[11:01:37]			4	lleciak	PING server 
+
+[11:02:38]			4	lleciak	PING server 
+
+[11:03:39]			4	lleciak	PING server 
+
+[11:04:40]			4	lleciak	PING server 
+
+[11:05:41]			4	lleciak	PING server 
+
+[11:06:42]			4	lleciak	PING server 
+
+[11:07:43]			4	lleciak	PING server 
+
+[11:08:44]			4	lleciak	PING server 
+
+[11:09:45]			4	lleciak	PING server 
+
+[11:10:46]			4	lleciak	PING server 
+
+[11:11:47]			4	lleciak	PING server 
+
+[11:12:48]			4	lleciak	PING server 
+
+[11:13:49]			4	lleciak	PING server 
+
+[11:14:50]			4	lleciak	PING server 
+
+[11:15:51]			4	lleciak	PING server 
+
+[11:16:52]			4	lleciak	PING server 
+
+[11:17:53]			4	lleciak	PING server 
+
+[11:18:54]			4	lleciak	PING server 
+
+[11:19:55]			4	lleciak	PING server 
+
+[11:20:56]			4	lleciak	PING server 
+
+[11:21:57]			4	lleciak	PING server 
+
+[11:22:58]			4	lleciak	PING server 
+
+[11:23:59]			4	lleciak	PING server 
+
+[11:25:00]			4	lleciak	PING server 
+
+[11:26:01]			4	lleciak	PING server 
+
+[11:27:02]			4	lleciak	PING server 
+
+[11:28:03]			4	lleciak	PING server 
+
+[11:29:04]			4	lleciak	PING server 
+
+[11:30:05]			4	lleciak	PING server 
+
+[11:31:06]			4	lleciak	PING server 
+
+[11:32:07]			4	lleciak	PING server 
+
+[11:33:08]			4	lleciak	PING server 
+
+[11:34:09]			4	lleciak	PING server 
+
+[11:34:34]			4	lleciak	QUIT :Lost terminal 
+
+[09:18:17]	✅ SERVER  ON
+
+[09:18:29]		NEW CLIENT
+
+[09:18:29]			4	default	CAP LS 
+
+[09:18:29]			4	default	PASS password 
+
+[09:18:29]		REMOVED CLIENT
+
+[09:18:50]		NEW CLIENT
+
+[09:18:50]			4	default	CAP LS 
+
+[09:18:50]			4	default	PASS mdp 
+
+[09:18:50]			4	default	NICK lleciak 
+
+[09:18:50]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[09:18:50]			4	lleciak	MODE default +i 
+
+[09:18:50]			4	lleciak	WHOIS lleciak 
+
+[09:18:50]			4	lleciak	MODE lleciak +i 
+
+[09:18:54]			4	lleciak	PING server 
+
+[09:19:25]			4	lleciak	userhost 
+
+[09:19:27]			4	lleciak	userhost 
+
+[09:19:29]			4	lleciak	userhost 
+
+[09:19:47]			4	lleciak	userhost lleciak 0 * :LouiseLeciak 
+
+[09:19:52]			4	lleciak	userhost lleciak 
+
+[09:19:55]			4	lleciak	userhost lleciak 
+
+[09:19:59]			4	lleciak	PING server 
+
+[09:21:00]			4	lleciak	PING server 
+
+[09:22:01]			4	lleciak	PING server 
+
+[09:23:02]			4	lleciak	PING server 
+
+[09:24:03]			4	lleciak	PING server 
+
+[09:24:14]		REMOVED CLIENT
+
+[09:24:14]	✖️ SERVER  OFF
+
+[10:20:53]	✅ SERVER  ON
+
+[10:24:51]		NEW CLIENT
+
+[10:24:51]			4	default	CAP LS 
+
+[10:24:51]			4	default	PASS mdp 
+
+[10:24:51]			4	default	NICK lleciak 
+
+[10:24:51]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[10:24:51]			4	lleciak	MODE default +i 
+
+[10:24:51]			4	lleciak	WHOIS lleciak 
+
+[10:24:51]			4	lleciak	MODE lleciak +i 
+
+[10:24:55]			4	lleciak	PING server 
+
+[10:25:01]			4	lleciak	JOIN #bjr 
+
+[10:25:24]			4	lleciak	TOPIC #bjr :[Hello voici le topic hihi] 
+
+[10:25:56]			4	lleciak	PING server 
+
+[10:26:57]			4	lleciak	PING server 
+
+[10:27:58]			4	lleciak	PING server 
+
+[10:28:59]			4	lleciak	PING server 
+
+[10:30:00]			4	lleciak	PING server 
+
+[10:30:07]			4	lleciak	TOPIC #bjr :[Hello] 
+
+[10:30:14]			4	lleciak	TOPIC #bjr :[Hello ] 
+
+[10:30:19]			4	lleciak	TOPIC #bjr :[coucoucocuocu] 
+
+[10:30:22]			4	lleciak	TOPIC #bjr :[coucoucocuocu hihi] 
+
+[10:31:01]			4	lleciak	PING server 
+
+[10:32:02]			4	lleciak	PING server 
+
+[10:33:03]			4	lleciak	PING server 
+
+[10:34:04]			4	lleciak	PING server 
+
+[10:35:05]			4	lleciak	PING server 
+
+[10:36:06]			4	lleciak	PING server 
+
+[10:37:07]			4	lleciak	PING server 
+
+[10:38:08]			4	lleciak	PING server 
+
+[10:39:09]			4	lleciak	PING server 
+
+[10:40:11]			4	lleciak	PING server 
+
+[10:41:12]			4	lleciak	PING server 
+
+[10:41:33]		REMOVED CLIENT
+
+[10:41:33]	✖️ SERVER  OFF
+
+[10:41:35]	✅ SERVER  ON
+
+[10:41:48]	✖️ SERVER  OFF
+
+[10:42:02]	✖️ SERVER  OFF
+
+[10:42:10]	✖️ SERVER  OFF
+
+[10:42:31]	✅ SERVER  ON
+
+[10:42:34]		NEW CLIENT
+
+[10:42:34]			4	default	CAP LS 
+
+[10:42:34]			4	default	PASS mdp 
+
+[10:42:34]			4	default	NICK lleciak 
+
+[10:42:34]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[10:42:34]			4	lleciak	MODE default +i 
+
+[10:42:34]			4	lleciak	WHOIS lleciak 
+
+[10:42:34]			4	lleciak	MODE lleciak +i 
+
+[10:42:38]			4	lleciak	PING server 
+
+[10:42:40]			4	lleciak	JOIN #coucou 
+
+[10:43:39]			4	lleciak	PING server 
+
+[10:44:15]			4	lleciak	TOPIC #coucou :[COucou ca va les cops ? c'est le topic ici hihi] [COucou ca va les cops ? c'est le topic ici hihi] 
+
+[10:44:40]			4	lleciak	PING server 
+
+[10:45:41]			4	lleciak	PING server 
+
+[10:46:42]			4	lleciak	PING server 
+
+[10:47:43]			4	lleciak	PING server 
+
+[10:48:44]			4	lleciak	PING server 
+
+[10:49:45]			4	lleciak	PING server 
+
+[10:50:46]			4	lleciak	PING server 
+
+[10:51:47]			4	lleciak	PING server 
+
+[10:52:48]			4	lleciak	PING server 
+
+[10:53:49]			4	lleciak	PING server 
+
+[10:54:50]			4	lleciak	PING server 
+
+[10:55:51]			4	lleciak	PING server 
+
+[10:56:52]			4	lleciak	PING server 
+
+[10:57:53]			4	lleciak	PING server 
+
+[10:57:58]			4	lleciak	QUIT :leaving 
+
+[10:58:00]	✖️ SERVER  OFF
+
+[10:58:25]	✅ SERVER  ON
+
+[10:58:28]		NEW CLIENT
+
+[10:58:28]			4	default	CAP LS 
+
+[10:58:28]			4	default	PASS mdp 
+
+[10:58:28]			4	default	NICK lleciak 
+
+[10:58:28]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[10:58:28]			4	lleciak	MODE default +i 
+
+[10:58:28]			4	lleciak	WHOIS lleciak 
+
+[10:58:28]			4	lleciak	MODE lleciak +i 
+
+[10:58:32]			4	lleciak	PING server 
+
+[10:58:33]			4	lleciak	JOIN #oui 
+
+[10:58:42]			4	lleciak	TOPIC #oui :[nouveau topic] [nouveau topic] 
+
+[10:59:33]			4	lleciak	PING server 
+
+[11:00:34]			4	lleciak	PING server 
+
+[11:01:35]			4	lleciak	PING server 
+
+[11:02:36]			4	lleciak	PING server 
+
+[11:02:50]			4	lleciak	TOPIC #oui :[nouveau topic] [nouveau topic] 
+
+[11:03:37]			4	lleciak	PING server 
+
+[11:04:34]		REMOVED CLIENT
+
+[11:04:34]	✖️ SERVER  OFF
+
+[11:04:48]	✅ SERVER  ON
+
+[11:04:51]		NEW CLIENT
+
+[11:04:51]			4	default	CAP LS 
+
+[11:04:51]			4	default	PASS mdp 
+
+[11:04:51]			4	default	NICK lleciak 
+
+[11:04:51]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[11:04:51]			4	lleciak	MODE default +i 
+
+[11:04:52]			4	lleciak	WHOIS lleciak 
+
+[11:04:52]			4	lleciak	MODE lleciak +i 
+
+[11:04:55]			4	lleciak	PING server 
+
+[11:05:06]			4	lleciak	JOIN #oui 
+
+[11:05:17]			4	lleciak	TOPIC #oui :[super topic youpi] [super topic youpi] 
+
+[11:05:56]			4	lleciak	PING server 
+
+[11:06:57]			4	lleciak	PING server 
+
+[11:07:58]			4	lleciak	PING server 
+
+[11:08:59]			4	lleciak	PING server 
+
+[11:10:00]			4	lleciak	PING server 
+
+[11:11:01]			4	lleciak	PING server 
+
+[11:11:52]		REMOVED CLIENT
+
+[11:11:52]	✖️ SERVER  OFF
+
+[11:12:03]	✅ SERVER  ON
+
+[11:12:06]		NEW CLIENT
+
+[11:12:06]			4	default	CAP LS 
+
+[11:12:06]			4	default	PASS mdp 
+
+[11:12:06]			4	default	NICK lleciak 
+
+[11:12:06]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[11:12:06]			4	lleciak	MODE default +i 
+
+[11:12:06]			4	lleciak	WHOIS lleciak 
+
+[11:12:06]			4	lleciak	MODE lleciak +i 
+
+[11:12:10]			4	lleciak	PING server 
+
+[11:12:11]			4	lleciak	JOIN #oui 
+
+[11:12:26]			4	lleciak	TOPIC #oui :[hihi coucou cv] [hihi coucou cv] 
+
+[11:13:11]			4	lleciak	PING server 
+
+[11:13:48]		NEW CLIENT
+
+[11:13:48]			5	default	CAP LS 
+
+[11:13:48]			5	default	PASS mdp 
+
+[11:13:48]			5	default	NICK lleciak 
+
+[11:13:48]			5	lleciak_	USER lleciak lleciak localhost :Louise Leciak 
+
+[11:13:48]			5	lleciak_	MODE default +i 
+
+[11:13:48]			5	lleciak_	WHOIS lleciak 
+
+[11:13:48]			5	lleciak_	MODE lleciak_ +i 
+
+[11:13:48]			5	lleciak_	WHOIS lleciak 
+
+[11:13:52]			5	lleciak_	QUIT :leaving 
+
+[11:14:12]			4	lleciak	PING server 
+
+[11:15:13]			4	lleciak	PING server 
+
+[11:16:14]			4	lleciak	PING server 
+
+[11:17:15]			4	lleciak	PING server 
+
+[11:18:16]			4	lleciak	PING server 
+
+[11:19:17]			4	lleciak	PING server 
+
+[11:20:18]			4	lleciak	PING server 
+
+[11:21:19]			4	lleciak	PING server 
+
+[11:22:20]			4	lleciak	PING server 
+
+[11:23:21]			4	lleciak	PING server 
+
+[11:24:22]			4	lleciak	PING server 
+
+[11:25:23]			4	lleciak	PING server 
+
+[11:26:24]			4	lleciak	PING server 
+
+[11:27:25]			4	lleciak	PING server 
+
+[11:28:00]		REMOVED CLIENT
+
+[11:28:00]	✖️ SERVER  OFF
+
+[11:28:11]	✅ SERVER  ON
+
+[11:28:13]		NEW CLIENT
+
+[11:28:13]			4	default	CAP LS 
+
+[11:28:13]			4	default	PASS mdp 
+
+[11:28:13]			4	default	NICK lleciak 
+
+[11:28:13]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[11:28:13]			4	lleciak	MODE default +i 
+
+[11:28:13]			4	lleciak	WHOIS lleciak 
+
+[11:28:13]			4	lleciak	MODE lleciak +i 
+
+[11:28:17]			4	lleciak	PING server 
+
+[11:28:17]			4	lleciak	JOIN #cc 
+
+[11:28:30]			4	lleciak	TOPIC #cc :[coucou hihih huhuh] [coucou hihih huhuh] 
+
+[11:29:18]			4	lleciak	PING server 
+
+[11:30:19]			4	lleciak	PING server 
+
+[11:31:20]			4	lleciak	PING server 
+
+[11:32:21]			4	lleciak	PING server 
+
+[11:32:39]			4	lleciak	QUIT :leaving 
+
+[11:32:40]		NEW CLIENT
+
+[11:32:40]			4	default	CAP LS 
+
+[11:32:40]			4	default	PASS mdp 
+
+[11:32:40]			4	default	NICK lleciak 
+
+[11:32:40]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[11:32:40]			4	lleciak	MODE default +i 
+
+[11:32:40]			4	lleciak	WHOIS lleciak 
+
+[11:32:40]			4	lleciak	MODE lleciak +i 
+
+[11:32:41]		REMOVED CLIENT
+
+[11:32:41]	✖️ SERVER  OFF
+
+[11:32:51]	✅ SERVER  ON
+
+[11:32:54]		NEW CLIENT
+
+[11:32:54]			4	default	CAP LS 
+
+[11:32:54]			4	default	PASS mdp 
+
+[11:32:54]			4	default	NICK lleciak 
+
+[11:32:54]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[11:32:54]			4	lleciak	MODE default +i 
+
+[11:32:54]			4	lleciak	WHOIS lleciak 
+
+[11:32:54]			4	lleciak	MODE lleciak +i 
+
+[11:32:58]			4	lleciak	PING server 
+
+[11:33:19]			4	lleciak	JOIN #oui 
+
+[11:33:35]			4	lleciak	TOPIC #oui :[bonjour tout va bien ou pas ?] [bonjour tout va bien ou pas ?] 
+
+[11:33:59]			4	lleciak	PING server 
+
+[11:34:10]		REMOVED CLIENT
+
+[11:34:10]	✖️ SERVER  OFF
+
+[11:34:27]	✅ SERVER  ON
+
+[11:34:48]		NEW CLIENT
+
+[11:34:48]			4	default	CAP LS 
+
+[11:34:48]			4	default	PASS mdp 
+
+[11:34:48]			4	default	NICK lleciak 
+
+[11:34:48]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[11:34:48]			4	lleciak	MODE default +i 
+
+[11:34:48]			4	lleciak	WHOIS lleciak 
+
+[11:34:48]			4	lleciak	MODE lleciak +i 
+
+[11:34:52]			4	lleciak	PING server 
+
+[11:35:01]			4	lleciak	JOIN #cc 
+
+[11:35:19]			4	lleciak	TOPIC #cc :[hello tout va bien ou pas oui super] [hello tout va bien ou pas oui super] 
+
+[11:35:29]			4	lleciak	QUIT :leaving 
+
+[11:35:34]	✖️ SERVER  OFF
+
+[11:35:49]	✅ SERVER  ON
+
+[11:35:51]		NEW CLIENT
+
+[11:35:51]			4	default	CAP LS 
+
+[11:35:51]			4	default	PASS mdp 
+
+[11:35:51]			4	default	NICK lleciak 
+
+[11:35:51]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[11:35:51]			4	lleciak	MODE default +i 
+
+[11:35:51]			4	lleciak	WHOIS lleciak 
+
+[11:35:51]			4	lleciak	MODE lleciak +i 
+
+[11:35:55]			4	lleciak	PING server 
+
+[11:36:18]		NEW CLIENT
+
+[11:36:18]			5	default	CAP LS 
+
+[11:36:18]			5	default	PASS mdp 
+
+[11:36:18]			5	default	NICK lleciak 
+
+[11:36:18]			5	lleciak_	USER lleciak lleciak localhost :Louise Leciak 
+
+[11:36:18]			5	lleciak_	MODE default +i 
+
+[11:36:18]			5	lleciak_	WHOIS lleciak 
+
+[11:36:18]			5	lleciak_	MODE lleciak_ +i 
+
+[11:36:18]			5	lleciak_	WHOIS lleciak 
+
+[11:36:22]		NEW CLIENT
+
+[11:36:22]			6	default	CAP LS 
+
+[11:36:22]			6	default	PASS mdp 
+
+[11:36:22]			6	default	NICK lleciak 
+
+[11:36:22]			6	lleciak__	USER lleciak lleciak localhost :Louise Leciak 
+
+[11:36:22]			6	lleciak__	MODE default +i 
+
+[11:36:22]			6	lleciak__	WHOIS lleciak 
+
+[11:36:22]			6	lleciak__	MODE lleciak__ +i 
+
+[11:36:22]			6	lleciak__	WHOIS lleciak 
+
+[11:36:23]			5	lleciak_	PING server 
+
+[11:36:27]			6	lleciak__	PING server 
+
+[11:36:31]			5	lleciak_	NICK deux 
+
+[11:36:31]			5	deux	MODE lleciak_ +i 
+
+[11:36:31]			5	deux	WHOIS lleciak 
+
+[11:36:31]			5	deux	MODE deux +i 
+
+[11:36:31]			5	deux	WHOIS lleciak 
+
+[11:36:42]			6	lleciak__	NICK trois 
+
+[11:36:42]			6	trois	MODE lleciak__ +i 
+
+[11:36:42]			6	trois	WHOIS lleciak 
+
+[11:36:42]			6	trois	MODE trois +i 
+
+[11:36:42]			6	trois	WHOIS lleciak 
+
+[11:36:56]			4	lleciak	PING server 
+
+[11:37:07]			4	lleciak	JOIN #test 
+
+[11:37:18]			4	lleciak	TOPIC #test :[voici mon topic] [voici mon topic] 
+
+[11:37:24]			5	deux	PING server 
+
+[11:37:28]			6	trois	PING server 
+
+[11:37:33]			5	deux	JOIN #test 
+
+[11:37:36]			5	deux	PRIVMSG #test :coucou 
+
+[11:37:42]			6	trois	JOIN #test 
+
+[11:37:44]			6	trois	PRIVMSG #test :hello 
+
+[11:37:47]			4	lleciak	PRIVMSG #test :coucou hihi 
+
+[11:37:57]			4	lleciak	PING server 
+
+[11:38:25]			5	deux	PING server 
+
+[11:38:29]			6	trois	PING server 
+
+[11:38:58]			4	lleciak	PING server 
+
+[11:39:26]			5	deux	PING server 
+
+[11:39:30]			6	trois	PING server 
+
+[11:39:42]			5	deux	TOPIC #test :[toooooppppppiuiiiicccc] [toooooppppppiuiiiicccc] 
+
+[11:39:59]			4	lleciak	PING server 
+
+[11:40:27]			5	deux	PING server 
+
+[11:40:31]			6	trois	PING server 
+
+[11:41:00]			4	lleciak	PING server 
+
+[11:41:28]			5	deux	PING server 
+
+[11:41:32]			6	trois	PING server 
+
+[11:42:01]			4	lleciak	PING server 
+
+[11:42:29]			5	deux	PING server 
+
+[11:42:33]			6	trois	PING server 
+
+[11:43:02]			4	lleciak	PING server 
+
+[11:43:30]			5	deux	PING server 
+
+[11:43:34]			6	trois	PING server 
+
+[11:44:03]			4	lleciak	PING server 
+
+[11:44:31]			5	deux	PING server 
+
+[11:44:35]			6	trois	PING server 
+
+[11:45:04]			4	lleciak	PING server 
+
+[11:45:32]			5	deux	PING server 
+
+[11:45:36]			6	trois	PING server 
+
+[11:45:37]			5	deux	WHOIS deux 
+
+[11:45:40]			5	deux	WHO #test 
+
+[11:46:05]			4	lleciak	PING server 
+
+[11:46:23]			5	deux	WHO deux 
+
+[11:46:29]			5	deux	WHO trois 
+
+[11:46:32]			5	deux	WHO trois lol 
+
+[11:46:35]			5	deux	PING server 
+
+[11:46:35]			5	deux	WHO trois lol hihih 
+
+[11:46:37]			6	trois	PING server 
+
+[11:47:06]			4	lleciak	PING server 
+
+[11:47:19]			5	deux	WHO test 
+
+[11:47:33]			5	deux	WHO lleciak 
+
+[11:47:36]			5	deux	PING server 
+
+[11:47:38]			6	trois	PING server 
+
+[11:48:07]			4	lleciak	PING server 
+
+[11:48:21]			4	lleciak	JOIN #super 
+
+[11:48:32]			4	lleciak	INVITE deux #super 
+
+[11:48:37]			5	deux	PING server 
+
+[11:48:39]			6	trois	PING server 
+
+[11:49:08]			4	lleciak	PING server 
+
+[11:49:38]			5	deux	PING server 
+
+[11:49:40]			6	trois	PING server 
+
+[11:50:09]			4	lleciak	PING server 
+
+[11:50:39]			5	deux	PING server 
+
+[11:50:41]			6	trois	PING server 
+
+[11:51:10]			4	lleciak	PING server 
+
+[11:51:40]			5	deux	PING server 
+
+[11:51:42]			6	trois	PING server 
+
+[11:51:43]			5	deux	WHOIS deux 
+
+[11:51:49]			5	deux	version 
+
+[11:52:11]			4	lleciak	PING server 
+
+[11:52:25]			4	lleciak	KICK #test trois :[dsl] [dsl] 
+
+[11:52:37]			6	trois	PRIVMSG #test :cc 
+
+[11:52:41]			5	deux	PING server 
+
+[11:52:43]			6	trois	PING server 
+
+[11:52:51]			4	lleciak	KICK #test trois :[dsl] [dsl] 
+
+[11:53:01]			4	lleciak	KICK #test trois : 
+
+[11:53:12]			4	lleciak	PING server 
+
+[11:53:31]			6	trois	WHOIS trois 
+
+[11:53:42]			5	deux	PING server 
+
+[11:53:44]			6	trois	PING server 
+
+[11:54:13]			4	lleciak	PING server 
+
+[11:54:43]			5	deux	PING server 
+
+[11:54:45]			6	trois	PING server 
+
+[11:55:14]			4	lleciak	PING server 
+
+[11:55:44]			5	deux	PING server 
+
+[11:55:46]			6	trois	PING server 
+
+[11:56:15]			4	lleciak	PING server 
+
+[11:56:45]			5	deux	PING server 
+
+[11:56:47]			6	trois	PING server 
+
+[11:57:16]			4	lleciak	PING server 
+
+[11:57:46]			5	deux	PING server 
+
+[11:57:48]			6	trois	PING server 
+
+[11:58:17]			4	lleciak	PING server 
+
+[11:58:47]			5	deux	PING server 
+
+[11:58:49]			6	trois	PING server 
+
+[11:59:18]			4	lleciak	PING server 
+
+[11:59:48]			5	deux	PING server 
+
+[11:59:50]			6	trois	PING server 
+
+[12:00:02]		REMOVED CLIENT
+
+[12:00:02]		REMOVED CLIENT
+
+[12:00:02]		REMOVED CLIENT
+
+[12:00:02]	✖️ SERVER  OFF
+
+[12:00:36]	✅ SERVER  ON
+
+[12:00:42]		NEW CLIENT
+
+[12:00:42]			4	default	CAP LS 
+
+[12:00:42]			4	default	PASS mdp 
+
+[12:00:42]			4	default	NICK lleciak 
+
+[12:00:42]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[12:00:42]			4	lleciak	MODE default +i 
+
+[12:00:42]			4	lleciak	WHOIS lleciak 
+
+[12:00:42]			4	lleciak	MODE lleciak +i 
+
+[12:00:46]			4	lleciak	PING server 
+
+[12:00:51]			4	lleciak	JOIN #fess 
+
+[12:01:25]			4	lleciak	TOPIC #fess :[coucouc cv hihi] [coucouc cv hihi] 
+
+[12:01:47]			4	lleciak	PING server 
+
+[12:02:48]			4	lleciak	PING server 
+
+[12:03:15]		NEW CLIENT
+
+[12:03:15]			5	default	CAP LS 
+
+[12:03:15]			5	default	PASS mdp 
+
+[12:03:15]			5	default	NICK lleciak 
+
+[12:03:15]			5	lleciak_	USER lleciak lleciak localhost :Louise Leciak 
+
+[12:03:15]			5	lleciak_	MODE default +i 
+
+[12:03:15]			5	lleciak_	WHOIS lleciak 
+
+[12:03:15]			5	lleciak_	MODE lleciak_ +i 
+
+[12:03:15]			5	lleciak_	WHOIS lleciak 
+
+[12:03:17]		NEW CLIENT
+
+[12:03:17]			6	default	CAP LS 
+
+[12:03:17]			6	default	PASS mdp 
+
+[12:03:17]			6	default	NICK lleciak 
+
+[12:03:17]			6	lleciak__	USER lleciak lleciak localhost :Louise Leciak 
+
+[12:03:17]			6	lleciak__	MODE default +i 
+
+[12:03:17]			6	lleciak__	WHOIS lleciak 
+
+[12:03:17]			6	lleciak__	MODE lleciak__ +i 
+
+[12:03:17]			6	lleciak__	WHOIS lleciak 
+
+[12:03:20]			5	lleciak_	PING server 
+
+[12:03:22]			6	lleciak__	PING server 
+
+[12:03:22]			5	lleciak_	NICK thomas 
+
+[12:03:22]			5	thomas	MODE lleciak_ +i 
+
+[12:03:22]			5	thomas	WHOIS lleciak 
+
+[12:03:22]			5	thomas	MODE thomas +i 
+
+[12:03:25]			5	thomas	WHOIS lleciak 
+
+[12:03:26]			6	lleciak__	NICK louve 
+
+[12:03:26]			6	louve	MODE lleciak__ +i 
+
+[12:03:26]			6	louve	WHOIS lleciak 
+
+[12:03:26]			6	louve	MODE louve +i 
+
+[12:03:26]			6	louve	WHOIS lleciak 
+
+[12:03:49]			4	lleciak	PING server 
+
+[12:04:21]			5	thomas	PING server 
+
+[12:04:23]			6	louve	PING server 
+
+[12:04:25]			4	lleciak	PRIVMSG thomas :coucou ca va oupas 
+
+[12:04:47]			5	thomas	JOIN #42 
+
+[12:04:50]			4	lleciak	PING server 
+
+[12:05:03]			4	lleciak	PRIVMSG #42 :coucou ca va oupas 
+
+[12:05:12]			4	lleciak	JOIN #42 
+
+[12:05:22]			5	thomas	PING server 
+
+[12:05:24]			6	louve	PING server 
+
+[12:05:29]			4	lleciak	KICK #42 thomas :[dsl lol] [dsl lol] 
+
+[12:05:49]			4	lleciak	JOIN #42 
+
+[12:05:51]			4	lleciak	PRIVMSG #42 :cc 
+
+[12:05:55]			4	lleciak	PING server 
+
+[12:06:04]			5	thomas	KICK #42 lleciak : 
+
+[12:06:13]			4	lleciak	PRIVMSG #42 :cc 
+
+[12:06:14]			4	lleciak	PRIVMSG #42 :cc 
+
+[12:06:15]			4	lleciak	PRIVMSG #42 :cc 
+
+[12:06:15]			4	lleciak	PRIVMSG #42 :c 
+
+[12:06:16]			4	lleciak	PRIVMSG #42 :c 
+
+[12:06:18]			4	lleciak	PRIVMSG #42 :c 
+
+[12:06:21]			4	lleciak	PRIVMSG #42 :c 
+
+[12:06:23]			5	thomas	PING server 
+
+[12:06:23]			4	lleciak	PRIVMSG #42 :c 
+
+[12:06:25]			6	louve	PING server 
+
+[12:06:26]			5	thomas	KICK #42 lleciak : 
+
+[12:06:26]			4	lleciak	PRIVMSG #42 :c 
+
+[12:06:28]			4	lleciak	PRIVMSG #42 :c 
+
+[12:06:31]			4	lleciak	PRIVMSG #42 :c 
+
+[12:06:33]			4	lleciak	PRIVMSG #42 :c 
+
+[12:06:36]			4	lleciak	PRIVMSG #42 :c 
+
+[12:06:38]			4	lleciak	PRIVMSG #42 :c 
+
+[12:06:56]			4	lleciak	PING server 
+
+[12:06:57]			4	lleciak	PRIVMSG #42 :cc 
+
+[12:07:24]			5	thomas	PING server 
+
+[12:07:25]			5	thomas	TOPIC #42 :[mdr lol] [mdr lol] 
+
+[12:07:26]			6	louve	PING server 
+
+[12:07:57]			4	lleciak	PING server 
+
+[12:08:25]			5	thomas	PING server 
+
+[12:08:26]		REMOVED CLIENT
+
+[12:08:26]		REMOVED CLIENT
+
+[12:08:26]		REMOVED CLIENT
+
+[12:08:26]	✖️ SERVER  OFF
+
+[12:08:35]	✅ SERVER  ON
+
+[12:08:50]		NEW CLIENT
+
+[12:08:50]			4	default	CAP LS 
+
+[12:08:50]			4	default	PASS mdp 
+
+[12:08:50]			4	default	NICK lleciak 
+
+[12:08:50]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[12:08:50]			4	lleciak	MODE default +i 
+
+[12:08:50]			4	lleciak	WHOIS lleciak 
+
+[12:08:50]			4	lleciak	MODE lleciak +i 
+
+[12:08:54]			4	lleciak	PING server 
+
+[12:08:55]		NEW CLIENT
+
+[12:08:55]			5	default	CAP LS 
+
+[12:08:55]			5	default	PASS mdp 
+
+[12:08:55]			5	default	NICK lleciak 
+
+[12:08:55]			5	lleciak_	USER lleciak lleciak localhost :Louise Leciak 
+
+[12:08:55]			5	lleciak_	MODE default +i 
+
+[12:08:55]			5	lleciak_	WHOIS lleciak 
+
+[12:08:55]			5	lleciak_	MODE lleciak_ +i 
+
+[12:08:55]			5	lleciak_	WHOIS lleciak 
+
+[12:09:00]			5	lleciak_	PING server 
+
+[12:09:02]			5	lleciak_	JOIN #42 
+
+[12:09:07]			4	lleciak	JOIN #42 
+
+[12:09:13]			4	lleciak	TOPIC #42 :test 
+
+[12:09:55]			4	lleciak	PING server 
+
+[12:10:01]			5	lleciak_	PING server 
+
+[12:10:56]			4	lleciak	PING server 
+
+[12:11:02]			5	lleciak_	PING server 
+
+[12:11:26]			5	lleciak_	PART #42 
+
+[12:11:36]			5	lleciak_	PART 42 
+
+[12:11:39]			5	lleciak_	PART #42 
+
+[12:11:43]			5	lleciak_	QUIT :leaving 
+
+[12:11:46]		NEW CLIENT
+
+[12:11:46]			5	default	CAP LS 
+
+[12:11:46]			5	default	PASS mdp 
+
+[12:11:46]			5	default	NICK lleciak 
+
+[12:11:46]			5	lleciak_	USER lleciak lleciak localhost :Louise Leciak 
+
+[12:11:46]			5	lleciak_	MODE default +i 
+
+[12:11:46]			5	lleciak_	WHOIS lleciak 
+
+[12:11:46]			5	lleciak_	MODE lleciak_ +i 
+
+[12:11:46]			5	lleciak_	WHOIS lleciak 
+
+[12:11:51]			5	lleciak_	PING server 
+
+[12:11:56]			5	lleciak_	JOIN #42 
+
+[12:11:57]			4	lleciak	PING server 
+
+[12:12:52]			5	lleciak_	PING server 
+
+[12:12:58]			4	lleciak	PING server 
+
+[12:13:15]		REMOVED CLIENT
+
+[12:13:15]		REMOVED CLIENT
+
+[12:13:15]	✖️ SERVER  OFF
+
+[12:13:24]	✅ SERVER  ON
+
+[12:13:28]		NEW CLIENT
+
+[12:13:28]			4	default	CAP LS 
+
+[12:13:28]			4	default	PASS mdp 
+
+[12:13:28]			4	default	NICK lleciak 
+
+[12:13:28]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[12:13:28]			4	lleciak	MODE default +i 
+
+[12:13:28]			4	lleciak	WHOIS lleciak 
+
+[12:13:28]			4	lleciak	MODE lleciak +i 
+
+[12:13:30]		NEW CLIENT
+
+[12:13:30]			5	default	CAP LS 
+
+[12:13:30]			5	default	PASS mdp 
+
+[12:13:30]			5	default	NICK lleciak 
+
+[12:13:30]			5	lleciak_	USER lleciak lleciak localhost :Louise Leciak 
+
+[12:13:30]			5	lleciak_	MODE default +i 
+
+[12:13:30]			5	lleciak_	WHOIS lleciak 
+
+[12:13:30]			5	lleciak_	MODE lleciak_ +i 
+
+[12:13:30]			5	lleciak_	WHOIS lleciak 
+
+[12:13:32]			4	lleciak	PING server 
+
+[12:13:33]			5	lleciak_	JOIN #42 
+
+[12:13:37]			5	lleciak_	PING server 
+
+[12:13:38]			4	lleciak	JOIN #42 
+
+[12:13:46]			4	lleciak	TOPIC #42 :test 
+
+[12:14:33]			4	lleciak	PING server 
+
+[12:14:38]			5	lleciak_	PING server 
+
+[12:15:07]		REMOVED CLIENT
+
+[12:15:07]		REMOVED CLIENT
+
+[12:15:07]	✖️ SERVER  OFF
+
+[12:15:15]	✅ SERVER  ON
+
+[12:15:16]		NEW CLIENT
+
+[12:15:16]			4	default	CAP LS 
+
+[12:15:16]			4	default	PASS mdp 
+
+[12:15:16]			4	default	NICK lleciak 
+
+[12:15:16]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[12:15:16]			4	lleciak	MODE default +i 
+
+[12:15:16]			4	lleciak	WHOIS lleciak 
+
+[12:15:16]			4	lleciak	MODE lleciak +i 
+
+[12:15:19]			4	lleciak	JOIN #42 
+
+[12:15:23]			4	lleciak	PING server 
+
+[12:15:29]		NEW CLIENT
+
+[12:15:29]			5	default	CAP LS 
+
+[12:15:29]			5	default	PASS mdp 
+
+[12:15:29]			5	default	NICK lleciak 
+
+[12:15:29]			5	lleciak_	USER lleciak lleciak localhost :Louise Leciak 
+
+[12:15:29]			5	lleciak_	MODE default +i 
+
+[12:15:29]			5	lleciak_	WHOIS lleciak 
+
+[12:15:29]			5	lleciak_	MODE lleciak_ +i 
+
+[12:15:29]			5	lleciak_	WHOIS lleciak 
+
+[12:15:31]			5	lleciak_	JOIN #42 
+
+[12:15:35]			5	lleciak_	TOPIC #42 :test 
+
+[12:15:40]			5	lleciak_	PING server 
+
+[12:16:24]			4	lleciak	PING server 
+
+[12:16:41]			5	lleciak_	PING server 
+
+[12:16:46]		NEW CLIENT
+
+[12:16:46]			6	default	CAP LS 
+
+[12:16:46]			6	default	PASS mdp 
+
+[12:16:46]			6	default	NICK lleciak 
+
+[12:16:46]			6	lleciak__	USER lleciak lleciak localhost :Louise Leciak 
+
+[12:16:46]			6	lleciak__	MODE default +i 
+
+[12:16:46]			6	lleciak__	WHOIS lleciak 
+
+[12:16:46]			6	lleciak__	JOIN #42 
+
+[12:16:46]			6	lleciak__	MODE lleciak__ +i 
+
+[12:16:46]			6	lleciak__	WHOIS lleciak 
+
+[12:16:51]			6	lleciak__	PING server 
+
+[12:17:25]			4	lleciak	PING server 
+
+[12:17:42]			5	lleciak_	PING server 
+
+[12:17:52]			6	lleciak__	PING server 
+
+[12:17:54]		REMOVED CLIENT
+
+[12:17:54]		REMOVED CLIENT
+
+[12:17:54]		REMOVED CLIENT
+
+[12:17:54]	✖️ SERVER  OFF
+
+[12:18:02]	✅ SERVER  ON
+
+[12:18:04]		NEW CLIENT
+
+[12:18:04]			4	default	CAP LS 
+
+[12:18:04]			4	default	PASS mdp 
+
+[12:18:04]			4	default	NICK lleciak 
+
+[12:18:04]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[12:18:04]			4	lleciak	MODE default +i 
+
+[12:18:04]			4	lleciak	WHOIS lleciak 
+
+[12:18:04]			4	lleciak	MODE lleciak +i 
+
+[12:18:06]			4	lleciak	JOIN #42 
+
+[12:18:11]			4	lleciak	PING server 
+
+[12:18:15]		NEW CLIENT
+
+[12:18:15]			5	default	CAP LS 
+
+[12:18:15]			5	default	PASS mdp 
+
+[12:18:15]			5	default	NICK lleciak 
+
+[12:18:15]			5	lleciak_	USER lleciak lleciak localhost :Louise Leciak 
+
+[12:18:15]			5	lleciak_	MODE default +i 
+
+[12:18:15]			5	lleciak_	WHOIS lleciak 
+
+[12:18:15]			5	lleciak_	MODE lleciak_ +i 
+
+[12:18:15]			5	lleciak_	WHOIS lleciak 
+
+[12:18:18]			5	lleciak_	JOIN #42 
+
+[12:18:23]			5	lleciak_	TOPIC #42 :test 
+
+[12:18:26]			5	lleciak_	PING server 
+
+[12:19:12]			4	lleciak	PING server 
+
+[12:19:27]			5	lleciak_	PING server 
+
+[12:20:13]			4	lleciak	PING server 
+
+[12:20:28]			5	lleciak_	PING server 
+
+[12:21:14]			4	lleciak	PING server 
+
+[12:21:29]			5	lleciak_	PING server 
+
+[12:21:46]		NEW CLIENT
+
+[12:21:46]			6	default	CAP LS 
+
+[12:21:46]			6	default	PASS mdp 
+
+[12:21:46]			6	default	NICK lleciak 
+
+[12:21:46]			6	lleciak__	USER lleciak lleciak localhost :Louise Leciak 
+
+[12:21:46]			6	lleciak__	MODE default +i 
+
+[12:21:46]			6	lleciak__	WHOIS lleciak 
+
+[12:21:46]			6	lleciak__	JOIN #42 
+
+[12:21:46]			6	lleciak__	MODE lleciak__ +i 
+
+[12:21:46]			6	lleciak__	WHOIS lleciak 
+
+[12:21:51]			6	lleciak__	PING server 
+
+[12:22:15]			4	lleciak	PING server 
+
+[12:22:30]			5	lleciak_	PING server 
+
+[12:22:52]			6	lleciak__	PING server 
+
+[12:23:16]			4	lleciak	PING server 
+
+[12:23:31]			5	lleciak_	PING server 
+
+[12:23:53]			6	lleciak__	PING server 
+
+[12:24:17]			4	lleciak	PING server 
+
+[12:24:32]			5	lleciak_	PING server 
+
+[12:24:54]			6	lleciak__	PING server 
+
+[12:25:12]		REMOVED CLIENT
+
+[12:25:12]		REMOVED CLIENT
+
+[12:25:12]		REMOVED CLIENT
+
+[12:25:12]	✖️ SERVER  OFF
+
+[12:38:50]	✅ SERVER  ON
+
+[12:38:53]	✖️ SERVER  OFF
+
+[12:39:06]	✅ SERVER  ON
+
+[12:39:12]		NEW CLIENT
+
+[12:39:12]			4	default	CAP LS 
+
+[12:39:12]			4	default	PASS mdp 
+
+[12:39:12]			4	default	NICK lleciak 
+
+[12:39:12]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[12:39:12]			4	lleciak	MODE default +i 
+
+[12:39:12]			4	lleciak	WHOIS lleciak 
+
+[12:39:12]			4	lleciak	MODE lleciak +i 
+
+[12:39:16]			4	lleciak	JOIN #42 
+
+[12:39:18]		NEW CLIENT
+
+[12:39:18]			5	default	CAP LS 
+
+[12:39:18]			5	default	PASS mdp 
+
+[12:39:18]			5	default	NICK lleciak 
+
+[12:39:18]			5	lleciak_	USER lleciak lleciak localhost :Louise Leciak 
+
+[12:39:18]			5	lleciak_	MODE default +i 
+
+[12:39:18]			5	lleciak_	WHOIS lleciak 
+
+[12:39:18]			5	lleciak_	MODE lleciak_ +i 
+
+[12:39:18]			5	lleciak_	WHOIS lleciak 
+
+[12:39:19]			4	lleciak	PING server 
+
+[12:39:20]			5	lleciak_	JOIN #42 
+
+[12:39:25]			5	lleciak_	PING server 
+
+[12:39:27]			5	lleciak_	TOPIC #42 :test 
+
+[12:39:43]			5	lleciak_	TOPIC #42 :cc 
+
+[12:40:20]			4	lleciak	PING server 
+
+[12:40:26]			5	lleciak_	PING server 
+
+[12:40:27]			5	lleciak_	TOPIC #42 :test 
+
+[12:40:33]			5	lleciak_	JOIN #test 
+
+[12:40:37]			5	lleciak_	TOPIC #test :cc 
+
+[12:40:59]			4	lleciak	JOIN #test 
+
+[12:41:12]		REMOVED CLIENT
+
+[12:41:12]		REMOVED CLIENT
+
+[12:41:12]	✖️ SERVER  OFF
+
+[12:43:55]	✅ SERVER  ON
+
+[12:43:59]		NEW CLIENT
+
+[12:43:59]			4	default	CAP LS 
+
+[12:43:59]			4	default	PASS mdp 
+
+[12:43:59]			4	default	NICK lleciak 
+
+[12:43:59]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[12:43:59]			4	lleciak	MODE default +i 
+
+[12:43:59]			4	lleciak	WHOIS lleciak 
+
+[12:43:59]			4	lleciak	MODE lleciak +i 
+
+[12:44:03]			4	lleciak	PING server 
+
+[12:44:12]		NEW CLIENT
+
+[12:44:12]			5	default	CAP LS 
+
+[12:44:12]			5	default	PASS mdp 
+
+[12:44:12]			5	default	NICK lleciak 
+
+[12:44:12]			5	lleciak_	USER lleciak lleciak localhost :Louise Leciak 
+
+[12:44:12]			5	lleciak_	MODE default +i 
+
+[12:44:13]			5	lleciak_	WHOIS lleciak 
+
+[12:44:13]			5	lleciak_	JOIN #42,#test 
+
+[12:44:13]			5	lleciak_	MODE lleciak_ +i 
+
+[12:44:13]			5	lleciak_	WHOIS lleciak 
+
+[12:44:17]			5	lleciak_	PING server 
+
+[12:44:35]			4	lleciak	JOIN #42 
+
+[12:44:37]			4	lleciak	PRIVMSG #42 :cc 
+
+[12:44:47]			4	lleciak	TOPIC #42 :[cc] [cc] 
+
+[12:45:04]			4	lleciak	PING server 
+
+[12:45:18]			5	lleciak_	PING server 
+
+[12:46:05]			4	lleciak	PING server 
+
+[12:46:19]			5	lleciak_	PING server 
+
+[12:46:46]		NEW CLIENT
+
+[12:46:46]			6	default	CAP LS 
+
+[12:46:46]			6	default	PASS mdp 
+
+[12:46:46]			6	default	NICK lleciak 
+
+[12:46:46]			6	lleciak__	USER lleciak lleciak localhost :Louise Leciak 
+
+[12:46:46]			6	lleciak__	MODE default +i 
+
+[12:46:46]			6	lleciak__	WHOIS lleciak 
+
+[12:46:46]			6	lleciak__	JOIN #42 
+
+[12:46:46]			6	lleciak__	MODE lleciak__ +i 
+
+[12:46:46]			6	lleciak__	WHOIS lleciak 
+
+[12:46:51]			6	lleciak__	PING server 
+
+[12:47:06]			4	lleciak	PING server 
+
+[12:47:20]			5	lleciak_	PING server 
+
+[12:47:52]			6	lleciak__	PING server 
+
+[12:48:07]			4	lleciak	PING server 
+
+[12:48:21]			5	lleciak_	PING server 
+
+[12:48:53]			6	lleciak__	PING server 
+
+[12:49:08]			4	lleciak	PING server 
+
+[12:49:22]			5	lleciak_	PING server 
+
+[12:49:54]			6	lleciak__	PING server 
+
+[12:50:09]			4	lleciak	PING server 
+
+[12:50:23]			5	lleciak_	PING server 
+
+[12:50:55]			6	lleciak__	PING server 
+
+[12:51:10]			4	lleciak	PING server 
+
+[12:51:24]			5	lleciak_	PING server 
+
+[12:51:56]			6	lleciak__	PING server 
+
+[12:52:11]			4	lleciak	PING server 
+
+[12:52:25]			5	lleciak_	PING server 
+
+[12:52:57]			6	lleciak__	PING server 
+
+[12:53:12]			4	lleciak	PING server 
+
+[12:53:26]			5	lleciak_	PING server 
+
+[12:53:58]			6	lleciak__	PING server 
+
+[12:54:13]			4	lleciak	PING server 
+
+[12:54:27]			5	lleciak_	PING server 
+
+[12:54:59]			6	lleciak__	PING server 
+
+[12:55:14]			4	lleciak	PING server 
+
+[12:55:28]			5	lleciak_	PING server 
+
+[12:56:00]			6	lleciak__	PING server 
+
+[12:56:15]			4	lleciak	PING server 
+
+[12:56:29]			5	lleciak_	PING server 
+
+[12:57:01]			6	lleciak__	PING server 
+
+[12:57:16]			4	lleciak	PING server 
+
+[12:57:30]			5	lleciak_	PING server 
+
+[12:58:02]			6	lleciak__	PING server 
+
+[12:58:17]			4	lleciak	PING server 
+
+[12:58:31]			5	lleciak_	PING server 
+
+[12:59:03]			6	lleciak__	PING server 
+
+[12:59:18]			4	lleciak	PING server 
+
+[12:59:32]			5	lleciak_	PING server 
+
+[13:00:04]			6	lleciak__	PING server 
+
+[13:00:19]			4	lleciak	PING server 
+
+[13:00:33]			5	lleciak_	PING server 
+
+[13:01:05]			6	lleciak__	PING server 
+
+[13:01:20]			4	lleciak	PING server 
+
+[13:01:34]			5	lleciak_	PING server 
+
+[13:02:06]			6	lleciak__	PING server 
+
+[13:02:21]			4	lleciak	PING server 
+
+[13:02:35]			5	lleciak_	PING server 
+
+[13:03:07]			6	lleciak__	PING server 
+
+[13:03:22]			4	lleciak	PING server 
+
+[13:03:36]			5	lleciak_	PING server 
+
+[13:04:08]			6	lleciak__	PING server 
+
+[13:04:23]			4	lleciak	PING server 
+
+[13:04:37]			5	lleciak_	PING server 
+
+[13:05:09]			6	lleciak__	PING server 
+
+[13:05:24]			4	lleciak	PING server 
+
+[13:05:38]			5	lleciak_	PING server 
+
+[13:06:10]			6	lleciak__	PING server 
+
+[13:06:25]			4	lleciak	PING server 
+
+[13:06:39]			5	lleciak_	PING server 
+
+[13:07:11]			6	lleciak__	PING server 
+
+[13:07:26]			4	lleciak	PING server 
+
+[13:07:40]			5	lleciak_	PING server 
+
+[13:08:12]			6	lleciak__	PING server 
+
+[13:08:27]			4	lleciak	PING server 
+
+[13:08:41]			5	lleciak_	PING server 
+
+[13:09:13]			6	lleciak__	PING server 
+
+[13:09:28]			4	lleciak	PING server 
+
+[13:09:42]			5	lleciak_	PING server 
+
+[13:10:14]			6	lleciak__	PING server 
+
+[13:10:29]			4	lleciak	PING server 
+
+[13:10:43]			5	lleciak_	PING server 
+
+[13:11:15]			6	lleciak__	PING server 
+
+[13:11:30]			4	lleciak	PING server 
+
+[13:11:44]			5	lleciak_	PING server 
+
+[13:12:16]			6	lleciak__	PING server 
+
+[13:12:31]			4	lleciak	PING server 
+
+[13:12:45]			5	lleciak_	PING server 
+
+[13:13:17]			6	lleciak__	PING server 
+
+[13:13:32]			4	lleciak	PING server 
+
+[13:13:46]			5	lleciak_	PING server 
+
+[13:14:18]			6	lleciak__	PING server 
+
+[13:14:33]			4	lleciak	PING server 
+
+[13:14:47]			5	lleciak_	PING server 
+
+[13:15:19]			6	lleciak__	PING server 
+
+[13:15:34]			4	lleciak	PING server 
+
+[13:15:48]			5	lleciak_	PING server 
+
+[13:16:20]			6	lleciak__	PING server 
+
+[13:16:35]			4	lleciak	PING server 
+
+[13:16:49]			5	lleciak_	PING server 
+
+[13:17:21]			6	lleciak__	PING server 
+
+[13:17:36]			4	lleciak	PING server 
+
+[13:17:50]			5	lleciak_	PING server 
+
+[13:18:22]			6	lleciak__	PING server 
+
+[13:18:37]			4	lleciak	PING server 
+
+[13:18:51]			5	lleciak_	PING server 
+
+[13:19:23]			6	lleciak__	PING server 
+
+[13:19:38]			4	lleciak	PING server 
+
+[13:19:52]			5	lleciak_	PING server 
+
+[13:20:24]			6	lleciak__	PING server 
+
+[13:20:39]			4	lleciak	PING server 
+
+[13:20:53]			5	lleciak_	PING server 
+
+[13:21:25]			6	lleciak__	PING server 
+
+[13:21:40]			4	lleciak	PING server 
+
+[13:21:54]			5	lleciak_	PING server 
+
+[13:22:26]			6	lleciak__	PING server 
+
+[13:22:41]			4	lleciak	PING server 
+
+[13:22:55]			5	lleciak_	PING server 
+
+[13:23:27]			6	lleciak__	PING server 
+
+[13:23:42]			4	lleciak	PING server 
+
+[13:23:56]			5	lleciak_	PING server 
+
+[13:24:28]			6	lleciak__	PING server 
+
+[13:24:43]			4	lleciak	PING server 
+
+[13:24:57]			5	lleciak_	PING server 
+
+[13:25:29]			6	lleciak__	PING server 
+
+[13:25:44]			4	lleciak	PING server 
+
+[13:25:58]			5	lleciak_	PING server 
+
+[13:26:30]			6	lleciak__	PING server 
+
+[13:26:45]			4	lleciak	PING server 
+
+[13:26:59]			5	lleciak_	PING server 
+
+[13:27:31]			6	lleciak__	PING server 
+
+[13:27:46]			4	lleciak	PING server 
+
+[13:28:00]			5	lleciak_	PING server 
+
+[13:28:32]			6	lleciak__	PING server 
+
+[13:28:47]			4	lleciak	PING server 
+
+[13:29:01]			5	lleciak_	PING server 
+
+[13:29:33]			6	lleciak__	PING server 
+
+[13:29:48]			4	lleciak	PING server 
+
+[13:30:02]			5	lleciak_	PING server 
+
+[13:30:34]			6	lleciak__	PING server 
+
+[13:30:49]			4	lleciak	PING server 
+
+[13:31:03]			5	lleciak_	PING server 
+
+[13:31:35]			6	lleciak__	PING server 
+
+[13:31:50]			4	lleciak	PING server 
+
+[13:32:04]			5	lleciak_	PING server 
+
+[13:32:36]			6	lleciak__	PING server 
+
+[13:32:51]			4	lleciak	PING server 
+
+[13:33:05]			5	lleciak_	PING server 
+
+[13:33:37]			6	lleciak__	PING server 
+
+[13:33:52]			4	lleciak	PING server 
+
+[13:34:06]			5	lleciak_	PING server 
+
+[13:34:38]			6	lleciak__	PING server 
+
+[13:34:53]			4	lleciak	PING server 
+
+[13:35:07]			5	lleciak_	PING server 
+
+[13:35:39]			6	lleciak__	PING server 
+
+[13:35:54]			4	lleciak	PING server 
+
+[13:36:08]			5	lleciak_	PING server 
+
+[13:36:40]			6	lleciak__	PING server 
+
+[13:36:55]			4	lleciak	PING server 
+
+[13:37:09]			5	lleciak_	PING server 
+
+[13:37:41]			6	lleciak__	PING server 
+
+[13:37:56]			4	lleciak	PING server 
+
+[13:38:10]			5	lleciak_	PING server 
+
+[13:38:42]			6	lleciak__	PING server 
+
+[13:38:57]			4	lleciak	PING server 
+
+[13:39:11]			5	lleciak_	PING server 
+
+[13:39:43]			6	lleciak__	PING server 
+
+[13:39:58]			4	lleciak	PING server 
+
+[13:40:12]			5	lleciak_	PING server 
+
+[13:40:44]			6	lleciak__	PING server 
+
+[13:40:59]			4	lleciak	PING server 
+
+[13:41:13]			5	lleciak_	PING server 
+
+[13:41:45]			6	lleciak__	PING server 
+
+[13:42:00]			4	lleciak	PING server 
+
+[13:42:14]			5	lleciak_	PING server 
+
+[13:42:46]			6	lleciak__	PING server 
+
+[13:43:01]			4	lleciak	PING server 
+
+[13:43:15]			5	lleciak_	PING server 
+
+[13:43:47]			6	lleciak__	PING server 
+
+[13:44:02]			4	lleciak	PING server 
+
+[13:44:16]			5	lleciak_	PING server 
+
+[13:44:48]			6	lleciak__	PING server 
+
+[13:45:03]			4	lleciak	PING server 
+
+[13:45:17]			5	lleciak_	PING server 
+
+[13:45:49]			6	lleciak__	PING server 
+
+[13:46:04]			4	lleciak	PING server 
+
+[13:46:18]			5	lleciak_	PING server 
+
+[13:46:50]			6	lleciak__	PING server 
+
+[13:47:05]			4	lleciak	PING server 
+
+[13:47:19]			5	lleciak_	PING server 
+
+[13:47:51]			6	lleciak__	PING server 
+
+[13:48:06]			4	lleciak	PING server 
+
+[13:48:20]			5	lleciak_	PING server 
+
+[13:48:52]			6	lleciak__	PING server 
+
+[13:49:07]			4	lleciak	PING server 
+
+[13:49:21]			5	lleciak_	PING server 
+
+[13:49:53]			6	lleciak__	PING server 
+
+[13:50:08]			4	lleciak	PING server 
+
+[13:50:22]			5	lleciak_	PING server 
+
+[13:50:54]			6	lleciak__	PING server 
+
+[13:51:09]			4	lleciak	PING server 
+
+[13:51:23]			5	lleciak_	PING server 
+
+[13:51:55]			6	lleciak__	PING server 
+
+[13:52:10]			4	lleciak	PING server 
+
+[13:52:24]			5	lleciak_	PING server 
+
+[13:52:56]			6	lleciak__	PING server 
+
+[13:53:11]			4	lleciak	PING server 
+
+[13:53:25]			5	lleciak_	PING server 
+
+[13:53:38]	✖️ SERVER  OFF
+
+[13:53:49]		REMOVED CLIENT
+
+[13:53:49]		REMOVED CLIENT
+
+[13:53:49]		REMOVED CLIENT
+
+[13:53:49]	✖️ SERVER  OFF
+
+[13:54:46]	✅ SERVER  ON
+
+[13:54:56]		NEW CLIENT
+
+[13:54:56]			4	default	CAP LS 
+
+[13:54:56]			4	default	PASS mdp 
+
+[13:54:56]			4	default	NICK lleciak 
+
+[13:54:56]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[13:54:56]			4	lleciak	MODE default +i 
+
+[13:54:56]			4	lleciak	WHOIS lleciak 
+
+[13:54:56]			4	lleciak	MODE lleciak +i 
+
+[13:55:00]			4	lleciak	PING server 
+
+[13:55:06]			4	lleciak	NICK cc 
+
+[13:55:06]			4	cc	MODE lleciak +i 
+
+[13:55:06]			4	cc	MODE cc +i 
+
+[13:55:06]			4	cc	WHOIS lleciak 
+
+[13:55:17]			4	cc	JOIN #42 
+
+[13:55:18]		NEW CLIENT
+
+[13:55:18]			5	default	CAP LS 
+
+[13:55:18]			5	default	PASS mdp 
+
+[13:55:18]			5	default	NICK lleciak 
+
+[13:55:18]			5	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[13:55:18]			5	lleciak	MODE default +i 
+
+[13:55:18]			5	lleciak	WHOIS lleciak 
+
+[13:55:18]			5	lleciak	MODE lleciak +i 
+
+[13:55:22]			5	lleciak	PING server 
+
+[13:55:24]			5	lleciak	JOIN #42 
+
+[13:55:32]			5	lleciak	PRIVMSG #42 :cc 
+
+[13:55:34]			4	cc	PRIVMSG #42 :youpi 
+
+[13:55:38]			5	lleciak	NICK toto 
+
+[13:55:38]			5	toto	MODE lleciak +i 
+
+[13:55:38]			5	toto	MODE toto +i 
+
+[13:55:38]			5	toto	WHOIS lleciak 
+
+[13:55:45]			4	cc	WHOIS cc 
+
+[13:55:56]			4	cc	WHOIS cc 
+
+[13:56:01]			4	cc	PING server 
+
+[13:56:03]			4	cc	WHOIS lleciak 
+
+[13:56:03]			4	cc	WHOWAS lleciak 1 
+
+[13:56:14]			4	cc	WHOIS #lleciak 
+
+[13:56:14]			4	cc	WHOWAS #lleciak 1 
+
+[13:56:23]			5	toto	PING server 
+
+[13:56:34]			4	cc	WHOIS toto 
+
+[13:56:45]			4	cc	WHOIS cc 
+
+[13:56:59]			4	cc	WHOIS #42 
+
+[13:57:03]			4	cc	PING server 
+
+[13:57:24]			5	toto	PING server 
+
+[13:58:04]			4	cc	PING server 
+
+[13:58:25]			5	toto	PING server 
+
+[13:58:50]		NEW CLIENT
+
+[13:58:50]			6	default	CAP LS 
+
+[13:58:50]			6	default	PASS mdp 
+
+[13:58:50]			6	default	NICK lleciak 
+
+[13:58:50]			6	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[13:58:50]			6	lleciak	MODE default +i 
+
+[13:58:50]			6	lleciak	WHOIS lleciak 
+
+[13:58:50]			6	lleciak	JOIN #42 
+
+[13:58:50]			6	lleciak	MODE lleciak +i 
+
+[13:58:55]			6	lleciak	PING server 
+
+[13:59:05]			4	cc	PING server 
+
+[13:59:20]			4	cc	TOPIC 
+
+[13:59:25]			4	cc	TOPIC 
+
+[13:59:26]			5	toto	PING server 
+
+[13:59:56]			6	lleciak	PING server 
+
+[14:00:06]			4	cc	PING server 
+
+[14:00:27]			5	toto	PING server 
+
+[14:00:39]			4	cc	TOPIC #42 :[coucou hihi] [coucou hihi] 
+
+[14:00:57]			6	lleciak	PING server 
+
+[14:01:07]			4	cc	PING server 
+
+[14:01:08]			4	cc	TOPIC #42 :coucou hihi 
+
+[14:01:28]			5	toto	PING server 
+
+[14:01:58]			6	lleciak	PING server 
+
+[14:02:08]			4	cc	PING server 
+
+[14:02:29]			5	toto	PING server 
+
+[14:02:59]			6	lleciak	PING server 
+
+[14:03:09]			4	cc	PING server 
+
+[14:03:30]			5	toto	PING server 
+
+[14:04:00]			6	lleciak	PING server 
+
+[14:04:10]			4	cc	PING server 
+
+[14:04:31]			5	toto	PING server 
+
+[14:05:01]			6	lleciak	PING server 
+
+[14:05:11]			4	cc	PING server 
+
+[14:05:32]			5	toto	PING server 
+
+[14:06:02]			6	lleciak	PING server 
+
+[14:06:12]			4	cc	PING server 
+
+[14:06:33]			5	toto	PING server 
+
+[14:07:03]			6	lleciak	PING server 
+
+[14:07:13]			4	cc	PING server 
+
+[14:07:34]			5	toto	PING server 
+
+[14:08:04]			6	lleciak	PING server 
+
+[14:08:14]			4	cc	PING server 
+
+[14:08:35]			5	toto	PING server 
+
+[14:09:05]			6	lleciak	PING server 
+
+[14:09:15]			4	cc	PING server 
+
+[14:09:36]			5	toto	PING server 
+
+[14:10:06]			6	lleciak	PING server 
+
+[14:10:16]			4	cc	PING server 
+
+[14:10:37]			5	toto	PING server 
+
+[14:11:07]			6	lleciak	PING server 
+
+[14:11:17]			4	cc	PING server 
+
+[14:11:38]			5	toto	PING server 
+
+[14:12:08]			6	lleciak	PING server 
+
+[14:12:10]		REMOVED CLIENT
+
+[14:12:10]		REMOVED CLIENT
+
+[14:12:10]		REMOVED CLIENT
+
+[14:12:10]	✖️ SERVER  OFF
+
+[14:12:18]	✅ SERVER  ON
+
+[14:12:27]		NEW CLIENT
+
+[14:12:27]			4	default	CAP LS 
+
+[14:12:27]			4	default	PASS mdp 
+
+[14:12:27]			4	default	NICK lleciak 
+
+[14:12:27]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[14:12:27]			4	lleciak	MODE default +i 
+
+[14:12:27]			4	lleciak	WHOIS lleciak 
+
+[14:12:27]			4	lleciak	MODE lleciak +i 
+
+[14:12:31]			4	lleciak	PING server 
+
+[14:12:35]		NEW CLIENT
+
+[14:12:35]			5	default	CAP LS 
+
+[14:12:35]			5	default	PASS mdp 
+
+[14:12:35]			5	default	NICK lleciak 
+
+[14:12:35]			5	lleciak_	USER lleciak lleciak localhost :Louise Leciak 
+
+[14:12:35]			5	lleciak_	MODE default +i 
+
+[14:12:35]			5	lleciak_	WHOIS lleciak 
+
+[14:12:35]			5	lleciak_	MODE lleciak_ +i 
+
+[14:12:35]			5	lleciak_	WHOIS lleciak 
+
+[14:12:39]			5	lleciak_	NICK toto 
+
+[14:12:39]			5	toto	MODE lleciak_ +i 
+
+[14:12:39]			5	toto	WHOIS lleciak 
+
+[14:12:39]			5	toto	MODE toto +i 
+
+[14:12:39]			5	toto	WHOIS lleciak 
+
+[14:12:45]			5	toto	JOIN #42 
+
+[14:12:48]			5	toto	PING server 
+
+[14:12:57]			4	lleciak	JOIN #42 
+
+[14:13:01]			5	toto	TOPIC #42 :test 
+
+[14:13:23]		REMOVED CLIENT
+
+[14:13:23]		REMOVED CLIENT
+
+[14:13:23]	✖️ SERVER  OFF
+
+[14:13:31]	✅ SERVER  ON
+
+[14:13:32]		NEW CLIENT
+
+[14:13:32]			4	default	CAP LS 
+
+[14:13:32]			4	default	PASS mdp 
+
+[14:13:32]			4	default	NICK lleciak 
+
+[14:13:32]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[14:13:32]			4	lleciak	MODE default +i 
+
+[14:13:32]			4	lleciak	WHOIS lleciak 
+
+[14:13:32]			4	lleciak	MODE lleciak +i 
+
+[14:13:35]		NEW CLIENT
+
+[14:13:35]			5	default	CAP LS 
+
+[14:13:35]			5	default	PASS mdp 
+
+[14:13:35]			5	default	NICK lleciak 
+
+[14:13:35]			5	lleciak_	USER lleciak lleciak localhost :Louise Leciak 
+
+[14:13:35]			5	lleciak_	MODE default +i 
+
+[14:13:35]			5	lleciak_	WHOIS lleciak 
+
+[14:13:35]			5	lleciak_	MODE lleciak_ +i 
+
+[14:13:35]			5	lleciak_	WHOIS lleciak 
+
+[14:13:36]			4	lleciak	PING server 
+
+[14:13:38]			5	lleciak_	NICK toto 
+
+[14:13:38]			5	toto	MODE lleciak_ +i 
+
+[14:13:40]			5	toto	WHOIS lleciak 
+
+[14:13:43]			5	toto	MODE toto +i 
+
+[14:13:45]			5	toto	WHOIS lleciak 
+
+[14:13:48]			5	toto	JOIN #42 
+
+[14:13:52]			4	lleciak	JOIN #42 
+
+[14:13:53]			5	toto	PING server 
+
+[14:13:55]			4	lleciak	TOPIC #42 :test 
+
+[14:14:37]			4	lleciak	PING server 
+
+[14:14:42]		REMOVED CLIENT
+
+[14:14:42]		REMOVED CLIENT
+
+[14:14:42]	✖️ SERVER  OFF
+
+[14:14:51]	✅ SERVER  ON
+
+[14:14:51]		NEW CLIENT
+
+[14:14:51]			4	default	CAP LS 
+
+[14:14:51]			4	default	PASS mdp 
+
+[14:14:51]			4	default	NICK lleciak 
+
+[14:14:51]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[14:14:51]			4	lleciak	MODE default +i 
+
+[14:14:51]			4	lleciak	WHOIS lleciak 
+
+[14:14:51]			4	lleciak	MODE lleciak +i 
+
+[14:14:55]			4	lleciak	PING server 
+
+[14:14:56]		NEW CLIENT
+
+[14:14:56]			5	default	CAP LS 
+
+[14:14:56]			5	default	PASS mdp 
+
+[14:14:56]			5	default	NICK lleciak 
+
+[14:14:56]			5	lleciak_	USER lleciak lleciak localhost :Louise Leciak 
+
+[14:14:56]			5	lleciak_	MODE default +i 
+
+[14:14:56]			5	lleciak_	WHOIS lleciak 
+
+[14:14:56]			5	lleciak_	MODE lleciak_ +i 
+
+[14:14:56]			5	lleciak_	WHOIS lleciak 
+
+[14:15:01]			5	lleciak_	NICK toto 
+
+[14:15:01]			5	toto	MODE lleciak_ +i 
+
+[14:15:01]			5	toto	WHOIS lleciak 
+
+[14:15:01]			5	toto	MODE toto +i 
+
+[14:15:01]			5	toto	WHOIS lleciak 
+
+[14:15:03]			5	toto	JOIN #42 
+
+[14:15:08]			5	toto	PING server 
+
+[14:15:09]			5	toto	TOPIC #42 :test 
+
+[14:15:39]		REMOVED CLIENT
+
+[14:15:39]		REMOVED CLIENT
+
+[14:15:39]	✖️ SERVER  OFF
+
+[14:15:48]	✅ SERVER  ON
+
+[14:15:50]		NEW CLIENT
+
+[14:15:50]			4	default	CAP LS 
+
+[14:15:50]			4	default	PASS mdp 
+
+[14:15:50]			4	default	NICK lleciak 
+
+[14:15:50]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[14:15:50]			4	lleciak	MODE default +i 
+
+[14:15:50]			4	lleciak	WHOIS lleciak 
+
+[14:15:50]			4	lleciak	MODE lleciak +i 
+
+[14:15:54]			4	lleciak	PING server 
+
+[14:15:54]		NEW CLIENT
+
+[14:15:54]			5	default	CAP LS 
+
+[14:15:54]			5	default	PASS mdp 
+
+[14:15:54]			5	default	NICK lleciak 
+
+[14:15:54]			5	lleciak_	USER lleciak lleciak localhost :Louise Leciak 
+
+[14:15:54]			5	lleciak_	MODE default +i 
+
+[14:15:55]			5	lleciak_	WHOIS lleciak 
+
+[14:15:55]			5	lleciak_	MODE lleciak_ +i 
+
+[14:15:55]			5	lleciak_	WHOIS lleciak 
+
+[14:15:58]			5	lleciak_	NICK toto 
+
+[14:15:58]			5	toto	MODE lleciak_ +i 
+
+[14:15:58]			5	toto	WHOIS lleciak 
+
+[14:15:58]			5	toto	MODE toto +i 
+
+[14:16:01]			5	toto	WHOIS lleciak 
+
+[14:16:05]			5	toto	JOIN #42 
+
+[14:16:08]			5	toto	PING server 
+
+[14:16:10]			5	toto	TOPIC #42 :test 
+
+[14:16:34]		REMOVED CLIENT
+
+[14:16:34]		REMOVED CLIENT
+
+[14:16:34]	✖️ SERVER  OFF
+
+[14:16:42]	✅ SERVER  ON
+
+[14:16:45]		NEW CLIENT
+
+[14:16:45]			4	default	CAP LS 
+
+[14:16:45]			4	default	PASS mdp 
+
+[14:16:45]			4	default	NICK lleciak 
+
+[14:16:45]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[14:16:45]			4	lleciak	MODE default +i 
+
+[14:16:45]			4	lleciak	WHOIS lleciak 
+
+[14:16:45]			4	lleciak	MODE lleciak +i 
+
+[14:16:48]		NEW CLIENT
+
+[14:16:48]			5	default	CAP LS 
+
+[14:16:48]			5	default	PASS mdp 
+
+[14:16:48]			5	default	NICK lleciak 
+
+[14:16:48]			5	lleciak_	USER lleciak lleciak localhost :Louise Leciak 
+
+[14:16:48]			5	lleciak_	MODE default +i 
+
+[14:16:48]			5	lleciak_	WHOIS lleciak 
+
+[14:16:48]			5	lleciak_	MODE lleciak_ +i 
+
+[14:16:48]			5	lleciak_	WHOIS lleciak 
+
+[14:16:49]			4	lleciak	PING server 
+
+[14:16:52]			5	lleciak_	NICK toto 
+
+[14:16:52]			5	toto	MODE lleciak_ +i 
+
+[14:16:52]			5	toto	WHOIS lleciak 
+
+[14:16:52]			5	toto	MODE toto +i 
+
+[14:16:54]			5	toto	WHOIS lleciak 
+
+[14:16:57]			5	toto	JOIN #42 
+
+[14:16:59]			5	toto	TOPIC #42 :test 
+
+[14:17:05]			5	toto	PING server 
+
+[14:17:15]			5	toto	QUIT :leaving 
+
+[14:17:17]		REMOVED CLIENT
+
+[14:17:17]	✖️ SERVER  OFF
+
+[14:17:26]	✅ SERVER  ON
+
+[14:17:26]		NEW CLIENT
+
+[14:17:26]			4	default	CAP LS 
+
+[14:17:26]			4	default	PASS mdp 
+
+[14:17:26]			4	default	NICK lleciak 
+
+[14:17:26]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[14:17:26]			4	lleciak	MODE default +i 
+
+[14:17:26]			4	lleciak	WHOIS lleciak 
+
+[14:17:26]			4	lleciak	MODE lleciak +i 
+
+[14:17:29]		NEW CLIENT
+
+[14:17:29]			5	default	CAP LS 
+
+[14:17:29]			5	default	PASS mdp 
+
+[14:17:29]			5	default	NICK lleciak 
+
+[14:17:29]			5	lleciak_	USER lleciak lleciak localhost :Louise Leciak 
+
+[14:17:29]			5	lleciak_	MODE default +i 
+
+[14:17:29]			5	lleciak_	WHOIS lleciak 
+
+[14:17:29]			5	lleciak_	MODE lleciak_ +i 
+
+[14:17:29]			5	lleciak_	WHOIS lleciak 
+
+[14:17:30]			4	lleciak	PING server 
+
+[14:17:33]			5	lleciak_	JOIN #42 
+
+[14:17:36]			5	lleciak_	PING server 
+
+[14:17:38]			4	lleciak	JOIN #42 
+
+[14:17:43]			4	lleciak	TOPIC #42 :test 
+
+[14:18:24]		REMOVED CLIENT
+
+[14:18:24]		REMOVED CLIENT
+
+[14:18:24]	✖️ SERVER  OFF
+
+[14:18:32]	✅ SERVER  ON
+
+[14:18:33]		NEW CLIENT
+
+[14:18:33]			4	default	CAP LS 
+
+[14:18:33]			4	default	PASS mdp 
+
+[14:18:33]			4	default	NICK lleciak 
+
+[14:18:33]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[14:18:33]			4	lleciak	MODE default +i 
+
+[14:18:33]			4	lleciak	WHOIS lleciak 
+
+[14:18:33]			4	lleciak	MODE lleciak +i 
+
+[14:18:37]			4	lleciak	JOIN #42 
+
+[14:18:40]			4	lleciak	PING server 
+
+[14:18:43]			4	lleciak	TOPIC #42 :test 
+
+[14:18:56]		REMOVED CLIENT
+
+[14:18:56]	✖️ SERVER  OFF
+
+[14:19:03]	✅ SERVER  ON
+
+[14:19:04]		NEW CLIENT
+
+[14:19:04]			4	default	CAP LS 
+
+[14:19:04]			4	default	PASS mdp 
+
+[14:19:04]			4	default	NICK lleciak 
+
+[14:19:04]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[14:19:04]			4	lleciak	MODE default +i 
+
+[14:19:05]			4	lleciak	WHOIS lleciak 
+
+[14:19:05]			4	lleciak	MODE lleciak +i 
+
+[14:19:08]			4	lleciak	JOIN #42 
+
+[14:19:11]			4	lleciak	PING server 
+
+[14:19:14]			4	lleciak	TOPIC #42 :test 
+
+[14:19:29]		NEW CLIENT
+
+[14:19:29]			5	default	CAP LS 
+
+[14:19:29]			5	default	PASS mdp 
+
+[14:19:29]			5	default	NICK lleciak 
+
+[14:19:29]			5	default	USER lleciak lleciak localhost :Louise Leciak 
+
+[14:19:29]			5	default	MODE default +i 
+
+[14:19:29]			5	default	WHOIS lleciak 
+
+[14:19:32]			5	default	JOIN #42 
+
+[14:19:36]			5	default	PING server 
+
+[14:19:43]			5	default	PRIVMSG #42 :cc 
+
+[14:19:53]			5	default	NICK toto 
+
+[14:19:53]			5	toto	MODE default +i 
+
+[14:19:53]			5	toto	WHOIS lleciak 
+
+[14:19:53]			5	toto	MODE toto +i 
+
+[14:19:53]			5	toto	WHOIS lleciak 
+
+[14:20:09]			5	toto	TOPIC #42 :test 
+
+[14:20:12]			4	lleciak	PING server 
+
+[14:20:13]			5	toto	TOPIC #42 :te 
+
+[14:20:22]			5	toto	TOPIC #42 :test 
+
+[14:20:36]		NEW CLIENT
+
+[14:20:36]			6	default	CAP LS 
+
+[14:20:36]			6	default	PASS mdp 
+
+[14:20:36]			6	default	NICK lleciak 
+
+[14:20:36]			6	default	USER lleciak lleciak localhost :Louise Leciak 
+
+[14:20:36]			6	default	MODE default +i 
+
+[14:20:36]			6	default	WHOIS lleciak 
+
+[14:20:37]			5	toto	PING server 
+
+[14:20:40]			6	default	PING server 
+
+[14:20:41]			6	default	JOIN #42 
+
+[14:21:13]			4	lleciak	PING server 
+
+[14:21:25]		REMOVED CLIENT
+
+[14:21:25]		REMOVED CLIENT
+
+[14:21:25]		REMOVED CLIENT
+
+[14:21:25]	✖️ SERVER  OFF
+
+[14:22:34]	✅ SERVER  ON
+
+[14:22:35]		NEW CLIENT
+
+[14:22:35]			4	default	CAP LS 
+
+[14:22:35]			4	default	PASS mdp 
+
+[14:22:35]			4	default	NICK lleciak 
+
+[14:22:35]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[14:22:35]			4	lleciak	MODE default +i 
+
+[14:22:35]			4	lleciak	WHOIS lleciak 
+
+[14:22:35]			4	lleciak	MODE lleciak +i 
+
+[14:22:38]		NEW CLIENT
+
+[14:22:38]			5	default	CAP LS 
+
+[14:22:38]			5	default	PASS mdp 
+
+[14:22:38]			5	default	NICK lleciak 
+
+[14:22:38]			5	lleciak_	USER lleciak lleciak localhost :Louise Leciak 
+
+[14:22:38]			5	lleciak_	MODE default +i 
+
+[14:22:38]			5	lleciak_	WHOIS lleciak 
+
+[14:22:38]			5	lleciak_	MODE lleciak_ +i 
+
+[14:22:38]			5	lleciak_	WHOIS lleciak 
+
+[14:22:39]			4	lleciak	PING server 
+
+[14:22:43]			5	lleciak_	PING server 
+
+[14:22:44]			5	lleciak_	JOIN #42 
+
+[14:22:48]			4	lleciak	JOIN #42 
+
+[14:22:51]			4	lleciak	TOPIC #42 :cc 
+
+[14:23:05]			4	lleciak	TOPIC #42 :cc la famille 
+
+[14:23:23]		NEW CLIENT
+
+[14:23:23]			6	default	CAP LS 
+
+[14:23:23]			6	default	PASS mdp 
+
+[14:23:23]			6	default	NICK lleciak 
+
+[14:23:23]			6	default	USER lleciak lleciak localhost :Louise Leciak 
+
+[14:23:23]			6	default	MODE default +i 
+
+[14:23:23]			6	default	WHOIS lleciak 
+
+[14:23:27]			6	default	PING server 
+
+[14:23:27]			6	default	JOIN #42 
+
+[14:23:40]			4	lleciak	PING server 
+
+[14:23:44]			5	lleciak_	PING server 
+
+[14:24:28]			6	default	PING server 
+
+[14:24:41]			4	lleciak	PING server 
+
+[14:24:45]			5	lleciak_	PING server 
+
+[14:25:29]			6	default	PING server 
+
+[14:25:32]		REMOVED CLIENT
+
+[14:25:32]		REMOVED CLIENT
+
+[14:25:32]		REMOVED CLIENT
+
+[14:25:32]	✖️ SERVER  OFF
+
+[14:25:40]	✅ SERVER  ON
+
+[14:25:49]		NEW CLIENT
+
+[14:25:49]			4	default	CAP LS 
+
+[14:25:49]			4	default	PASS mdp 
+
+[14:25:49]			4	default	NICK lleciak 
+
+[14:25:49]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[14:25:49]			4	lleciak	MODE default +i 
+
+[14:25:49]			4	lleciak	WHOIS lleciak 
+
+[14:25:49]			4	lleciak	MODE lleciak +i 
+
+[14:25:52]		NEW CLIENT
+
+[14:25:52]			5	default	CAP LS 
+
+[14:25:52]			5	default	PASS mdp 
+
+[14:25:52]			5	default	NICK lleciak 
+
+[14:25:52]			5	lleciak_	USER lleciak lleciak localhost :Louise Leciak 
+
+[14:25:52]			5	lleciak_	MODE default +i 
+
+[14:25:52]			5	lleciak_	WHOIS lleciak 
+
+[14:25:52]			5	lleciak_	MODE lleciak_ +i 
+
+[14:25:52]			5	lleciak_	WHOIS lleciak 
+
+[14:25:53]			4	lleciak	PING server 
+
+[14:25:56]			5	lleciak_	JOIN #42 
+
+[14:26:00]			5	lleciak_	PING server 
+
+[14:26:01]			4	lleciak	JOIN #42 
+
+[14:26:10]			4	lleciak	TOPIC #42 :test 
+
+[14:26:22]		NEW CLIENT
+
+[14:26:22]			6	default	CAP LS 
+
+[14:26:22]			6	default	PASS mdp 
+
+[14:26:22]			6	default	NICK lleciak 
+
+[14:26:22]			6	lleciak__	USER lleciak lleciak localhost :Louise Leciak 
+
+[14:26:22]			6	lleciak__	MODE default +i 
+
+[14:26:22]			6	lleciak__	WHOIS lleciak 
+
+[14:26:22]			6	lleciak__	MODE lleciak__ +i 
+
+[14:26:22]			6	lleciak__	WHOIS lleciak 
+
+[14:26:25]			6	lleciak__	JOIN #42 
+
+[14:26:29]			6	lleciak__	PING server 
+
+[14:26:54]			4	lleciak	PING server 
+
+[14:27:01]			5	lleciak_	PING server 
+
+[14:27:30]			6	lleciak__	PING server 
+
+[14:27:55]			4	lleciak	PING server 
+
+[14:28:02]			5	lleciak_	PING server 
+
+[14:28:31]			6	lleciak__	PING server 
+
+[14:28:56]			4	lleciak	PING server 
+
+[14:28:59]		REMOVED CLIENT
+
+[14:28:59]		REMOVED CLIENT
+
+[14:28:59]		REMOVED CLIENT
+
+[14:28:59]	✖️ SERVER  OFF
+
+[14:29:11]	✅ SERVER  ON
+
+[14:29:19]		NEW CLIENT
+
+[14:29:19]			4	default	CAP LS 
+
+[14:29:19]			4	default	PASS mdp 
+
+[14:29:19]			4	default	NICK lleciak 
+
+[14:29:19]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[14:29:19]			4	lleciak	MODE default +i 
+
+[14:29:19]			4	lleciak	WHOIS lleciak 
+
+[14:29:19]			4	lleciak	MODE lleciak +i 
+
+[14:29:21]		NEW CLIENT
+
+[14:29:21]			5	default	CAP LS 
+
+[14:29:21]			5	default	PASS mdp 
+
+[14:29:21]			5	default	NICK lleciak 
+
+[14:29:21]			5	lleciak_	USER lleciak lleciak localhost :Louise Leciak 
+
+[14:29:21]			5	lleciak_	MODE default +i 
+
+[14:29:21]			5	lleciak_	WHOIS lleciak 
+
+[14:29:21]			5	lleciak_	MODE lleciak_ +i 
+
+[14:29:21]			5	lleciak_	WHOIS lleciak 
+
+[14:29:23]			4	lleciak	PING server 
+
+[14:29:23]			5	lleciak_	JOIN #42 
+
+[14:29:26]			5	lleciak_	TOPIC #42 :test 
+
+[14:29:31]			5	lleciak_	PING server 
+
+[14:29:34]			4	lleciak	JOIN #42 
+
+[14:30:24]			4	lleciak	PING server 
+
+[14:30:32]			5	lleciak_	PING server 
+
+[14:31:22]		NEW CLIENT
+
+[14:31:22]			6	default	CAP LS 
+
+[14:31:22]			6	default	PASS mdp 
+
+[14:31:22]			6	default	NICK lleciak 
+
+[14:31:22]			6	lleciak__	USER lleciak lleciak localhost :Louise Leciak 
+
+[14:31:22]			6	lleciak__	MODE default +i 
+
+[14:31:22]			6	lleciak__	WHOIS lleciak 
+
+[14:31:22]			6	lleciak__	JOIN #42 
+
+[14:31:22]			6	lleciak__	MODE lleciak__ +i 
+
+[14:31:22]			6	lleciak__	WHOIS lleciak 
+
+[14:31:25]			4	lleciak	PING server 
+
+[14:31:27]			6	lleciak__	PING server 
+
+[14:31:33]			5	lleciak_	PING server 
+
+[14:32:26]			4	lleciak	PING server 
+
+[14:32:28]			6	lleciak__	PING server 
+
+[14:32:34]			5	lleciak_	PING server 
+
+[14:33:27]			4	lleciak	PING server 
+
+[14:33:29]			6	lleciak__	PING server 
+
+[14:33:35]			5	lleciak_	PING server 
+
+[14:34:05]		REMOVED CLIENT
+
+[14:34:05]		REMOVED CLIENT
+
+[14:34:05]		REMOVED CLIENT
+
+[14:34:05]	✖️ SERVER  OFF
+
+[14:34:14]	✅ SERVER  ON
+
+[14:34:19]		NEW CLIENT
+
+[14:34:19]			4	default	CAP LS 
+
+[14:34:19]			4	default	PASS mdp 
+
+[14:34:19]			4	default	NICK lleciak 
+
+[14:34:19]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[14:34:19]			4	lleciak	MODE default +i 
+
+[14:34:19]			4	lleciak	WHOIS lleciak 
+
+[14:34:19]			4	lleciak	MODE lleciak +i 
+
+[14:34:23]			4	lleciak	PING server 
+
+[14:34:28]		NEW CLIENT
+
+[14:34:28]			5	default	CAP LS 
+
+[14:34:28]			5	default	PASS mdp 
+
+[14:34:28]			5	default	NICK lleciak 
+
+[14:34:28]			5	lleciak_	USER lleciak lleciak localhost :Louise Leciak 
+
+[14:34:28]			5	lleciak_	MODE default +i 
+
+[14:34:28]			5	lleciak_	WHOIS lleciak 
+
+[14:34:28]			5	lleciak_	MODE lleciak_ +i 
+
+[14:34:28]			5	lleciak_	WHOIS lleciak 
+
+[14:34:33]			5	lleciak_	PING server 
+
+[14:34:37]			5	lleciak_	NICK toto 
+
+[14:34:37]			5	toto	MODE lleciak_ +i 
+
+[14:34:37]			5	toto	WHOIS lleciak 
+
+[14:34:37]			5	toto	MODE toto +i 
+
+[14:34:37]			5	toto	WHOIS lleciak 
+
+[14:34:40]			5	toto	JOIN #42 
+
+[14:34:42]			5	toto	TOPIC #42 :test 
+
+[14:34:52]			4	lleciak	JOIN #42 
+
+[14:35:06]		NEW CLIENT
+
+[14:35:06]			6	default	CAP LS 
+
+[14:35:06]			6	default	PASS mdp 
+
+[14:35:06]			6	default	NICK lleciak 
+
+[14:35:06]			6	lleciak_	USER lleciak lleciak localhost :Louise Leciak 
+
+[14:35:06]			6	lleciak_	MODE default +i 
+
+[14:35:06]			6	lleciak_	WHOIS lleciak 
+
+[14:35:06]			6	lleciak_	MODE lleciak_ +i 
+
+[14:35:06]			6	lleciak_	WHOIS lleciak 
+
+[14:35:08]			6	lleciak_	JOIN #42 
+
+[14:35:14]			6	lleciak_	PING server 
+
+[14:35:24]			4	lleciak	PING server 
+
+[14:35:34]			5	toto	PING server 
+
+[14:36:15]			6	lleciak_	PING server 
+
+[14:36:25]			4	lleciak	PING server 
+
+[14:36:35]			5	toto	PING server 
+
+[14:37:16]			6	lleciak_	PING server 
+
+[14:37:26]			4	lleciak	PING server 
+
+[14:37:36]			5	toto	PING server 
+
+[14:38:17]			6	lleciak_	PING server 
+
+[14:38:27]			4	lleciak	PING server 
+
+[14:38:31]		REMOVED CLIENT
+
+[14:38:31]		REMOVED CLIENT
+
+[14:38:31]		REMOVED CLIENT
+
+[14:38:31]	✖️ SERVER  OFF
+
+[14:38:39]	✅ SERVER  ON
+
+[14:38:40]		NEW CLIENT
+
+[14:38:40]			4	default	CAP LS 
+
+[14:38:40]			4	default	PASS mdp 
+
+[14:38:40]			4	default	NICK lleciak 
+
+[14:38:40]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[14:38:40]			4	lleciak	MODE default +i 
+
+[14:38:40]			4	lleciak	WHOIS lleciak 
+
+[14:38:40]			4	lleciak	MODE lleciak +i 
+
+[14:38:44]			4	lleciak	PING server 
+
+[14:38:48]			4	lleciak	JOIN #42 
+
+[14:38:52]			4	lleciak	TOPIC #42 :test 
+
+[14:38:58]			4	lleciak	PRIVMSG #42 :test 
+
+[14:39:00]			4	lleciak	TOPIC #42 :test 
+
+[14:39:01]			4	lleciak	TOPIC #42 :test 
+
+[14:39:03]			4	lleciak	TOPIC #42 :tests 
+
+[14:39:19]		NEW CLIENT
+
+[14:39:19]			5	default	CAP LS 
+
+[14:39:19]			5	default	PASS mdp 
+
+[14:39:19]			5	default	NICK lleciak 
+
+[14:39:19]			5	lleciak_	USER lleciak lleciak localhost :Louise Leciak 
+
+[14:39:19]			5	lleciak_	MODE default +i 
+
+[14:39:20]			5	lleciak_	WHOIS lleciak 
+
+[14:39:20]			5	lleciak_	JOIN #42 
+
+[14:39:20]			5	lleciak_	MODE lleciak_ +i 
+
+[14:39:20]			5	lleciak_	WHOIS lleciak 
+
+[14:39:24]			5	lleciak_	PING server 
+
+[14:39:45]			4	lleciak	PING server 
+
+[14:39:49]			4	lleciak	JOIN #34 
+
+[14:40:21]			4	lleciak	QUIT :leaving 
+
+[14:40:23]		REMOVED CLIENT
+
+[14:40:23]	✖️ SERVER  OFF
+
+[14:40:34]	✅ SERVER  ON
+
+[14:40:40]		NEW CLIENT
+
+[14:40:40]			4	default	CAP LS 
+
+[14:40:40]			4	default	PASS mdp 
+
+[14:40:40]			4	default	NICK lleciak 
+
+[14:40:40]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[14:40:40]			4	lleciak	MODE default +i 
+
+[14:40:40]			4	lleciak	WHOIS lleciak 
+
+[14:40:40]			4	lleciak	MODE lleciak +i 
+
+[14:40:44]			4	lleciak	PING server 
+
+[14:40:47]			4	lleciak	JOIN #52 
+
+[14:40:53]			4	lleciak	TOPIC #52 :cc 
+
+[14:41:12]			4	lleciak	TOPIC #52 :hihi hohoh huhuuhhuuhuhuuh 
+
+[14:41:45]			4	lleciak	PING server 
+
+[14:42:46]			4	lleciak	PING server 
+
+[14:43:29]		REMOVED CLIENT
+
+[14:43:29]	✖️ SERVER  OFF
+
+[14:43:37]	✅ SERVER  ON
+
+[14:43:38]		NEW CLIENT
+
+[14:43:38]			4	default	CAP LS 
+
+[14:43:38]			4	default	PASS mdp 
+
+[14:43:38]			4	default	NICK lleciak 
+
+[14:43:38]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[14:43:38]			4	lleciak	MODE default +i 
+
+[14:43:38]			4	lleciak	WHOIS lleciak 
+
+[14:43:38]			4	lleciak	MODE lleciak +i 
+
+[14:43:41]			4	lleciak	JOIN #42 
+
+[14:43:45]			4	lleciak	PING server 
+
+[14:43:47]			4	lleciak	TOPIC #42 :test 
+
+[14:44:19]		NEW CLIENT
+
+[14:44:19]			5	default	CAP LS 
+
+[14:44:19]			5	default	PASS mdp 
+
+[14:44:19]			5	default	NICK lleciak 
+
+[14:44:19]			5	default	USER lleciak lleciak localhost :Louise Leciak 
+
+[14:44:19]			5	default	MODE default +i 
+
+[14:44:19]			5	default	WHOIS lleciak 
+
+[14:44:19]			5	default	JOIN #42 
+
+[14:44:23]			5	default	PING server 
+
+[14:44:46]			4	lleciak	PING server 
+
+[14:45:24]			5	default	PING server 
+
+[14:45:47]			4	lleciak	PING server 
+
+[14:46:25]			5	default	PING server 
+
+[14:46:32]		REMOVED CLIENT
+
+[14:46:32]		REMOVED CLIENT
+
+[14:46:32]	✖️ SERVER  OFF
+
+[14:46:40]	✅ SERVER  ON
+
+[14:46:42]		NEW CLIENT
+
+[14:46:42]			4	default	CAP LS 
+
+[14:46:42]			4	default	PASS mdp 
+
+[14:46:42]			4	default	NICK lleciak 
+
+[14:46:42]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[14:46:42]			4	lleciak	MODE default +i 
+
+[14:46:42]			4	lleciak	WHOIS lleciak 
+
+[14:46:42]			4	lleciak	MODE lleciak +i 
+
+[14:46:45]			4	lleciak	JOIN #42 
+
+[14:46:48]			4	lleciak	TOPIC #42 :test 
+
+[14:46:52]			4	lleciak	PING server 
+
+[14:47:22]		REMOVED CLIENT
+
+[14:47:22]	✖️ SERVER  OFF
+
+[14:47:31]	✅ SERVER  ON
+
+[14:47:34]		NEW CLIENT
+
+[14:47:34]			4	default	CAP LS 
+
+[14:47:34]			4	default	PASS mdp 
+
+[14:47:34]			4	default	NICK lleciak 
+
+[14:47:34]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[14:47:34]			4	lleciak	MODE default +i 
+
+[14:47:34]			4	lleciak	WHOIS lleciak 
+
+[14:47:34]			4	lleciak	MODE lleciak +i 
+
+[14:47:38]			4	lleciak	PING server 
+
+[14:48:00]			4	lleciak	JOIN #cc 
+
+[14:48:12]			4	lleciak	TOPIC #cc :"" 
+
+[14:48:22]			4	lleciak	TOPIC #cc :topic super cool 
+
+[14:48:39]			4	lleciak	PING server 
+
+[14:49:19]		NEW CLIENT
+
+[14:49:19]			5	default	CAP LS 
+
+[14:49:19]			5	default	PASS mdp 
+
+[14:49:19]			5	default	NICK lleciak 
+
+[14:49:19]			5	default	USER lleciak lleciak localhost :Louise Leciak 
+
+[14:49:19]			5	default	MODE default +i 
+
+[14:49:19]			5	default	WHOIS lleciak 
+
+[14:49:19]			5	default	JOIN #42 
+
+[14:49:23]			5	default	PING server 
+
+[14:49:33]			4	lleciak	PART #42 :pq 
+
+[14:49:37]			4	lleciak	PART #42 
+
+[14:49:40]			4	lleciak	PING server 
+
+[14:50:04]			5	default	QUIT :leaving 
+
+[14:50:06]			4	lleciak	QUIT :leaving 
+
+[14:50:07]	✖️ SERVER  OFF
+
+[14:50:19]	✅ SERVER  ON
+
+[14:50:28]		NEW CLIENT
+
+[14:50:28]			4	default	CAP LS 
+
+[14:50:28]			4	default	PASS mdp 
+
+[14:50:28]			4	default	NICK lleciak 
+
+[14:50:28]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[14:50:28]			4	lleciak	MODE default +i 
+
+[14:50:28]			4	lleciak	WHOIS lleciak 
+
+[14:50:28]			4	lleciak	MODE lleciak +i 
+
+[14:50:32]			4	lleciak	PING server 
+
+[14:50:33]		NEW CLIENT
+
+[14:50:33]			5	default	CAP LS 
+
+[14:50:33]			5	default	PASS mdp 
+
+[14:50:33]			5	default	NICK lleciak 
+
+[14:50:33]			5	lleciak_	USER lleciak lleciak localhost :Louise Leciak 
+
+[14:50:33]			5	lleciak_	MODE default +i 
+
+[14:50:33]			5	lleciak_	WHOIS lleciak 
+
+[14:50:33]			5	lleciak_	MODE lleciak_ +i 
+
+[14:50:33]			5	lleciak_	WHOIS lleciak 
+
+[14:50:37]			5	lleciak_	NICK toto 
+
+[14:50:37]			5	toto	MODE lleciak_ +i 
+
+[14:50:37]			5	toto	WHOIS lleciak 
+
+[14:50:37]			5	toto	MODE toto +i 
+
+[14:50:39]			5	toto	WHOIS lleciak 
+
+[14:50:44]			5	toto	PING server 
+
+[14:50:47]			5	toto	JOIN #42 
+
+[14:50:59]			4	lleciak	JOIN #42 
+
+[14:51:07]			5	toto	KICK #42 lleciak : 
+
+[14:51:33]			4	lleciak	PING server 
+
+[14:51:45]			5	toto	PING server 
+
+[14:52:34]			4	lleciak	PING server 
+
+[14:52:46]			5	toto	PING server 
+
+[14:53:33]		REMOVED CLIENT
+
+[14:53:33]		REMOVED CLIENT
+
+[14:53:33]	✖️ SERVER  OFF
+
+[14:53:41]	✅ SERVER  ON
+
+[14:53:43]		NEW CLIENT
+
+[14:53:43]			4	default	CAP LS 
+
+[14:53:43]			4	default	PASS mdp 
+
+[14:53:43]			4	default	NICK lleciak 
+
+[14:53:43]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[14:53:43]			4	lleciak	MODE default +i 
+
+[14:53:43]			4	lleciak	WHOIS lleciak 
+
+[14:53:43]			4	lleciak	MODE lleciak +i 
+
+[14:53:45]		NEW CLIENT
+
+[14:53:45]			5	default	CAP LS 
+
+[14:53:45]			5	default	PASS mdp 
+
+[14:53:45]			5	default	NICK lleciak 
+
+[14:53:45]			5	lleciak_	USER lleciak lleciak localhost :Louise Leciak 
+
+[14:53:45]			5	lleciak_	MODE default +i 
+
+[14:53:45]			5	lleciak_	WHOIS lleciak 
+
+[14:53:45]			5	lleciak_	MODE lleciak_ +i 
+
+[14:53:45]			5	lleciak_	WHOIS lleciak 
+
+[14:53:47]			4	lleciak	PING server 
+
+[14:53:50]			5	lleciak_	PING server 
+
+[14:53:52]			5	lleciak_	NICK toto 
+
+[14:53:52]			5	toto	MODE lleciak_ +i 
+
+[14:53:52]			5	toto	WHOIS lleciak 
+
+[14:53:52]			5	toto	MODE toto +i 
+
+[14:53:52]			5	toto	WHOIS lleciak 
+
+[14:54:00]			5	toto	JOIN #42 
+
+[14:54:05]			4	lleciak	JOIN #42 
+
+[14:54:16]			5	toto	KICK #42 lleciak :fdp 
+
+[14:54:25]			4	lleciak	JOIN #42 
+
+[14:54:29]			5	toto	KICK #42 lleciak :fdp 
+
+[14:54:45]			4	lleciak	JOIN #42 
+
+[14:54:48]			4	lleciak	PING server 
+
+[14:54:51]			5	toto	PING server 
+
+[14:55:14]			4	lleciak	PART #42 :pcq 
+
+[14:55:49]			4	lleciak	PING server 
+
+[14:55:52]			5	toto	PING server 
+
+[14:56:19]		REMOVED CLIENT
+
+[14:56:19]		REMOVED CLIENT
+
+[14:56:19]	✖️ SERVER  OFF
+
+[14:56:33]	✅ SERVER  ON
+
+[14:56:36]		NEW CLIENT
+
+[14:56:36]			4	default	CAP LS 
+
+[14:56:36]			4	default	PASS mdp 
+
+[14:56:36]			4	default	NICK lleciak 
+
+[14:56:36]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[14:56:36]			4	lleciak	MODE default +i 
+
+[14:56:36]			4	lleciak	WHOIS lleciak 
+
+[14:56:36]			4	lleciak	MODE lleciak +i 
+
+[14:56:40]			4	lleciak	JOIN #42 
+
+[14:56:43]			4	lleciak	PING server 
+
+[14:56:45]			4	lleciak	PART #42 :pcq ca pue 
+
+[14:57:44]			4	lleciak	PING server 
+
+[14:58:45]			4	lleciak	PING server 
+
+[14:58:45]		NEW CLIENT
+
+[14:58:45]			5	default	CAP LS 
+
+[14:58:45]			5	default	PASS mdp 
+
+[14:58:45]			5	default	NICK lleciak 
+
+[14:58:45]			5	lleciak_	USER lleciak lleciak localhost :Louise Leciak 
+
+[14:58:45]			5	lleciak_	MODE default +i 
+
+[14:58:46]			5	lleciak_	WHOIS lleciak 
+
+[14:58:46]			5	lleciak_	JOIN #42 
+
+[14:58:46]			5	lleciak_	MODE lleciak_ +i 
+
+[14:58:46]			5	lleciak_	WHOIS lleciak 
+
+[14:58:50]			5	lleciak_	PING server 
+
+[14:59:46]			4	lleciak	PING server 
+
+[14:59:51]			5	lleciak_	PING server 
+
+[15:00:47]			4	lleciak	PING server 
+
+[15:00:52]			5	lleciak_	PING server 
+
+[15:01:17]		REMOVED CLIENT
+
+[15:01:17]		REMOVED CLIENT
+
+[15:01:17]	✖️ SERVER  OFF
+
+[15:01:26]	✅ SERVER  ON
+
+[15:01:28]		NEW CLIENT
+
+[15:01:28]			4	default	CAP LS 
+
+[15:01:28]			4	default	PASS mdp 
+
+[15:01:28]			4	default	NICK lleciak 
+
+[15:01:28]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[15:01:28]			4	lleciak	MODE default +i 
+
+[15:01:28]			4	lleciak	WHOIS lleciak 
+
+[15:01:28]			4	lleciak	MODE lleciak +i 
+
+[15:01:32]			4	lleciak	PING server 
+
+[15:01:33]			4	lleciak	JOIN #42 
+
+[15:01:40]			4	lleciak	PART #42 
+
+[15:02:19]		REMOVED CLIENT
+
+[15:02:19]	✖️ SERVER  OFF
+
+[15:02:28]	✅ SERVER  ON
+
+[15:02:30]		NEW CLIENT
+
+[15:02:30]			4	default	CAP LS 
+
+[15:02:30]			4	default	PASS mdp 
+
+[15:02:30]			4	default	NICK lleciak 
+
+[15:02:30]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[15:02:30]			4	lleciak	MODE default +i 
+
+[15:02:30]			4	lleciak	WHOIS lleciak 
+
+[15:02:30]			4	lleciak	MODE lleciak +i 
+
+[15:02:34]			4	lleciak	PING server 
+
+[15:02:35]			4	lleciak	JOIN #42 
+
+[15:02:44]			4	lleciak	PART #42 :42 
+
+[15:02:44]			4	lleciak	MODE #42 
+
+[15:03:32]			4	lleciak	PART #42 :test 
+
+[15:03:35]			4	lleciak	PING server 
+
+[15:03:39]			4	lleciak	PART #42 :test 
+
+[15:03:59]			4	lleciak	PART #42 :42 
+
+[15:04:05]			4	lleciak	PART 42 
+
+[15:04:36]			4	lleciak	PING server 
+
+[15:04:36]			4	lleciak	MODE #42 
+
+[15:05:08]			4	lleciak	PART #42 :42 
+
+[15:05:10]			4	lleciak	PART #42 :42 
+
+[15:05:12]			4	lleciak	PART 42 
+
+[15:05:16]			4	lleciak	QUIT :leaving 
+
+[15:05:18]		NEW CLIENT
+
+[15:05:18]			4	default	CAP LS 
+
+[15:05:18]			4	default	PASS mdp 
+
+[15:05:18]			4	default	NICK lleciak 
+
+[15:05:18]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[15:05:18]			4	lleciak	MODE default +i 
+
+[15:05:18]			4	lleciak	WHOIS lleciak 
+
+[15:05:18]			4	lleciak	MODE lleciak +i 
+
+[15:05:22]			4	lleciak	PING server 
+
+[15:05:24]			4	lleciak	JOIN #42 
+
+[15:05:46]			4	lleciak	PART #42 :42 
+
+[15:05:46]			4	lleciak	MODE #42 
+
+[15:06:23]			4	lleciak	PING server 
+
+[15:07:24]			4	lleciak	PING server 
+
+[15:07:24]			4	lleciak	MODE #42 
+
+[15:08:25]			4	lleciak	PING server 
+
+[15:08:45]		REMOVED CLIENT
+
+[15:08:45]	✖️ SERVER  OFF
+
+[15:08:53]	✅ SERVER  ON
+
+[15:08:55]		NEW CLIENT
+
+[15:08:55]			4	default	CAP LS 
+
+[15:08:55]			4	default	PASS mdp 
+
+[15:08:55]			4	default	NICK lleciak 
+
+[15:08:55]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[15:08:55]			4	lleciak	MODE default +i 
+
+[15:08:55]			4	lleciak	WHOIS lleciak 
+
+[15:08:55]			4	lleciak	MODE lleciak +i 
+
+[15:08:58]			4	lleciak	JOIN #42 
+
+[15:09:02]			4	lleciak	PING server 
+
+[15:09:12]			4	lleciak	PART #42 
+
+[15:09:18]			4	lleciak	PRIVMSG #42 :cc 
+
+[15:09:19]			4	lleciak	PRIVMSG #42 :c 
+
+[15:09:19]			4	lleciak	PRIVMSG #42 :c 
+
+[15:09:19]			4	lleciak	PRIVMSG #42 :c 
+
+[15:09:20]			4	lleciak	PRIVMSG #42 :c 
+
+[15:09:22]			4	lleciak	PRIVMSG #42 :c 
+
+[15:09:25]			4	lleciak	PRIVMSG #42 :c 
+
+[15:09:27]			4	lleciak	PRIVMSG #42 :c 
+
+[15:09:30]			4	lleciak	PRIVMSG #42 :c 
+
+[15:09:32]			4	lleciak	PRIVMSG #42 :c 
+
+[15:09:35]			4	lleciak	PRIVMSG #42 :cc 
+
+[15:10:03]			4	lleciak	PING server 
+
+[15:11:04]			4	lleciak	PING server 
+
+[15:12:05]			4	lleciak	PING server 
+
+[15:13:06]			4	lleciak	PING server 
+
+[15:13:40]		REMOVED CLIENT
+
+[15:13:40]	✖️ SERVER  OFF
+
+[15:13:49]	✅ SERVER  ON
+
+[15:13:51]		NEW CLIENT
+
+[15:13:51]			4	default	CAP LS 
+
+[15:13:51]			4	default	PASS mdp 
+
+[15:13:51]			4	default	NICK lleciak 
+
+[15:13:51]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[15:13:51]			4	lleciak	MODE default +i 
+
+[15:13:51]			4	lleciak	WHOIS lleciak 
+
+[15:13:51]			4	lleciak	MODE lleciak +i 
+
+[15:13:54]			4	lleciak	PING server 
+
+[15:13:54]			4	lleciak	JOIN #42 
+
+[15:13:59]			4	lleciak	PART #42 
+
+[15:13:59]			4	lleciak	MODE #42 
+
+[15:14:11]			4	lleciak	PART #42 
+
+[15:14:55]			4	lleciak	PING server 
+
+[15:15:31]		REMOVED CLIENT
+
+[15:15:31]	✖️ SERVER  OFF
+
+[15:15:39]	✅ SERVER  ON
+
+[15:15:48]		NEW CLIENT
+
+[15:15:48]			4	default	CAP LS 
+
+[15:15:48]			4	default	PASS mdp 
+
+[15:15:48]			4	default	NICK lleciak 
+
+[15:15:48]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[15:15:48]			4	lleciak	MODE default +i 
+
+[15:15:48]			4	lleciak	WHOIS lleciak 
+
+[15:15:48]			4	lleciak	MODE lleciak +i 
+
+[15:15:52]			4	lleciak	PING server 
+
+[15:15:54]			4	lleciak	JOIN #42 
+
+[15:15:57]			4	lleciak	PART #42 
+
+[15:15:57]			4	lleciak	MODE #42 
+
+[15:16:10]		NEW CLIENT
+
+[15:16:10]			5	default	CAP LS 
+
+[15:16:10]			5	default	PASS mdp 
+
+[15:16:10]			5	default	NICK lleciak 
+
+[15:16:10]			5	lleciak_	USER lleciak lleciak localhost :Louise Leciak 
+
+[15:16:10]			5	lleciak_	MODE default +i 
+
+[15:16:10]			5	lleciak_	WHOIS lleciak 
+
+[15:16:10]			5	lleciak_	MODE lleciak_ +i 
+
+[15:16:10]			5	lleciak_	WHOIS lleciak 
+
+[15:16:13]			5	lleciak_	JOIN #42 
+
+[15:16:15]			5	lleciak_	PRIVMSG #42 :cc 
+
+[15:16:20]			5	lleciak_	PING server 
+
+[15:16:23]			5	lleciak_	PRIVMSG #42 :cccccccccccc 
+
+[15:16:26]			4	lleciak	PRIVMSG #42 :ccccc 
+
+[15:16:42]			4	lleciak	PRIVMSG lleciak_ :cc 
+
+[15:16:53]			4	lleciak	PING server 
+
+[15:16:53]			4	lleciak	PRIVMSG #42 :cc ca va 
+
+[15:17:21]			5	lleciak_	PING server 
+
+[15:17:54]			4	lleciak	PING server 
+
+[15:17:54]			4	lleciak	MODE #42 
+
+[15:18:22]			5	lleciak_	PING server 
+
+[15:18:55]			4	lleciak	PING server 
+
+[15:19:23]			5	lleciak_	PING server 
+
+[15:19:56]			4	lleciak	PING server 
+
+[15:19:56]			4	lleciak	WHO #42 
+
+[15:20:24]			5	lleciak_	PING server 
+
+[15:20:57]			4	lleciak	PING server 
+
+[15:21:25]			5	lleciak_	PING server 
+
+[15:21:58]			4	lleciak	PING server 
+
+[15:21:58]			4	lleciak	WHO #42 
+
+[15:22:02]	✖️ SERVER  OFF
+
+[15:22:22]		NEW CLIENT
+
+[15:22:26]			5	lleciak_	PING server 
+
+[15:22:34]		NEW CLIENT
+
+[15:22:34]			7	default	CAP LS 
+
+[15:22:34]			7	default	PASS mdp 
+
+[15:22:34]			7	default	NICK lleciak 
+
+[15:22:34]			7	default	USER lleciak lleciak localhost :Louise Leciak 
+
+[15:22:34]			7	default	MODE default +i 
+
+[15:22:34]			7	default	WHOIS lleciak 
+
+[15:22:38]			7	default	PING server 
+
+[15:22:44]		REMOVED CLIENT
+
+[15:22:59]			4	lleciak	PING server 
+
+[15:23:01]		NEW CLIENT
+
+[15:23:01]			6	default	NICK myNicknameUSER myNickname 0 * :My Name 
+
+[15:23:09]		REMOVED CLIENT
+
+[15:23:09]		REMOVED CLIENT
+
+[15:23:09]		REMOVED CLIENT
+
+[15:23:09]		REMOVED CLIENT
+
+[15:23:09]	✖️ SERVER  OFF
+
+[15:23:28]	✅ SERVER  ON
+
+[15:23:32]		NEW CLIENT
+
+[15:23:32]			4	default	NICK myNicknameUSER myNickname 0 * :My Name 
+
+[15:23:46]		NEW CLIENT
+
+[15:23:46]			5	default	CAP LS 
+
+[15:23:46]			5	default	PASS mdp 
+
+[15:23:46]			5	default	NICK lleciak 
+
+[15:23:46]			5	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[15:23:46]			5	lleciak	MODE default +i 
+
+[15:23:46]			5	lleciak	WHOIS lleciak 
+
+[15:23:46]			5	lleciak	MODE lleciak +i 
+
+[15:23:50]			5	lleciak	PING server 
+
+[15:23:57]			5	lleciak	JOIN #42 
+
+[15:23:58]			5	lleciak	PRIVMSG #42 :test 
+
+[15:24:10]		REMOVED CLIENT
+
+[15:24:22]		NEW CLIENT
+
+[15:24:37]		REMOVED CLIENT
+
+[15:24:51]			5	lleciak	PING server 
+
+[15:24:54]		NEW CLIENT
+
+[15:24:54]			4	default	NICK myNickname 
+
+[15:24:54]			4	default	USER myNickname 0 * :My Name 
+
+[15:25:10]		REMOVED CLIENT
+
+[15:25:52]			5	lleciak	PING server 
+
+[15:26:53]			5	lleciak	PING server 
+
+[15:27:54]			5	lleciak	PING server 
+
+[15:28:10]		NEW CLIENT
+
+[15:28:10]			4	default	CAP LS 
+
+[15:28:10]			4	default	PASS mdp 
+
+[15:28:10]			4	default	NICK lleciak 
+
+[15:28:10]			4	default	USER lleciak lleciak localhost :Louise Leciak 
+
+[15:28:10]			4	default	MODE default +i 
+
+[15:28:10]			4	default	WHOIS lleciak 
+
+[15:28:10]			4	default	JOIN #42 
+
+[15:28:10]		NEW CLIENT
+
+[15:28:10]			6	default	CAP LS 
+
+[15:28:10]			6	default	PASS mdp 
+
+[15:28:10]			6	default	NICK lleciak 
+
+[15:28:10]			6	default	USER lleciak lleciak localhost :Louise Leciak 
+
+[15:28:10]			6	default	MODE default +i 
+
+[15:28:10]			6	default	WHOIS lleciak 
+
+[15:28:10]			6	default	JOIN #42 
+
+[15:28:14]			4	default	PING server 
+
+[15:28:14]			6	default	PING server 
+
+[15:28:55]			5	lleciak	PING server 
+
+[15:29:15]			4	default	PING server 
+
+[15:29:15]			6	default	PING server 
+
+[15:29:56]			5	lleciak	PING server 
+
+[15:30:16]			4	default	PING server 
+
+[15:30:16]			6	default	PING server 
+
+[15:30:43]			6	default	QUIT :leaving 
+
+[15:30:57]			5	lleciak	PING server 
+
+[15:31:17]			4	default	PING server 
+
+[15:31:52]		REMOVED CLIENT
+
+[15:31:52]		REMOVED CLIENT
+
+[15:31:52]	✖️ SERVER  OFF
+
+[15:32:11]	✅ SERVER  ON
+
+[15:32:22]		NEW CLIENT
+
+[15:32:22]			4	default	CAP LS 
+
+[15:32:22]			4	default	PASS mdp 
+
+[15:32:22]			4	default	NICK lleciak 
+
+[15:32:22]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[15:32:22]			4	lleciak	MODE default +i 
+
+[15:32:22]			4	lleciak	WHOIS lleciak 
+
+[15:32:22]			4	lleciak	MODE lleciak +i 
+
+[15:32:26]			4	lleciak	PING server 
+
+[15:32:27]		NEW CLIENT
+
+[15:32:27]			5	default	CAP LS 
+
+[15:32:27]			5	default	PASS mdp 
+
+[15:32:27]			5	default	NICK lleciak 
+
+[15:32:27]			5	lleciak_	USER lleciak lleciak localhost :Louise Leciak 
+
+[15:32:27]			5	lleciak_	MODE default +i 
+
+[15:32:27]			5	lleciak_	WHOIS lleciak 
+
+[15:32:27]			5	lleciak_	MODE lleciak_ +i 
+
+[15:32:27]			5	lleciak_	WHOIS lleciak 
+
+[15:32:32]			5	lleciak_	PING server 
+
+[15:32:32]			5	lleciak_	NICK yoyo 
+
+[15:32:32]			5	yoyo	MODE lleciak_ +i 
+
+[15:32:32]			5	yoyo	WHOIS lleciak 
+
+[15:32:32]			5	yoyo	MODE yoyo +i 
+
+[15:32:35]			5	yoyo	WHOIS lleciak 
+
+[15:32:37]			4	lleciak	NICK yaya 
+
+[15:32:37]			4	yaya	MODE lleciak +i 
+
+[15:32:37]			4	yaya	MODE yaya +i 
+
+[15:32:37]			4	yaya	WHOIS lleciak 
+
+[15:32:49]			4	yaya	userhost 
+
+[15:32:56]			4	yaya	JOIN #coucou 
+
+[15:33:10]		NEW CLIENT
+
+[15:33:10]			6	default	CAP LS 
+
+[15:33:10]			6	default	PASS mdp 
+
+[15:33:10]			6	default	NICK lleciak 
+
+[15:33:10]			6	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[15:33:10]			6	lleciak	MODE default +i 
+
+[15:33:10]			6	lleciak	WHOIS lleciak 
+
+[15:33:10]			6	lleciak	JOIN #42 
+
+[15:33:10]			6	lleciak	MODE lleciak +i 
+
+[15:33:13]			4	yaya	INVITE yoyo #coucou 
+
+[15:33:15]			6	lleciak	PING server 
+
+[15:33:27]			4	yaya	PING server 
+
+[15:33:33]			5	yoyo	PING server 
+
+[15:33:43]			4	yaya	MODE #coucou +i 
+
+[15:33:55]			4	yaya	JOIN #lol 
+
+[15:33:59]			4	yaya	MODE #lol +i 
+
+[15:34:06]			5	yoyo	JOIN #lol 
+
+[15:34:16]			4	yaya	INVITE yoyo #lol 
+
+[15:34:16]			6	lleciak	PING server 
+
+[15:34:19]			5	yoyo	JOIN #lol 
+
+[15:34:21]			5	yoyo	PRIVMSG #lol :cc 
+
+[15:34:28]			4	yaya	PING server 
+
+[15:34:34]			5	yoyo	PING server 
+
+[15:34:40]			5	yoyo	TOPIC #lol :youpi tralalala 
+
+[15:35:16]			4	yaya	MODE #lol +t 
+
+[15:35:17]			6	lleciak	PING server 
+
+[15:35:23]			5	yoyo	TOPIC #lol :AAAAAAAAAAh 
+
+[15:35:29]			4	yaya	PING server 
+
+[15:35:35]			5	yoyo	PING server 
+
+[15:35:45]			5	yoyo	JOIN #lol 
+
+[15:35:50]			5	yoyo	TOPIC #lol :AAAAAAAAAAh 
+
+[15:36:10]			4	yaya	TOPIC #lol :kikikikikiki 
+
+[15:36:16]			5	yoyo	JOIN #lol 
+
+[15:36:18]			6	lleciak	PING server 
+
+[15:36:20]			5	yoyo	PRIVMSG #lol :coucou 
+
+[15:36:23]			5	yoyo	PRIVMSG #lol :yoyoyoyoy 
+
+[15:36:30]			4	yaya	PING server 
+
+[15:36:33]			5	yoyo	TOPIC #lol :ehe 
+
+[15:36:36]			5	yoyo	PING server 
+
+[15:36:41]			5	yoyo	JOIN #lol 
+
+[15:36:53]		NEW CLIENT
+
+[15:36:53]			7	default	CAP LS 
+
+[15:36:53]			7	default	PASS mdp 
+
+[15:36:53]			7	default	NICK lleciak 
+
+[15:36:53]			7	default	USER lleciak lleciak localhost :Louise Leciak 
+
+[15:36:53]			7	default	MODE default +i 
+
+[15:36:53]			7	default	WHOIS lleciak 
+
+[15:36:53]			7	default	JOIN #42 
+
+[15:36:57]			7	default	PING server 
+
+[15:37:14]			5	yoyo	TOPIC #lol :ehe 
+
+[15:37:19]			6	lleciak	PING server 
+
+[15:37:31]			4	yaya	PING server 
+
+[15:37:37]			5	yoyo	PING server 
+
+[15:37:58]			7	default	PING server 
+
+[15:38:20]			6	lleciak	PING server 
+
+[15:38:32]			4	yaya	PING server 
+
+[15:38:38]			5	yoyo	PING server 
+
+[15:38:42]		NEW CLIENT
+
+[15:38:42]			8	default	CAP LS 
+
+[15:38:42]			8	default	PASS mdp 
+
+[15:38:42]			8	default	NICK lleciak 
+
+[15:38:42]			8	default	USER lleciak lleciak localhost :Louise Leciak 
+
+[15:38:42]			8	default	MODE default +i 
+
+[15:38:42]			8	default	WHOIS lleciak 
+
+[15:38:45]			6	lleciak	QUIT :leaving 
+
+[15:38:46]			8	default	PING server 
+
+[15:38:46]		NEW CLIENT
+
+[15:38:46]			6	default	CAP LS 
+
+[15:38:46]			6	default	PASS mdp 
+
+[15:38:46]			6	default	NICK lleciak 
+
+[15:38:46]			6	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[15:38:46]			6	lleciak	MODE default +i 
+
+[15:38:46]			6	lleciak	WHOIS lleciak 
+
+[15:38:46]			6	lleciak	MODE lleciak +i 
+
+[15:38:47]	✖️ SERVER  OFF
+
+[15:38:50]			6	lleciak	PING server 
+
+[15:38:51]			8	default	QUIT :leaving 
+
+[15:38:53]			6	lleciak	QUIT :leaving 
+
+[15:38:54]		NEW CLIENT
+
+[15:38:54]			6	default	CAP LS 
+
+[15:38:54]			6	default	PASS mdp 
+
+[15:38:54]			6	default	NICK lleciak 
+
+[15:38:54]			6	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[15:38:54]			6	lleciak	MODE default +i 
+
+[15:38:54]			6	lleciak	WHOIS lleciak 
+
+[15:38:54]			6	lleciak	MODE lleciak +i 
+
+[15:38:56]		NEW CLIENT
+
+[15:38:56]			8	default	CAP LS 
+
+[15:38:56]			8	default	PASS mdp 
+
+[15:38:56]			8	default	NICK lleciak 
+
+[15:38:56]			8	default	USER lleciak lleciak localhost :Louise Leciak 
+
+[15:38:56]			8	default	MODE default +i 
+
+[15:38:56]			8	default	WHOIS lleciak 
+
+[15:38:58]			6	lleciak	PING server 
+
+[15:38:59]			7	default	PING server 
+
+[15:39:00]			8	default	PING server 
+
+[15:39:05]		REMOVED CLIENT
+
+[15:39:05]		REMOVED CLIENT
+
+[15:39:05]		REMOVED CLIENT
+
+[15:39:05]		REMOVED CLIENT
+
+[15:39:05]		REMOVED CLIENT
+
+[15:39:05]	✖️ SERVER  OFF
+
+[15:39:13]	✅ SERVER  ON
+
+[15:39:22]		NEW CLIENT
+
+[15:39:22]			4	default	CAP LS 
+
+[15:39:22]			4	default	PASS mdp 
+
+[15:39:22]			4	default	NICK lleciak 
+
+[15:39:22]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[15:39:22]			4	lleciak	MODE default +i 
+
+[15:39:22]			4	lleciak	WHOIS lleciak 
+
+[15:39:22]			4	lleciak	MODE lleciak +i 
+
+[15:39:26]			4	lleciak	PING server 
+
+[15:39:26]		NEW CLIENT
+
+[15:39:26]			5	default	CAP LS 
+
+[15:39:26]			5	default	PASS mdp 
+
+[15:39:26]			5	default	NICK lleciak 
+
+[15:39:26]			5	lleciak_	USER lleciak lleciak localhost :Louise Leciak 
+
+[15:39:26]			5	lleciak_	MODE default +i 
+
+[15:39:26]			5	lleciak_	WHOIS lleciak 
+
+[15:39:26]			5	lleciak_	MODE lleciak_ +i 
+
+[15:39:26]			5	lleciak_	WHOIS lleciak 
+
+[15:39:31]			5	lleciak_	PING server 
+
+[15:39:32]			5	lleciak_	JOIN #42 
+
+[15:39:37]			5	lleciak_	MODE #42 +t 
+
+[15:40:13]			4	lleciak	JOIN #42 
+
+[15:40:18]			4	lleciak	TOPIC #42 :test 
+
+[15:40:27]			4	lleciak	PING server 
+
+[15:40:32]			5	lleciak_	PING server 
+
+[15:41:28]			4	lleciak	PING server 
+
+[15:41:33]			5	lleciak_	PING server 
+
+[15:42:29]			4	lleciak	PING server 
+
+[15:42:34]			5	lleciak_	PING server 
+
+[15:43:30]			4	lleciak	PING server 
+
+[15:43:35]			5	lleciak_	PING server 
+
+[15:43:54]		NEW CLIENT
+
+[15:43:54]			6	default	CAP LS 
+
+[15:43:54]			6	default	PASS mdp 
+
+[15:43:54]			6	default	NICK lleciak 
+
+[15:43:54]			6	default	USER lleciak lleciak localhost :Louise Leciak 
+
+[15:43:54]			6	default	MODE default +i 
+
+[15:43:54]			6	default	WHOIS lleciak 
+
+[15:43:56]		NEW CLIENT
+
+[15:43:56]			7	default	CAP LS 
+
+[15:43:56]			7	default	PASS mdp 
+
+[15:43:56]			7	default	NICK lleciak 
+
+[15:43:56]			7	default	USER lleciak lleciak localhost :Louise Leciak 
+
+[15:43:56]			7	default	MODE default +i 
+
+[15:43:56]			7	default	WHOIS lleciak 
+
+[15:43:58]			6	default	PING server 
+
+[15:44:00]			7	default	PING server 
+
+[15:44:06]		NEW CLIENT
+
+[15:44:06]			8	default	CAP LS 
+
+[15:44:06]			8	default	PASS mdp 
+
+[15:44:06]			8	default	NICK lleciak 
+
+[15:44:06]			8	default	USER lleciak lleciak localhost :Louise Leciak 
+
+[15:44:06]			8	default	MODE default +i 
+
+[15:44:06]			8	default	WHOIS lleciak 
+
+[15:44:10]			8	default	PING server 
+
+[15:44:31]			4	lleciak	PING server 
+
+[15:44:36]			5	lleciak_	PING server 
+
+[15:44:59]			6	default	PING server 
+
+[15:45:01]			7	default	PING server 
+
+[15:45:01]	✖️ SERVER  OFF
+
+[15:45:08]		REMOVED CLIENT
+
+[15:45:08]		REMOVED CLIENT
+
+[15:45:08]		REMOVED CLIENT
+
+[15:45:08]		REMOVED CLIENT
+
+[15:45:08]		REMOVED CLIENT
+
+[15:45:08]	✖️ SERVER  OFF
+
+[15:45:16]	✅ SERVER  ON
+
+[15:45:36]		NEW CLIENT
+
+[15:45:36]			4	default	CAP LS 
+
+[15:45:36]			4	default	PASS mdp 
+
+[15:45:36]			4	default	NICK lleciak 
+
+[15:45:36]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[15:45:36]			4	lleciak	MODE default +i 
+
+[15:45:36]			4	lleciak	WHOIS lleciak 
+
+[15:45:36]			4	lleciak	MODE lleciak +i 
+
+[15:45:37]		NEW CLIENT
+
+[15:45:37]			5	default	CAP LS 
+
+[15:45:37]			5	default	PASS mdp 
+
+[15:45:37]			5	default	NICK lleciak 
+
+[15:45:37]			5	lleciak_	USER lleciak lleciak localhost :Louise Leciak 
+
+[15:45:37]			5	lleciak_	MODE default +i 
+
+[15:45:37]			5	lleciak_	WHOIS lleciak 
+
+[15:45:37]			5	lleciak_	MODE lleciak_ +i 
+
+[15:45:37]			5	lleciak_	WHOIS lleciak 
+
+[15:45:40]			4	lleciak	PING server 
+
+[15:45:42]			5	lleciak_	PING server 
+
+[15:45:46]			4	lleciak	JOIN #42 
+
+[15:46:17]			4	lleciak	MODE #42 +t 
+
+[15:46:23]			5	lleciak_	JOIN #42 
+
+[15:46:28]			5	lleciak_	TOPIC #42 :test 
+
+[15:46:41]			4	lleciak	PING server 
+
+[15:46:43]			5	lleciak_	PING server 
+
+[15:47:34]		REMOVED CLIENT
+
+[15:47:34]		REMOVED CLIENT
+
+[15:47:34]	✖️ SERVER  OFF
+
+[15:47:43]	✅ SERVER  ON
+
+[15:47:48]		NEW CLIENT
+
+[15:47:48]			4	default	CAP LS 
+
+[15:47:48]			4	default	PASS mdp 
+
+[15:47:48]			4	default	NICK lleciak 
+
+[15:47:48]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[15:47:48]			4	lleciak	MODE default +i 
+
+[15:47:48]			4	lleciak	WHOIS lleciak 
+
+[15:47:48]			4	lleciak	MODE lleciak +i 
+
+[15:47:48]		NEW CLIENT
+
+[15:47:48]			5	default	CAP LS 
+
+[15:47:48]			5	default	PASS mdp 
+
+[15:47:48]			5	default	NICK lleciak 
+
+[15:47:48]			5	lleciak_	USER lleciak lleciak localhost :Louise Leciak 
+
+[15:47:48]			5	lleciak_	MODE default +i 
+
+[15:47:48]			5	lleciak_	WHOIS lleciak 
+
+[15:47:48]			5	lleciak_	MODE lleciak_ +i 
+
+[15:47:48]			5	lleciak_	WHOIS lleciak 
+
+[15:47:52]			4	lleciak	PING server 
+
+[15:47:53]			4	lleciak	JOIN #42 
+
+[15:47:53]			5	lleciak_	PING server 
+
+[15:47:57]			5	lleciak_	JOIN #42 
+
+[15:48:05]			4	lleciak	MODE #42 +t 
+
+[15:48:15]			5	lleciak_	TOPIC #42 :test 
+
+[15:48:53]			4	lleciak	PING server 
+
+[15:48:54]			5	lleciak_	PING server 
+
+[15:48:54]		NEW CLIENT
+
+[15:48:54]			6	default	CAP LS 
+
+[15:48:54]			6	default	PASS mdp 
+
+[15:48:54]			6	default	NICK lleciak 
+
+[15:48:54]			6	lleciak__	USER lleciak lleciak localhost :Louise Leciak 
+
+[15:48:54]			6	lleciak__	MODE default +i 
+
+[15:48:55]			6	lleciak__	WHOIS lleciak 
+
+[15:48:55]			6	lleciak__	MODE lleciak__ +i 
+
+[15:48:55]			6	lleciak__	WHOIS lleciak 
+
+[15:48:56]		NEW CLIENT
+
+[15:48:56]			7	default	CAP LS 
+
+[15:48:56]			7	default	PASS mdp 
+
+[15:48:56]			7	default	NICK lleciak 
+
+[15:48:56]			7	lleciak___	USER lleciak lleciak localhost :Louise Leciak 
+
+[15:48:56]			7	lleciak___	MODE default +i 
+
+[15:48:56]			7	lleciak___	WHOIS lleciak 
+
+[15:48:56]			7	lleciak___	MODE lleciak___ +i 
+
+[15:48:56]			7	lleciak___	WHOIS lleciak 
+
+[15:49:00]			6	lleciak__	PING server 
+
+[15:49:01]			7	lleciak___	PING server 
+
+[15:49:06]		NEW CLIENT
+
+[15:49:06]			8	default	CAP LS 
+
+[15:49:06]			8	default	PASS mdp 
+
+[15:49:06]			8	default	NICK lleciak 
+
+[15:49:06]			8	lleciak____	USER lleciak lleciak localhost :Louise Leciak 
+
+[15:49:06]			8	lleciak____	MODE default +i 
+
+[15:49:06]			8	lleciak____	WHOIS lleciak 
+
+[15:49:06]			8	lleciak____	MODE lleciak____ +i 
+
+[15:49:06]			8	lleciak____	WHOIS lleciak 
+
+[15:49:11]			8	lleciak____	PING server 
+
+[15:49:54]			4	lleciak	PING server 
+
+[15:49:55]			5	lleciak_	PING server 
+
+[15:50:01]			6	lleciak__	PING server 
+
+[15:50:02]			7	lleciak___	PING server 
+
+[15:50:12]			8	lleciak____	PING server 
+
+[15:50:24]			5	lleciak_	JOIN #42 
+
+[15:50:33]			5	lleciak_	NICK toto 
+
+[15:50:33]			5	toto	MODE lleciak_ +i 
+
+[15:50:33]			5	toto	WHOIS lleciak 
+
+[15:50:33]			5	toto	MODE toto +i 
+
+[15:50:33]			5	toto	WHOIS lleciak 
+
+[15:50:37]			4	lleciak	KICK #42 toto : 
+
+[15:50:46]			5	toto	JOIN #42 
+
+[15:50:51]			4	lleciak	KICK #42 toto :pcq 
+
+[15:50:55]			4	lleciak	PING server 
+
+[15:50:56]			5	toto	PING server 
+
+[15:51:02]			6	lleciak__	PING server 
+
+[15:51:03]			7	lleciak___	PING server 
+
+[15:51:13]			8	lleciak____	PING server 
+
+[15:51:22]		REMOVED CLIENT
+
+[15:51:22]		REMOVED CLIENT
+
+[15:51:22]		REMOVED CLIENT
+
+[15:51:22]		REMOVED CLIENT
+
+[15:51:22]		REMOVED CLIENT
+
+[15:51:22]	✖️ SERVER  OFF
+
+[15:51:45]	✅ SERVER  ON
+
+[15:51:51]		NEW CLIENT
+
+[15:51:51]			4	default	CAP LS 
+
+[15:51:51]			4	default	PASS mdp 
+
+[15:51:51]			4	default	NICK lleciak 
+
+[15:51:51]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[15:51:51]			4	lleciak	MODE default +i 
+
+[15:51:51]			4	lleciak	WHOIS lleciak 
+
+[15:51:51]			4	lleciak	MODE lleciak +i 
+
+[15:51:52]		NEW CLIENT
+
+[15:51:52]			5	default	CAP LS 
+
+[15:51:52]			5	default	PASS mdp 
+
+[15:51:52]			5	default	NICK lleciak 
+
+[15:51:52]			5	lleciak_	USER lleciak lleciak localhost :Louise Leciak 
+
+[15:51:52]			5	lleciak_	MODE default +i 
+
+[15:51:52]			5	lleciak_	WHOIS lleciak 
+
+[15:51:52]			5	lleciak_	MODE lleciak_ +i 
+
+[15:51:52]			5	lleciak_	WHOIS lleciak 
+
+[15:51:55]			4	lleciak	PING server 
+
+[15:51:57]			5	lleciak_	PING server 
+
+[15:51:57]			5	lleciak_	NICK toto 
+
+[15:51:57]			5	toto	MODE lleciak_ +i 
+
+[15:51:58]			5	toto	WHOIS lleciak 
+
+[15:51:58]			5	toto	MODE toto +i 
+
+[15:52:00]			5	toto	WHOIS lleciak 
+
+[15:52:05]			4	lleciak	JOIN #42 
+
+[15:52:08]			5	toto	JOIN #42 
+
+[15:52:20]			4	lleciak	KICK #42 toto :pcq 
+
+[15:52:56]			4	lleciak	PING server 
+
+[15:52:58]			5	toto	PING server 
+
+[15:53:14]		REMOVED CLIENT
+
+[15:53:14]		REMOVED CLIENT
+
+[15:53:14]	✖️ SERVER  OFF
+
+[15:53:22]	✅ SERVER  ON
+
+[15:53:25]		NEW CLIENT
+
+[15:53:25]			4	default	CAP LS 
+
+[15:53:25]			4	default	PASS mdp 
+
+[15:53:25]			4	default	NICK lleciak 
+
+[15:53:25]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[15:53:25]			4	lleciak	MODE default +i 
+
+[15:53:25]			4	lleciak	WHOIS lleciak 
+
+[15:53:25]			4	lleciak	MODE lleciak +i 
+
+[15:53:29]		NEW CLIENT
+
+[15:53:29]			5	default	CAP LS 
+
+[15:53:29]			5	default	PASS mdp 
+
+[15:53:29]			5	default	NICK lleciak 
+
+[15:53:29]			5	lleciak_	USER lleciak lleciak localhost :Louise Leciak 
+
+[15:53:29]			5	lleciak_	MODE default +i 
+
+[15:53:29]			5	lleciak_	WHOIS lleciak 
+
+[15:53:29]			5	lleciak_	MODE lleciak_ +i 
+
+[15:53:29]			5	lleciak_	WHOIS lleciak 
+
+[15:53:29]			4	lleciak	PING server 
+
+[15:53:34]			4	lleciak	JOIN #42 
+
+[15:53:34]			5	lleciak_	PING server 
+
+[15:53:36]			5	lleciak_	JOIN #42 
+
+[15:54:12]			4	lleciak	KICK #42 lleciak :pcq 
+
+[15:54:30]			4	lleciak	PING server 
+
+[15:54:34]			4	lleciak	JOIN #42 
+
+[15:54:35]			5	lleciak_	PING server 
+
+[15:54:45]			5	lleciak_	KICK #42 lleciak : 
+
+[15:55:01]			4	lleciak	PRIVMSG cc :cc cc cc 
+
+[15:55:14]			4	lleciak	MODE #42 +i 
+
+[15:55:21]			5	lleciak_	JOIN #42 
+
+[15:55:31]			4	lleciak	PING server 
+
+[15:55:36]			5	lleciak_	PING server 
+
+[15:56:32]			4	lleciak	PING server 
+
+[15:56:37]			5	lleciak_	PING server 
+
+[15:57:33]			4	lleciak	PING server 
+
+[15:57:38]			5	lleciak_	PING server 
+
+[15:58:34]			4	lleciak	PING server 
+
+[15:58:39]			5	lleciak_	PING server 
+
+[15:59:34]			4	lleciak	QUIT :leaving 
+
+[15:59:37]			5	lleciak_	QUIT :leaving 
+
+[15:59:38]	✖️ SERVER  OFF
+
+[15:59:47]	✅ SERVER  ON
+
+[15:59:53]		NEW CLIENT
+
+[15:59:53]			4	default	CAP LS 
+
+[15:59:53]			4	default	PASS mdp 
+
+[15:59:53]			4	default	NICK lleciak 
+
+[15:59:53]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[15:59:53]			4	lleciak	MODE default +i 
+
+[15:59:53]			4	lleciak	WHOIS lleciak 
+
+[15:59:53]			4	lleciak	MODE lleciak +i 
+
+[15:59:54]		NEW CLIENT
+
+[15:59:54]			5	default	CAP LS 
+
+[15:59:54]			5	default	PASS mdp 
+
+[15:59:54]			5	default	NICK lleciak 
+
+[15:59:54]			5	lleciak_	USER lleciak lleciak localhost :Louise Leciak 
+
+[15:59:54]			5	lleciak_	MODE default +i 
+
+[15:59:54]			5	lleciak_	WHOIS lleciak 
+
+[15:59:54]			5	lleciak_	MODE lleciak_ +i 
+
+[15:59:54]			5	lleciak_	WHOIS lleciak 
+
+[15:59:57]			4	lleciak	PING server 
+
+[15:59:58]			4	lleciak	JOIN #42 
+
+[15:59:59]			5	lleciak_	PING server 
+
+[16:00:00]			5	lleciak_	JOIN #42 
+
+[16:00:05]			5	lleciak_	NICK toto 
+
+[16:00:05]			5	toto	MODE lleciak_ +i 
+
+[16:00:05]			5	toto	WHOIS lleciak 
+
+[16:00:05]			5	toto	MODE toto +i 
+
+[16:00:05]			5	toto	WHOIS lleciak 
+
+[16:00:08]			4	lleciak	KICK #42 toto : 
+
+[16:00:22]			4	lleciak	KICK #42 toto : 
+
+[16:00:46]			4	lleciak	KICK #42 toto :test 
+
+[16:00:58]			4	lleciak	PING server 
+
+[16:01:00]			5	toto	PING server 
+
+[16:01:59]			4	lleciak	PING server 
+
+[16:02:01]			5	toto	PING server 
+
+[16:03:00]			4	lleciak	PING server 
+
+[16:03:02]			5	toto	PING server 
+
+[16:03:34]		REMOVED CLIENT
+
+[16:03:34]		REMOVED CLIENT
+
+[16:03:34]	✖️ SERVER  OFF
+
+[16:04:13]	✅ SERVER  ON
+
+[16:04:16]		NEW CLIENT
+
+[16:04:16]			4	default	CAP LS 
+
+[16:04:16]			4	default	PASS mdp 
+
+[16:04:16]			4	default	NICK lleciak 
+
+[16:04:16]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[16:04:16]			4	lleciak	MODE default +i 
+
+[16:04:16]			4	lleciak	WHOIS lleciak 
+
+[16:04:16]			4	lleciak	MODE lleciak +i 
+
+[16:04:17]		NEW CLIENT
+
+[16:04:17]			5	default	CAP LS 
+
+[16:04:17]			5	default	PASS mdp 
+
+[16:04:17]			5	default	NICK lleciak 
+
+[16:04:17]			5	lleciak_	USER lleciak lleciak localhost :Louise Leciak 
+
+[16:04:17]			5	lleciak_	MODE default +i 
+
+[16:04:17]			5	lleciak_	WHOIS lleciak 
+
+[16:04:17]			5	lleciak_	MODE lleciak_ +i 
+
+[16:04:17]			5	lleciak_	WHOIS lleciak 
+
+[16:04:20]			5	lleciak_	JOIN #42 
+
+[16:04:20]			4	lleciak	PING server 
+
+[16:04:23]			4	lleciak	JOIN #42 
+
+[16:04:24]			5	lleciak_	PING server 
+
+[16:04:26]			4	lleciak	NICK toto 
+
+[16:04:26]			4	toto	MODE lleciak +i 
+
+[16:04:26]			4	toto	MODE toto +i 
+
+[16:04:26]			4	toto	WHOIS lleciak 
+
+[16:04:31]			5	lleciak_	KICK #42 toto : 
+
+[16:05:13]		REMOVED CLIENT
+
+[16:05:13]		REMOVED CLIENT
+
+[16:05:13]	✖️ SERVER  OFF
+
+[16:05:22]	✅ SERVER  ON
+
+[16:05:30]		NEW CLIENT
+
+[16:05:30]			4	default	CAP LS 
+
+[16:05:30]			4	default	PASS mdp 
+
+[16:05:30]			4	default	NICK lleciak 
+
+[16:05:30]			4	lleciak	USER lleciak lleciak localhost :Louise Leciak 
+
+[16:05:30]			4	lleciak	MODE default +i 
+
+[16:05:30]			4	lleciak	WHOIS lleciak 
+
+[16:05:30]			4	lleciak	MODE lleciak +i 
+
+[16:05:32]		NEW CLIENT
+
+[16:05:32]			5	default	CAP LS 
+
+[16:05:32]			5	default	PASS mdp 
+
+[16:05:32]			5	default	NICK lleciak 
+
+[16:05:32]			5	lleciak_	USER lleciak lleciak localhost :Louise Leciak 
+
+[16:05:32]			5	lleciak_	MODE default +i 
+
+[16:05:32]			5	lleciak_	WHOIS lleciak 
+
+[16:05:32]			5	lleciak_	MODE lleciak_ +i 
+
+[16:05:32]			5	lleciak_	WHOIS lleciak 
+
+[16:05:34]			4	lleciak	PING server 
+
+[16:05:35]			5	lleciak_	JOIN #42 
+
+[16:05:39]			4	lleciak	NICK toto 
+
+[16:05:39]			4	toto	MODE lleciak +i 
+
+[16:05:39]			4	toto	MODE toto +i 
+
+[16:05:39]			4	toto	WHOIS lleciak 
+
+[16:05:40]			5	lleciak_	PING server 
+
+[16:05:42]			4	toto	JOIN #42 
+
+[16:05:52]			5	lleciak_	KICK #42 toto :pcq 
+
+[16:06:02]			4	toto	JOIN #42 
+
+[16:06:05]			5	lleciak_	KICK #42 toto : 
+
+[16:06:35]			4	toto	PING server 
+
+[16:06:41]			4	toto	JOIN #42 
+
+[16:06:41]			5	lleciak_	PING server 
+
+[16:06:56]			4	toto	KICK #42 lleciak_ : 
+
+[16:07:36]			4	toto	PING server 
+
+[16:07:42]			5	lleciak_	PING server 
+
+[16:08:37]			4	toto	PING server 
+
+[16:08:43]			5	lleciak_	PING server 
+
+[16:09:37]			4	toto	JOIN #42 
+
+[16:09:40]			4	toto	PING server 
+
+[16:09:44]			5	lleciak_	PING server 
+
+[16:10:17]			4	toto	KICK #42 lleciak_ : 
+
+[16:10:41]			4	toto	PING server 
+
+[16:10:45]			5	lleciak_	PING server 
+
+[16:11:42]			4	toto	PING server 
+
+[16:11:46]			5	lleciak_	PING server 
+
+[16:12:43]			4	toto	PING server 
+
+[16:12:47]			5	lleciak_	PING server 
+
+[16:13:44]			4	toto	PING server 
+
+[16:13:48]			5	lleciak_	PING server 
+
+[16:14:45]			4	toto	PING server 
+
+[16:14:49]			5	lleciak_	PING server 
+
+[16:15:46]			4	toto	PING server 
+
+[16:15:50]			5	lleciak_	PING server 
+
+[16:16:47]			4	toto	PING server 
+
+[16:16:51]			5	lleciak_	PING server 
+
+[16:17:48]			4	toto	PING server 
+
+[16:17:52]			5	lleciak_	PING server 
+
+[16:18:49]			4	toto	PING server 
+
+[16:18:53]			5	lleciak_	PING server 
+
+[16:19:50]			4	toto	PING server 
+
+[16:19:54]			5	lleciak_	PING server 
+
+[16:20:51]			4	toto	PING server 
+
+[16:20:55]			5	lleciak_	PING server 
+
+[16:21:52]			4	toto	PING server 
+
+[16:21:56]			5	lleciak_	PING server 
+
+[16:22:53]			4	toto	PING server 
+
+[16:22:57]			5	lleciak_	PING server 
+
+[16:23:54]			4	toto	PING server 
+
+[16:23:58]			5	lleciak_	PING server 
+
+[16:24:55]			4	toto	PING server 
+
+[16:24:59]			5	lleciak_	PING server 
+
+[16:25:56]			4	toto	PING server 
+
+[16:26:00]			5	lleciak_	PING server 
+
+[16:26:57]			4	toto	PING server 
+
+[16:27:01]			5	lleciak_	PING server 
+
+[16:27:58]			4	toto	PING server 
+
+[16:28:02]			5	lleciak_	PING server 
+
+[16:28:59]			4	toto	PING server 
+
+[16:29:03]			5	lleciak_	PING server 
+
+[16:30:00]			4	toto	PING server 
+
+[16:30:04]			5	lleciak_	PING server 
+
+[16:31:01]			4	toto	PING server 
+
+[16:31:05]			5	lleciak_	PING server 
+
+[16:32:02]			4	toto	PING server 
+
+[16:32:06]			5	lleciak_	PING server 
+
+[16:33:03]			4	toto	PING server 
+
+[16:33:07]			5	lleciak_	PING server 
+
+[16:34:04]			4	toto	PING server 
+
+[16:34:08]			5	lleciak_	PING server 
+
+[16:35:05]			4	toto	PING server 
+
+[16:35:09]			5	lleciak_	PING server 
+
+[16:36:06]			4	toto	PING server 
+
+[16:36:10]			5	lleciak_	PING server 
+
+[16:37:07]			4	toto	PING server 
+
+[16:37:11]			5	lleciak_	PING server 
+
+[16:38:08]			4	toto	PING server 
+
+[16:38:12]			5	lleciak_	PING server 
+
+[16:39:09]			4	toto	PING server 
+
+[16:39:13]			5	lleciak_	PING server 
+
+[16:40:10]			4	toto	PING server 
+
+[16:40:14]			5	lleciak_	PING server 
+
+[16:41:11]			4	toto	PING server 
+
+[16:41:15]			5	lleciak_	PING server 
+
+[16:42:12]			4	toto	PING server 
+
+[16:42:16]			5	lleciak_	PING server 
+
+[16:43:13]			4	toto	PING server 
+
+[16:43:17]			5	lleciak_	PING server 
+
+[16:44:14]			4	toto	PING server 
+
+[16:44:18]			5	lleciak_	PING server 
+
+[16:45:15]			4	toto	PING server 
+
+[16:45:19]			5	lleciak_	PING server 
+
+[16:46:16]			4	toto	PING server 
+
+[16:46:20]			5	lleciak_	PING server 
+
+[16:47:17]			4	toto	PING server 
+
+[16:47:21]			5	lleciak_	PING server 
+
+[16:48:18]			4	toto	PING server 
+
+[16:48:22]			5	lleciak_	PING server 
+
+[16:49:19]			4	toto	PING server 
+
+[16:49:23]			5	lleciak_	PING server 
+
+[16:50:20]			4	toto	PING server 
+
+[16:50:24]			5	lleciak_	PING server 
+
+[16:51:21]			4	toto	PING server 
+
+[16:51:25]			5	lleciak_	PING server 
+
+[16:52:22]			4	toto	PING server 
+
+[16:52:26]			5	lleciak_	PING server 
+
+[16:53:23]			4	toto	PING server 
+
+[16:53:27]			5	lleciak_	PING server 
+
+[16:54:24]			4	toto	PING server 
+
+[16:54:28]			5	lleciak_	PING server 
+
+[16:55:25]			4	toto	PING server 
+
+[16:55:29]			5	lleciak_	PING server 
+
+[16:56:26]			4	toto	PING server 
+
+[16:56:30]			5	lleciak_	PING server 
+
+[16:57:27]			4	toto	PING server 
+
+[16:57:31]			5	lleciak_	PING server 
+
+[16:58:28]			4	toto	PING server 
+
+[16:58:32]			5	lleciak_	PING server 
+
+[16:59:29]			4	toto	PING server 
+
+[16:59:33]			5	lleciak_	PING server 
+
+[17:00:30]			4	toto	PING server 
+
+[17:00:34]			5	lleciak_	PING server 
+
+[17:01:31]			4	toto	PING server 
+
+[17:01:35]			5	lleciak_	PING server 
+
+[17:02:32]			4	toto	PING server 
+
+[17:02:36]			5	lleciak_	PING server 
+
+[17:03:33]			4	toto	PING server 
+
+[17:03:37]			5	lleciak_	PING server 
+
+[17:04:34]			4	toto	PING server 
+
+[17:04:38]			5	lleciak_	PING server 
+
+[17:05:35]			4	toto	PING server 
+
+[17:05:39]			5	lleciak_	PING server 
+
+[17:06:36]			4	toto	PING server 
+
+[17:06:40]			5	lleciak_	PING server 
+
+[17:07:37]			4	toto	PING server 
+
+[17:07:41]			5	lleciak_	PING server 
+
+[17:08:38]			4	toto	PING server 
+
+[17:08:42]			5	lleciak_	PING server 
+
+[17:09:39]			4	toto	PING server 
+
+[17:09:43]			5	lleciak_	PING server 
+
+[17:10:40]			4	toto	PING server 
+
+[17:10:44]			5	lleciak_	PING server 
+
+[17:11:41]			4	toto	PING server 
+
+[17:11:45]			5	lleciak_	PING server 
+
+[17:12:42]			4	toto	PING server 
+
+[17:12:46]			5	lleciak_	PING server 
+
+[17:13:43]			4	toto	PING server 
+
+[17:13:47]			5	lleciak_	PING server 
+
+[17:14:44]			4	toto	PING server 
+
+[17:14:48]			5	lleciak_	PING server 
+
+[17:15:45]			4	toto	PING server 
+
+[17:15:49]			5	lleciak_	PING server 
+
+[17:16:46]			4	toto	PING server 
+
+[17:16:50]			5	lleciak_	PING server 
+
+[17:17:47]			4	toto	PING server 
+
+[17:17:51]			5	lleciak_	PING server 
+
+[17:18:48]			4	toto	PING server 
+
+[17:18:52]			5	lleciak_	PING server 
+
+[17:19:49]			4	toto	PING server 
+
+[17:19:53]			5	lleciak_	PING server 
+
+[17:20:50]			4	toto	PING server 
+
+[17:20:54]			5	lleciak_	PING server 
+
+[17:21:51]			4	toto	PING server 
+
+[17:21:55]			5	lleciak_	PING server 
+
+[17:22:52]			4	toto	PING server 
+
+[17:22:56]			5	lleciak_	PING server 
+
+[17:23:53]			4	toto	PING server 
+
+[17:23:57]			5	lleciak_	PING server 
+
+[17:24:54]			4	toto	PING server 
+
+[17:24:58]			5	lleciak_	PING server 
+
+[17:25:55]			4	toto	PING server 
+
+[17:25:59]			5	lleciak_	PING server 
+
+[17:26:56]			4	toto	PING server 
+
+[17:27:00]			5	lleciak_	PING server 
+
+[17:27:57]			4	toto	PING server 
+
+[17:28:01]			5	lleciak_	PING server 
+
+[17:28:58]			4	toto	PING server 
+
+[17:29:02]			5	lleciak_	PING server 
+
+[17:29:59]			4	toto	PING server 
+
+[17:30:03]			5	lleciak_	PING server 
+
+[17:31:00]			4	toto	PING server 
+
+[17:31:04]			5	lleciak_	PING server 
+
+[17:32:01]			4	toto	PING server 
+
+[17:32:05]			5	lleciak_	PING server 
+
+[17:33:02]			4	toto	PING server 
+
+[17:33:06]			5	lleciak_	PING server 
+
+[17:34:03]			4	toto	PING server 
+
+[17:34:07]			5	lleciak_	PING server 
+
+[17:35:04]			4	toto	PING server 
+
+[17:35:08]			5	lleciak_	PING server 
+
+[17:36:05]			4	toto	PING server 
+
+[17:36:09]			5	lleciak_	PING server 
+
+[17:37:06]			4	toto	PING server 
+
+[17:37:10]			5	lleciak_	PING server 
+
+[17:38:07]			4	toto	PING server 
+
+[17:38:11]			5	lleciak_	PING server 
+
+[17:39:08]			4	toto	PING server 
+
+[17:39:12]			5	lleciak_	PING server 
+
+[17:40:09]			4	toto	PING server 
+
+[17:40:13]			5	lleciak_	PING server 
+
+[17:41:10]			4	toto	PING server 
+
+[17:41:14]			5	lleciak_	PING server 
+
+[17:42:11]			4	toto	PING server 
+
+[17:42:15]			5	lleciak_	PING server 
+
+[17:43:12]			4	toto	PING server 
+
+[17:43:16]			5	lleciak_	PING server 
+
+[17:44:13]			4	toto	PING server 
+
+[17:44:17]			5	lleciak_	PING server 
+
+[17:45:14]			4	toto	PING server 
+
+[17:45:18]			5	lleciak_	PING server 
+
+[17:46:15]			4	toto	PING server 
+
+[17:46:19]			5	lleciak_	PING server 
+
+[17:47:16]			4	toto	PING server 
+
+[17:47:20]			5	lleciak_	PING server 
+
+[17:48:17]			4	toto	PING server 
+
+[17:48:21]			5	lleciak_	PING server 
+
+[17:49:18]			4	toto	PING server 
+
+[17:49:22]			5	lleciak_	PING server 
+
+[17:50:19]			4	toto	PING server 
+
+[17:50:23]			5	lleciak_	PING server 
+
+[17:51:20]			4	toto	PING server 
+
+[17:51:24]			5	lleciak_	PING server 
+
+[17:52:21]			4	toto	PING server 
+
+[17:52:25]			5	lleciak_	PING server 
+
+[17:53:22]			4	toto	PING server 
+
+[17:53:26]			5	lleciak_	PING server 
+
+[17:54:23]			4	toto	PING server 
+
+[17:54:27]			5	lleciak_	PING server 
+
+[17:55:24]			4	toto	PING server 
+
+[17:55:28]			5	lleciak_	PING server 
+
+[17:56:25]			4	toto	PING server 
+
+[17:56:29]			5	lleciak_	PING server 
+
+[17:57:26]			4	toto	PING server 
+
+[17:57:30]			5	lleciak_	PING server 
+
+[17:58:27]			4	toto	PING server 
+
+[17:58:31]			5	lleciak_	PING server 
+
+[17:59:28]			4	toto	PING server 
+
+[17:59:32]			5	lleciak_	PING server 
+
+[18:00:29]			4	toto	PING server 
+
+[18:00:33]			5	lleciak_	PING server 
+
+[18:01:30]			4	toto	PING server 
+
+[18:01:34]			5	lleciak_	PING server 
+
+[18:02:31]			4	toto	PING server 
+
+[18:02:35]			5	lleciak_	PING server 
+
+[18:03:32]			4	toto	PING server 
+
+[18:03:36]			5	lleciak_	PING server 
+
+[18:04:33]			4	toto	PING server 
+
+[18:04:37]			5	lleciak_	PING server 
+
+[18:05:34]			4	toto	PING server 
+
+[18:05:38]			5	lleciak_	PING server 
+
+[18:06:35]			4	toto	PING server 
+
+[18:06:39]			5	lleciak_	PING server 
+
+[18:07:36]			4	toto	PING server 
+
+[18:07:40]			5	lleciak_	PING server 
+
+[18:08:37]			4	toto	PING server 
+
+[18:08:41]			5	lleciak_	PING server 
+
+[18:09:38]			4	toto	PING server 
+
+[18:09:42]			5	lleciak_	PING server 
+
+[18:10:39]			4	toto	PING server 
+
+[18:10:43]			5	lleciak_	PING server 
+
+[18:11:40]			4	toto	PING server 
+
+[18:11:44]			5	lleciak_	PING server 
+
+[18:12:41]			4	toto	PING server 
+
+[18:12:45]			5	lleciak_	PING server 
+
+[18:13:42]			4	toto	PING server 
+
+[18:13:46]			5	lleciak_	PING server 
+
+[18:14:43]			4	toto	PING server 
+
+[18:14:47]			5	lleciak_	PING server 
+
+[18:15:44]			4	toto	PING server 
+
+[18:15:48]			5	lleciak_	PING server 
+
+[18:15:50]		REMOVED CLIENT
+
+[18:15:50]		REMOVED CLIENT
+
+[18:15:50]	✖️ SERVER  OFF
+
